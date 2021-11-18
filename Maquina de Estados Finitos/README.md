@@ -9,6 +9,9 @@
 # Laboratórios
 
 1. [Introdução a Máquina de Estados Finitos](https://colab.research.google.com/drive/19Xh-OmJC0g_Q80evlzNJ1CKNXwR--PI0?usp=sharing)
+## Material Complementar
+* [Playlist de Vídeo de 2020/21](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kvCM9UgFxOmSUlMuzBei6Q)
+* [Colab com solução do Amarelo Pisca três vezes](https://colab.research.google.com/drive/1CCeYejcOJkLq2t0F92sGssm6ee31Hbd9?usp=sharing)
 
 
 # Material Complementar
