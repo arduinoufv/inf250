@@ -1,11 +1,16 @@
 # Representação de Ponto Flutuante Simplificada do IEEE 754
 
-1. [Slides - Revisão de Complemento de 2](https://github.com/arduinoufv/inf250/blob/master/download/codificacao_1.pdf)
-2. [Slides - Introdução a representação Float Simplificada](https://github.com/arduinoufv/inf250/blob/master/download/float.pdf)
-3. [Exercicio de Multiplicação](https://github.com/arduinoufv/inf250/blob/master/download/floatMultiplicacao.pdf)
-4. [Apostila de Ponto Flutuante](https://github.com/arduinoufv/inf250/blob/master/download/apostila_float.pdf)
-5. [Video Aula das Turmas 1 e 2 de 2020/21](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kPtUVoUJZtbH3l31TfDhSC)
+* [Conversor para IEEE 754](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+
+1. [Video Aula das Turmas 1 e 2 de 2020/21](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kPtUVoUJZtbH3l31TfDhSC)
     * Explicações da representação, da conversão decimal para Float simplificado e vice-versa, adição e multiplicação
+2. [Slides - Revisão de Complemento de 2](https://github.com/arduinoufv/inf250/blob/master/download/codificacao_1.pdf)
+3. [Slides - Introdução a representação Float Simplificada](https://github.com/arduinoufv/inf250/blob/master/download/float.pdf)
+4. [Exercicio de Multiplicação](https://github.com/arduinoufv/inf250/blob/master/download/floatMultiplicacao.pdf)
+5. [Apostila de Ponto Flutuante](https://github.com/arduinoufv/inf250/blob/master/download/apostila_float.pdf)
+6. [Exemplo de exercício de Ponto Flutuante de 2020/21](https://github.com/arduinoufv/inf250/blob/master/download/Exercicio_float_cod_soma_mul.pdf)
+
+
 # Material Adicional
 
 * [Exercicio de Somador em Verilog](https://github.com/arduinoufv/inf250/blob/master/download/exerc_float_verilog.pdf)
