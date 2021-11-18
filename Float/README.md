@@ -1,4 +1,4 @@
-# Representação de Ponto Flutuante Simplificada do IEEE 754
+# 1. Representação de Ponto Flutuante Simplificada do IEEE 754
 
 * [Conversor para IEEE 754](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
 
@@ -8,10 +8,15 @@
 3. [Slides - Introdução a representação Float Simplificada](https://github.com/arduinoufv/inf250/blob/master/download/float.pdf)
 4. [Exercicio de Multiplicação](https://github.com/arduinoufv/inf250/blob/master/download/floatMultiplicacao.pdf)
 5. [Apostila de Ponto Flutuante](https://github.com/arduinoufv/inf250/blob/master/download/apostila_float.pdf)
-6. [Exemplo de exercício de Ponto Flutuante de 2020/21](https://github.com/arduinoufv/inf250/blob/master/download/Exercicio_float_cod_soma_mul.pdf)
 
+# 2. Atividades 
+
+2. [Exemplo de exercício de Ponto Flutuante de 2020/21](https://github.com/arduinoufv/inf250/blob/master/download/Exercicio_float_cod_soma_mul.pdf)
+3. [Colab do Trabalho 1 de 2020/21 - Resolvido](https://colab.research.google.com/drive/1GuH6WhV3wfaFKsior-RqeZZ9OYvwIfdD?usp=sharing)
 
 # Material Adicional
+
+* [Explicações em Video do Trabalho de 2020/21](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kfu7FT7CTqWA1COZ5T3uQM)
 
 * [Exercicio de Somador em Verilog](https://github.com/arduinoufv/inf250/blob/master/download/exerc_float_verilog.pdf)
 
