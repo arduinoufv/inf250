@@ -5,9 +5,9 @@ Disciplina em 2021
 
 # Organização
 
-## 1. Números de Ponto FLutuante  (22 a 26 Novembro)
-### 1. Representação
-### 2. Adiçãoe e  Multiplicação
+## 1. Números de Ponto Flutuante  (22 a 26 Novembro)
+### 1. [Representação](https://github.com/arduinoufv/inf250/tree/master/Float#1-representa%C3%A7%C3%A3o-de-ponto-flutuante-simplificada-do-ieee-754)
+### 2. [Adiçãoe e  Multiplicação](https://github.com/arduinoufv/inf250/tree/master/Float#1-representa%C3%A7%C3%A3o-de-ponto-flutuante-simplificada-do-ieee-754)
 ## 2. Maquinas de Estados Finitos (29 Nov a 9 Dezembro)
 ### 1. Introdução Moore, Mealy, Diagrama, Tabela, Memória e Portas
 ### 2. Exemplo com Maquina de Vendas, Detector de Triplas
