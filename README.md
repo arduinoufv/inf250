@@ -1,5 +1,7 @@
 # inf250
-Organizaçao de Computadores - UFV - INF250 [slide](https://excalidraw.com/#json=lxkRqRt4C_q_QTG34B07x,KQ6PQ1XiF9tY5UOHjkEzeA) 
+Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.com/#json=lxkRqRt4C_q_QTG34B07x,KQ6PQ1XiF9tY5UOHjkEzeA) 
+* [Avaliação e Livros]() 
+* [Livro Risc-V](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
 
 Disciplina em 2021
 
