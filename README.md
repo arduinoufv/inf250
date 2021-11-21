@@ -1,5 +1,5 @@
 # inf250
-Organizaçao de Computadores - UFV - INF250
+Organizaçao de Computadores - UFV - INF250 [slide](https://excalidraw.com/#json=lxkRqRt4C_q_QTG34B07x,KQ6PQ1XiF9tY5UOHjkEzeA) 
 
 Disciplina em 2021
 
