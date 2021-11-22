@@ -3,6 +3,7 @@ Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.
 * [Play list de Apresentação da Disciplina](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lWlc-LhWJM3s-0ObMkf9RH)
 * [Avaliação e Livros](https://excalidraw.com/#json=YOgjaecgecMIgHxw4CG-g,we2bXPtcI1YnimME71oYQg) 
 * [Livro Risc-V](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
+  * Capitulos 2,4, seção 3.5 Float e Apendice A; 
 
 Disciplina em 2021
 
