@@ -2,7 +2,7 @@
 
 * [Conversor para IEEE 754](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
 
-1. [Video Aula de 2021/2]() 
+1. [Video Aula de 2021/2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kl8KV71SCe3DO0sE6O_Jhf) 
     * Ano Anterior para consulta [Video Aula das Turmas 1 e 2 de 2020/21](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kPtUVoUJZtbH3l31TfDhSC)
     * Explicações da representação, da conversão decimal para Float simplificado e vice-versa, adição e multiplicação
 2. [Slides - Revisão de Complemento de 2](https://github.com/arduinoufv/inf250/blob/master/download/codificacao_1.pdf)
