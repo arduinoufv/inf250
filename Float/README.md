@@ -6,6 +6,7 @@
     * Explicações da representação, da conversão decimal para Float simplificado e vice-versa, adição e multiplicação
 2. [Slides - Revisão de Complemento de 2](https://github.com/arduinoufv/inf250/blob/master/download/codificacao_1.pdf)
 3. [Slides - Introdução a representação Float Simplificada](https://github.com/arduinoufv/inf250/blob/master/download/float.pdf)
+    * [Exemplo do número 3 (conversão binário -> float)](https://excalidraw.com/#json=IwTU4SEiAh1qurme-rYII,Plm8_3n_wizxwidjtDYp9A) 
 4. [Exercicio de Multiplicação](https://github.com/arduinoufv/inf250/blob/master/download/floatMultiplicacao.pdf)
 5. [Apostila de Ponto Flutuante](https://github.com/arduinoufv/inf250/blob/master/download/apostila_float.pdf)
 
