@@ -13,7 +13,7 @@ Disciplina em 2021
 ### 2. [Adição e  Multiplicação](https://github.com/arduinoufv/inf250/tree/master/Float#1-representa%C3%A7%C3%A3o-de-ponto-flutuante-simplificada-do-ieee-754)
 ## 2. Maquinas de Estados Finitos (29 Nov a 9 Dezembro)
 ### 1. [Introdução Moore, Mealy, Diagrama, Tabela, Memória e Portas](https://github.com/arduinoufv/inf250/tree/master/Maquina%20de%20Estados%20Finitos#maquina-de-estados-finitos)
-### 2. Exemplo com Maquina de Vendas, Detector de Triplas
+### 2. [Laboratório e Trabalho com Maquina de Vendas, Detector de Triplas](https://colab.research.google.com/drive/1p0GiBjguFy-Spj5dZd1AL8iGx2WoO3Fm?usp=sharing)
 ### 3. Exemplos com Contadores
 ### 4. Exemplos com Relógios e Cronometros
 ## 3. Assembler RiscV (13 a 23 Dezembro)
