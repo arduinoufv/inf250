@@ -2,12 +2,14 @@
 
 * [Conversor para IEEE 754](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
 
-1. [Video Aula das Turmas 1 e 2 de 2020/21](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kPtUVoUJZtbH3l31TfDhSC)
+1. [Video Aula de 2021/2]() 
+    * Ano Anterior para consulta [Video Aula das Turmas 1 e 2 de 2020/21](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kPtUVoUJZtbH3l31TfDhSC)
     * Explicações da representação, da conversão decimal para Float simplificado e vice-versa, adição e multiplicação
 2. [Slides - Revisão de Complemento de 2](https://github.com/arduinoufv/inf250/blob/master/download/codificacao_1.pdf)
 3. [Slides - Introdução a representação Float Simplificada](https://github.com/arduinoufv/inf250/blob/master/download/float.pdf)
     * [Exemplo do número 3 (conversão binário -> float)](https://excalidraw.com/#json=ThDTJc-WLtJGrfPTOPnJr,kZmX1bOD0YpJdIB0xaaRdQ) 
     * [Exemplo do numero 1.7 convertendo para binário](https://excalidraw.com/#json=_BswoSwdBUj0DHYSujUtH,eO7PGC3_ZArxkw06SktwOA)
+    * [Exemplo do numero 0.3 convertendo para binario](https://excalidraw.com/#json=Et7uflMZQFQHkAs_tTtUD,d6P-UPS5D9B0SGH_2xnK7g)
 4. [Exercicio de Multiplicação](https://github.com/arduinoufv/inf250/blob/master/download/floatMultiplicacao.pdf)
 5. [Apostila de Ponto Flutuante](https://github.com/arduinoufv/inf250/blob/master/download/apostila_float.pdf)
 
