@@ -7,6 +7,7 @@
 2. [Slides - Revisão de Complemento de 2](https://github.com/arduinoufv/inf250/blob/master/download/codificacao_1.pdf)
 3. [Slides - Introdução a representação Float Simplificada](https://github.com/arduinoufv/inf250/blob/master/download/float.pdf)
     * [Exemplo do número 3 (conversão binário -> float)](https://excalidraw.com/#json=ThDTJc-WLtJGrfPTOPnJr,kZmX1bOD0YpJdIB0xaaRdQ) 
+    * [Exemplo do numero 1.7 convertendo para binário](https://excalidraw.com/#json=_BswoSwdBUj0DHYSujUtH,eO7PGC3_ZArxkw06SktwOA)
 4. [Exercicio de Multiplicação](https://github.com/arduinoufv/inf250/blob/master/download/floatMultiplicacao.pdf)
 5. [Apostila de Ponto Flutuante](https://github.com/arduinoufv/inf250/blob/master/download/apostila_float.pdf)
 
