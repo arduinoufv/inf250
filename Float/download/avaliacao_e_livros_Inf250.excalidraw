@@ -1,0 +1,41 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "id": "vkKrMFeUO1MsOmQcxZ8Z4",
+      "type": "text",
+      "x": 372.57142857142856,
+      "y": 177.71428571428572,
+      "width": 865,
+      "height": 312,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 777657528,
+      "version": 298,
+      "versionNonce": 1487657144,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "text": "Avaliação\n\n1. Trabalhos em Grupos (em geral Colabs)\n2. Trabalhos individuais (em geral Colabs)\n3. Prova Final de 30 pontos (Fev/Marco)\n\nLivros\n1. Computer Organization and Design RISC-V Edition: The Hardware Software Interface\n    Capitulo 2 e 4 - Assembler e Risc-V\n    3.5 Float, Apendice A\n\n",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 304
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
