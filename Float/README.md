@@ -15,7 +15,7 @@
 
 # 2. Atividades 
 
-1. [Trabalho em Grupo para Ponto Flutuante - 5 pontos](https://colab.research.google.com/drive/172aTlmtaLBe4Y7sgBvNoI59TijyvE4Fu?usp=sharing)
+1. [Trabalho em Grupo para Ponto Flutuante - 5 pontos - Link do Colab](https://colab.research.google.com/drive/172aTlmtaLBe4Y7sgBvNoI59TijyvE4Fu?usp=sharing) e mais um [video com explicões do trabalho](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ms4HYevufP-h31P_a0DkPZ)
 ## Material complementar para auxiliar nas atividades
 1. [Exemplo de exercício de Ponto Flutuante de 2020/21](https://github.com/arduinoufv/inf250/blob/master/download/Exercicio_float_cod_soma_mul.pdf)
 2. [Colab do Trabalho 1 de 2020/21 - Resolvido](https://colab.research.google.com/drive/1GuH6WhV3wfaFKsior-RqeZZ9OYvwIfdD?usp=sharing)
