@@ -10,7 +10,7 @@
 
 # Laboratórios
 
-1. [Introdução a Máquina de Estados Finitos - 5 pontos - Individual](https://colab.research.google.com/drive/19Xh-OmJC0g_Q80evlzNJ1CKNXwR--PI0?usp=sharing)
+1. [Introdução a Máquina de Estados Finitos - 5 pontos - Individual](https://colab.research.google.com/drive/14MYkd-IVFysKOHlQRZTR3jUiHcL83omW?usp=sharing)
    * [Playlist de Maquina Estados - Exemplo do Sinal de Transito](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m4TGuZiSGuPDHyzEqPoqtb)
 2. [Em Grupo - Laboratório e Trabalho com Maquina de Vendas, Detector de Triplas](https://colab.research.google.com/drive/1p0GiBjguFy-Spj5dZd1AL8iGx2WoO3Fm?usp=sharing)
 3. [Em Grupo - Laboratório e Trabalho com Exemplos com Contadores](https://colab.research.google.com/drive/1wuuo21eKNYrd18rbpD78s4oTCpP30F9l?usp=sharing)
