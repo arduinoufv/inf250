@@ -13,6 +13,7 @@
 1. [Introdução a Máquina de Estados Finitos - 5 pontos - Individual](https://colab.research.google.com/drive/14MYkd-IVFysKOHlQRZTR3jUiHcL83omW?usp=sharing)
    * [Playlist de Maquina Estados - Exemplo do Sinal de Transito](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m4TGuZiSGuPDHyzEqPoqtb)
 2. [Em Grupo - Laboratório e Trabalho com Maquina de Vendas, Detector de Triplas](https://colab.research.google.com/drive/1ug2SJxz-u-Cb0EpXEn_eSnOvqpQE4EFh?usp=sharing)
+   * [Playlist de Maquina Estados - Exemplo do Detector de Triplas](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kBdSQcKKsR16C6CsQhCAjJ)
 3. [Em Grupo - Laboratório e Trabalho com Exemplos com Contadores](https://colab.research.google.com/drive/1IbYN7mq5kUhaqTWDolTMkwhBD71d4jPy?usp=sharing)
 4. [Em grupo - Laboratório e Trabalho com  Exemplos com Relógios e Cronometros](https://colab.research.google.com/drive/17zBVNhSw3DxJ9cNFpcAcIWuYqJYgGbGP?usp=sharing)
 ## Material Complementar
