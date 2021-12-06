@@ -15,6 +15,7 @@
 2. [Em Grupo - Laboratório e Trabalho com Maquina de Vendas, Detector de Triplas - 5 pontos  ](https://colab.research.google.com/drive/1ug2SJxz-u-Cb0EpXEn_eSnOvqpQE4EFh?usp=sharing)
    * [Playlist de Maquina Estados - Exemplo do Detector de Triplas](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kBdSQcKKsR16C6CsQhCAjJ)
 3. [Em Grupo - Laboratório e Trabalho com Exemplos com Contadores](https://colab.research.google.com/drive/1IbYN7mq5kUhaqTWDolTMkwhBD71d4jPy?usp=sharing)
+   * [Playlist Com maquina de Estados para Sequencias](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n7F25wsZSpg0uU2h2PxolO)
 4. [Em grupo - Laboratório e Trabalho com  Exemplos com Relógios e Cronometros](https://colab.research.google.com/drive/17zBVNhSw3DxJ9cNFpcAcIWuYqJYgGbGP?usp=sharing)
 ## Material Complementar
 * [Playlist de Vídeo de 2020/21](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kvCM9UgFxOmSUlMuzBei6Q)
