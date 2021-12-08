@@ -4,6 +4,8 @@
 
 # Atividades com Laboratório
 
+1. [Trabalho 5 - Primeiros Programas com Risc-V - 5 pontos](https://docs.google.com/document/d/1A3RSSebJ8_tjI78_fqQuR7bo6hUzyYBKlWQ8XFNTQ_c/edit?usp=sharing)
+2. [Trabalho 6 - Programa com Vetores - 4 pontos](https://docs.google.com/document/d/1wMJk3otIeWT4rnDVzL0sVWsuRHCk6-ejPcGKlKKMZQI/edit?usp=sharing)
 
 # Simuladores
 
