@@ -1,6 +1,10 @@
 # Assembler Risc-V
 
 1. [Slides do Capítulo 2 do Livro Patterson&Hennessy - Acesso Conta UFV](https://docs.google.com/presentation/d/1BqaqjFikDXnsPEoxdnN7-IbQU2Ji0nUNVJfQDp9I8Dk/edit?usp=sharing)
+2. [RISC-V Instruction Formats Instructor: Steven Ho](https://inst.eecs.berkeley.edu/~cs61c/resources/su18_lec/Lecture7.pdf)
+3. [Slides de Risc-V e codificação: Department	of	Computer	Science	and	Engineering
+Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
+4. [Manual Especificação](https://riscv.org//wp-content/uploads/2017/05/riscv-spec-v2.2.pdf)
 
 # Atividades com Laboratório
 
