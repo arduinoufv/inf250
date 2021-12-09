@@ -17,6 +17,7 @@
 3. [Em Grupo - Laboratório e Trabalho com Exemplos com Contadores](https://colab.research.google.com/drive/1IbYN7mq5kUhaqTWDolTMkwhBD71d4jPy?usp=sharing)
    * [Playlist Com maquina de Estados para Sequencias](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n7F25wsZSpg0uU2h2PxolO)
 4. [Em grupo - Laboratório e Trabalho com  Exemplos com Relógios e Cronometros](https://colab.research.google.com/drive/17zBVNhSw3DxJ9cNFpcAcIWuYqJYgGbGP?usp=sharing)
+  * [Playlist do Relogio e Cronometro](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lYp1e2-Y7ZtgHpwbdoyJIb)
 ## Material Complementar
 * [Playlist de Vídeo de 2020/21](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kvCM9UgFxOmSUlMuzBei6Q)
 * [Colab com solução do Amarelo Pisca três vezes](https://colab.research.google.com/drive/1CCeYejcOJkLq2t0F92sGssm6ee31Hbd9?usp=sharing)
