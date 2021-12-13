@@ -8,6 +8,8 @@ Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 
 # Atividades com Laboratório
 
+[Playlist com Introdução ao Assembler e dicas para trabalho 5](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lbSK_0gU9aLKSHTzj3qq0b)
+
 1. [Trabalho 5 - Primeiros Programas com Risc-V - 5 pontos - Acesso Conta UFV](https://docs.google.com/document/d/1A3RSSebJ8_tjI78_fqQuR7bo6hUzyYBKlWQ8XFNTQ_c/edit?usp=sharing)
 2. [Trabalho 6 - Programa com Vetores - 4 pontos - Acesso Conta UFV](https://docs.google.com/document/d/1wMJk3otIeWT4rnDVzL0sVWsuRHCk6-ejPcGKlKKMZQI/edit?usp=sharing)
 
