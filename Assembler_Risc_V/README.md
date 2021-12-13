@@ -16,7 +16,7 @@ Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 # Simuladores
 
 1. [Simulador Online WebRisc-V](https://webriscv.dii.unisi.it/)
-2. [Simulador Venus Risc-V](https://www.kvakil.me/venus/)
+2. [Simulador Venus Risc-V](https://www.kvakil.me/venus/)  **Usar o simulador Venus, preferencialmente**
 3. [RISC-V Interpreter - Universidade Cornell](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
 
 # Exemplos
