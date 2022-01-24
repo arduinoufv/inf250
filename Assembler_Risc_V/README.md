@@ -25,7 +25,9 @@ Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 
 # Codificação das Instruções
 
-[Playlist da Codificação]()
+[Playlist da Codificação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mTtcPhwp5KFARQOusn66EO)
+
+[Pasta com exemplos (desenhos)](https://github.com/arduinoufv/inf250/tree/master/Assembler_Risc_V/download/formato)
 
 
 # Implementações em Verilog
