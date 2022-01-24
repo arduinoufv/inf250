@@ -23,6 +23,11 @@ Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 1. [Exemplos de Exercícios com Risc-V - Acesso Conta UFV](https://docs.google.com/presentation/d/1tb34UEvhoxoEdC1_fbXu3UY-vA_RvBoIy57_NG5N2Qc/edit?usp=sharing)
 2. [Exemplos de Exercícios com Risc-V e Vetores - Acesso Conta UFV](https://docs.google.com/presentation/d/1WRfD1qvOyuBejxO2VBSerXI2el9rSEjl9r4OwykaSUA/edit?usp=sharing)
 
+# Codificação das Instruções
+
+[Playlist da Codificação]()
+
+
 # Implementações em Verilog
 1. [Risc-V Monociclo](https://github.com/cacauvicosa/mips/tree/master/michael/riscv)
 
