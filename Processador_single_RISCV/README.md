@@ -8,7 +8,13 @@
 
 [Cap 4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
 
-## 1.3 Colabs com Atividades
+## 1.3 Desenhando no Caminho de Dados (datapath)
+
+[Playlist das instruções de lw, add, addi, beq, sw](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mFm26DMPe7K3OSu-Xg__Qw)
+
+[Desenhos]()
+
+## 1.4 Colabs com Atividades
 
 1. [Introdução ao Risc-V](https://colab.research.google.com/drive/1XkxRqHZj5ThDPqzUIhUvCuLqHXkpQjmR?usp=sharing)
 2. [Trabalho 7 -  Single - Criar um colab com Risc-V Single para executar os exercícios 1 e 3 destes slides do trabalho 5](https://docs.google.com/presentation/d/1tb34UEvhoxoEdC1_fbXu3UY-vA_RvBoIy57_NG5N2Qc/edit#slide=id.p7)
