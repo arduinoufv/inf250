@@ -12,12 +12,13 @@
 
 [Playlist das instruções de lw, add, addi, beq, sw](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mFm26DMPe7K3OSu-Xg__Qw)
 
-[Desenhos]()
+[Desenhos](https://github.com/arduinoufv/inf250/tree/master/Processador_single_RISCV/download)
+
 
 ## 1.4 Colabs com Atividades
 
 1. [Introdução ao Risc-V](https://colab.research.google.com/drive/1XkxRqHZj5ThDPqzUIhUvCuLqHXkpQjmR?usp=sharing)
-2. [Trabalho 7 -  Single - Criar um colab com Risc-V Single para executar os exercícios 1 e 3 destes slides do trabalho 5](https://docs.google.com/presentation/d/1tb34UEvhoxoEdC1_fbXu3UY-vA_RvBoIy57_NG5N2Qc/edit#slide=id.p7)
-3. [Trabalho 8 - Single - Criar um colab com Risc-V Single para os exercícios 1 e 3 do Trabalho 6](https://docs.google.com/document/d/1wMJk3otIeWT4rnDVzL0sVWsuRHCk6-ejPcGKlKKMZQI/edit?usp=sharing)
+2. [Trabalho 7 -  Single - Criar um colab com Risc-V Single para executar os exercícios 1 e 3 destes slides do trabalho 5](https://colab.research.google.com/drive/1PEg0gvAXiHs0GhQWVhOvm9gOVtZnkOgG?usp=sharing#scrollTo=Fp5Rgb6pb6w6)   [slide do trabalho 5](https://docs.google.com/presentation/d/1tb34UEvhoxoEdC1_fbXu3UY-vA_RvBoIy57_NG5N2Qc/edit#slide=id.p7)
+3. [Trabalho 8 - Single - Criar um colab com Risc-V Single para os exercícios 1 e 3 do Trabalho 6]() [slide do trabalho 6](https://docs.google.com/document/d/1wMJk3otIeWT4rnDVzL0sVWsuRHCk6-ejPcGKlKKMZQI/edit?usp=sharing)
 
 ## 1.4 Questionários
