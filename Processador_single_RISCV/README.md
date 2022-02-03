@@ -17,6 +17,8 @@
 
 ## 1.4 Colabs com Atividades
 
+[Playlist de Video com explicações do Colab e do Trabalho 7](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mU_meF6qWvihjkHF-uvOyv)
+
 1. [Colab da Aula  - Introdução ao Risc-V](https://colab.research.google.com/drive/1XkxRqHZj5ThDPqzUIhUvCuLqHXkpQjmR?usp=sharing)
 2. [Trabalho 7 -  Single - Criar um colab com Risc-V Single para executar os exercícios 1 e 3 destes slides do trabalho 5](https://colab.research.google.com/drive/1PEg0gvAXiHs0GhQWVhOvm9gOVtZnkOgG?usp=sharing#scrollTo=Fp5Rgb6pb6w6)  
       * [slide do trabalho 5](https://docs.google.com/presentation/d/1tb34UEvhoxoEdC1_fbXu3UY-vA_RvBoIy57_NG5N2Qc/edit#slide=id.p7)
