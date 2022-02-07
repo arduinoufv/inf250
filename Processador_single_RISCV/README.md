@@ -27,6 +27,8 @@
 
 ## 1.4 Novas instruções
 
+[playlist com dicas](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lrAXquopQQ5q7MZzpoXHv_)
+
 ### Exercícios do Livro 
 #### 4.11 Examine the difficulty of adding a proposed lwi.d rd, rs1,rs2 (“Load With Increment”) instruction to RISC-V. Interpretation: Reg[rd]=Mem[Reg[rs1]+Reg[rs2]]
 * 4.11.1 [5] <§4.4> Which new functional blocks (if any) do we need
