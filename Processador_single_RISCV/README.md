@@ -22,7 +22,7 @@
 1. [Colab da Aula  - Introdução ao Risc-V](https://colab.research.google.com/drive/1XkxRqHZj5ThDPqzUIhUvCuLqHXkpQjmR?usp=sharing)
 2. [Trabalho 7 -  Single - Criar um colab com Risc-V Single para executar os exercícios 1 e 3 destes slides do trabalho 5](https://colab.research.google.com/drive/1PEg0gvAXiHs0GhQWVhOvm9gOVtZnkOgG?usp=sharing#scrollTo=Fp5Rgb6pb6w6)  
       * [slide do trabalho 5](https://docs.google.com/presentation/d/1tb34UEvhoxoEdC1_fbXu3UY-vA_RvBoIy57_NG5N2Qc/edit#slide=id.p7)
-3. [Trabalho 8 - Single - Criar um colab com Risc-V Single para os exercícios 1 e 3 do Trabalho 6]() 
+3. [Trabalho 8 - Single - Criar um colab com Risc-V Single para os exercícios 1 e 3 do Trabalho 6](https://colab.research.google.com/drive/1FIC4w17bZtIr2djhGwYvGQNEEzwl87vk?usp=sharing) 
       * [slide do trabalho 6](https://docs.google.com/document/d/1wMJk3otIeWT4rnDVzL0sVWsuRHCk6-ejPcGKlKKMZQI/edit?usp=sharing)
 
 ## 1.4 Questionários
