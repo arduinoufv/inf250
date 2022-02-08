@@ -30,3 +30,4 @@ addi x5,x5,-1
 j loop
 end: addi x5,x5,1
 ```
+![](https://raw.githubusercontent.com/arduinoufv/inf250/master/Processador_single_RISCV/Desvio_Incondicional/Screenshot%20from%202022-02-08%2015-18-05.png)
