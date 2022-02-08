@@ -31,3 +31,9 @@ j loop
 end: addi x5,x5,1
 ```
 ![](https://raw.githubusercontent.com/arduinoufv/inf250/master/Processador_single_RISCV/Desvio_Incondicional/Screenshot%20from%202022-02-08%2015-18-05.png)
+
+
+ff9ff06f = 1111 1111 1001 1111 1111 0000 0**110 1111**
+
+JAL = | imm\[20,10:1,11,19:12\] | rd | 110 1111 |
+
