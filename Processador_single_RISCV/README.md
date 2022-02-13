@@ -24,6 +24,8 @@
       * [slide do trabalho 5](https://docs.google.com/presentation/d/1tb34UEvhoxoEdC1_fbXu3UY-vA_RvBoIy57_NG5N2Qc/edit#slide=id.p7)
 3. [Trabalho 8 - Single - Criar um colab com Risc-V Single para os exercícios 1 e 3 do Trabalho 6](https://colab.research.google.com/drive/1FIC4w17bZtIr2djhGwYvGQNEEzwl87vk?usp=sharing) 
       * [slide do trabalho 6](https://docs.google.com/document/d/1wMJk3otIeWT4rnDVzL0sVWsuRHCk6-ejPcGKlKKMZQI/edit?usp=sharing)
+      * Instrução de **Multiplicação**, na [página 105 do Manual RISC-V] tem o formato da instrução mul. A diferença está no campo F7 em relação ao ADD, SUB, ... 
+      * Sugestão para MUL, no estágio de execução no **module alucontrol**, acrescentar o tratamento do MUL para gerar **ALUopcode** que não foi usado ainda. No módulo ALU tratar o novo código que você criou para fazer **A * B**.
 
 ## 1.5 Observações sobre Desvios Incondicional
 
