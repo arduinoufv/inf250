@@ -30,7 +30,7 @@
 
 ## 1.5 Observações sobre Desvios Incondicional
 
-## 1.6 Novas instruções
+## 1.6 Novas instruções - Trabalho 9
 
 [playlist com dicas](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lrAXquopQQ5q7MZzpoXHv_)
 
