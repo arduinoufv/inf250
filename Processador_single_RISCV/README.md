@@ -72,3 +72,38 @@ support this instruction?
 control unit to support this instruction?
 * 4.13.5 [5] <§4.4> Modify Figure 4.21 to demonstrate an
 implementation of this new instruction.
+
+#### Como testar as novas instruções
+
+Vocês tem duas opções: (a) binário ou (b) hexadecimal. Você terá que criar o código manual, uma vez que o Venus não irá gerar sua nova instrução e inserir no módulo de fetch.
+
+* binário
+´´´
+%%writefile fetch.v
+
+module fetch (input zero, rst, clk, branch, input [31:0] sigext, output [31:0] inst);
+  
+  wire [31:0] pc, pc_4, new_pc;
+
+  assign pc_4 = 4 + pc; // pc+4  Adder
+  assign new_pc = (branch & zero) ? pc + sigext : pc_4; // new PC Mux
+
+  PC program_counter(new_pc, clk, rst, pc);
+
+  reg [31:0] inst_mem [0:31];
+
+  assign inst = inst_mem[pc[31:2]];
+
+  initial begin
+    // Exemplos
+
+
+inst_mem[0] <= 32'b00000000100100010000001110110011;
+inst_mem[1] <= 32'b01000000100100010000001110110011;
+inst_mem[2] <= 32'b00000000100100010110001110110011;
+inst_mem[3] <= 32'b11111111111100000000010010010011;
+inst_mem[4] <= 32'b00000000010101001001001110110011;
+
+....
+´´´
+* Modo Hexadecimal, usar inst_mem[0] <= 32'hCODIGOHEXA; ....
