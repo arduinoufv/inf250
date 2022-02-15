@@ -106,4 +106,5 @@ inst_mem[4] <= 32'b00000000010101001001001110110011;
 
 ....
 ```
-* Modo Hexadecimal, usar inst_mem[0] <= 32'hCODIGOHEXA; ....
+* Modo Hexadecimal, usar inst_mem[0] <= 32'hCODIGOHEXA; .... Se seu código tem mais instruções que o Venus conhece, então usa NOP no VENUS que você depois substitui pela sua instrução nova.
+
