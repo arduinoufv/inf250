@@ -78,7 +78,7 @@ implementation of this new instruction.
 Vocês tem duas opções: (a) binário ou (b) hexadecimal. Você terá que criar o código manual, uma vez que o Venus não irá gerar sua nova instrução e inserir no módulo de fetch.
 
 * binário
-´´´
+``` 
 %%writefile fetch.v
 
 module fetch (input zero, rst, clk, branch, input [31:0] sigext, output [31:0] inst);
@@ -105,5 +105,5 @@ inst_mem[3] <= 32'b11111111111100000000010010010011;
 inst_mem[4] <= 32'b00000000010101001001001110110011;
 
 ....
-´´´
+```
 * Modo Hexadecimal, usar inst_mem[0] <= 32'hCODIGOHEXA; ....
