@@ -13,3 +13,7 @@
 ## 1.3 Execução com problemas de Dependência de dados e de controle
 
 [Playlist de Vídeo com stall devido aos hazard de dados e desvios, trabalho 10](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lOLn3rrDkz79GJ6Fy0Zz1j)
+
+## 1.4 Solução com Forwarding, Hazard de Load, reordenação de instruções e desvio com atraso
+
+[playlist de vídeo com forward, hazard e desvio com atraso para trabalho 11](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mkDGK9GjYM3GQJKYhi97JV)
