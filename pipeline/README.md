@@ -1,9 +1,9 @@
 # 1. Processador Pipeline
 ## 1.1 Referências de Apoio
 
-[RISC-V Instruction Formats Instructor: Steven Ho](https://inst.eecs.berkeley.edu/~cs61c/resources/su18_lec/Lecture7.pdf)
-[Simulador Venus Risc-V](https://www.kvakil.me/venus/) 
-[Webriscv](https://webriscv.dii.unisi.it/)
+* [RISC-V Instruction Formats Instructor: Steven Ho](https://inst.eecs.berkeley.edu/~cs61c/resources/su18_lec/Lecture7.pdf)
+* [Simulador Venus Risc-V](https://www.kvakil.me/venus/) 
+* [Webriscv](https://webriscv.dii.unisi.it/)
 
 
 ## 1.2 Capítulo 4 Patterson & Hennessy
@@ -17,3 +17,8 @@
 ## 1.4 Solução com Forwarding, Hazard de Load, reordenação de instruções e desvio com atraso
 
 [playlist de vídeo com forward, hazard e desvio com atraso para trabalho 11](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mkDGK9GjYM3GQJKYhi97JV)
+
+## 1.5 Implementação em Verilog
+
+* [Colab com implementação em Verilog e Trabalho 12](https://colab.research.google.com/drive/1npTGdSz9p_U8yAka_CSvVE775a-talJf?usp=sharing)
+
