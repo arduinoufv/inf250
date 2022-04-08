@@ -108,8 +108,9 @@ inst_mem[4] <= 32'b00000000010101001001001110110011;
 ```
 * Modo Hexadecimal, usar inst_mem[0] <= 32'hCODIGOHEXA; .... Se seu código tem mais instruções que o Venus conhece, então usa NOP no VENUS que você depois substitui pela sua instrução nova.
 
+[solução dos exercicios 4.11,12 e 13](https://colab.research.google.com/drive/1dhipFfCcDVyPa6CPodQ9vRIMqMyyMVtz?usp=sharing)
 
-# Colab de 2022
+# Colab de 2021
 
 
 [Single RiscV ordenar 3 e soma float com documentacao do Waveform](https://colab.research.google.com/drive/1-xRwusp_kPZuzNNJFEuTpoVQdVUTfBhj?usp=sharing)
