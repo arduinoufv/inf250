@@ -22,3 +22,8 @@
 
 * [Colab com implementação em Verilog e Trabalho 12](https://colab.research.google.com/drive/1npTGdSz9p_U8yAka_CSvVE775a-talJf?usp=sharing)
 
+
+
+## Solucoes de 2022
+
+[riscv pipeline branch 2 stage com forward_teste de ordena3, soma float, produto escalar, matmul 3x3](https://colab.research.google.com/drive/1772rQAbKzk3NLSNou_iHZG6L5c5eCXSn?usp=sharing)
