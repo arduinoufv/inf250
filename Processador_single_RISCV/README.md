@@ -27,6 +27,7 @@
       * Instrução de **Multiplicação**, na [página 105 do Manual RISC-V](https://riscv.org//wp-content/uploads/2017/05/riscv-spec-v2.2.pdf) tem o formato da instrução mul. A diferença está no campo F7 em relação ao ADD, SUB, ... 
       * Sugestão para MUL, no estágio de execução no **module alucontrol**, acrescentar o tratamento do MUL para gerar **ALUopcode** que não foi usado ainda. No módulo ALU tratar o novo código que você criou para fazer **A * B**.
       * [video para multiplicação](https://youtu.be/kEYH77u0P8U)
+4. [Solucao do Trabalho 8 ](https://colab.research.google.com/drive/1ZGmsi4Ucg58pXRXq4NdgnshPPV9dw65r?usp=sharing)      
 
 ## 1.5 Observações sobre Desvios Incondicional
 
