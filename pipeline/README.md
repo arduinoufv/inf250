@@ -21,6 +21,7 @@
 ## 1.5 Implementação em Verilog
 
 * [Colab com implementação em Verilog e Trabalho 12](https://colab.research.google.com/drive/1npTGdSz9p_U8yAka_CSvVE775a-talJf?usp=sharing)
+* [Solução do Trabalho 12](https://colab.research.google.com/drive/1lMJgjMfY7_7if3mnlEip87nLhpzf5aHp?usp=sharing)
 
 
 
