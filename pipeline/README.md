@@ -25,4 +25,5 @@
 ### Solucoes de 2022
 
 * [riscv pipeline branch 2 stage com forward_teste de ordena3, soma float, produto escalar, matmul 3x3](https://colab.research.google.com/drive/1772rQAbKzk3NLSNou_iHZG6L5c5eCXSn?usp=sharing)
+* [Playlist com explicações detalhadas da Implementação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lOBLGCMl3VdmsASATxiB9s)
 * [Video com algumas explicações](https://youtu.be/JXT9LKVEn18)
