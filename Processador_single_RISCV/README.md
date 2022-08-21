@@ -117,3 +117,7 @@ inst_mem[4] <= 32'b00000000010101001001001110110011;
 [Single RiscV ordenar 3 e soma float com documentacao do Waveform](https://colab.research.google.com/drive/1-xRwusp_kPZuzNNJFEuTpoVQdVUTfBhj?usp=sharing)
 
 [Single RiscV com porduto escalar e multiplicacao de matrizes](https://colab.research.google.com/drive/1e8-UNjNCxXKZ9t1PrGToDmKMZtpflUOX?usp=sharing)
+
+# Colab de 2022
+
+[Verilog code for dissambler](https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV/riscv_disassembly.v)
