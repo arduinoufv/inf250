@@ -1,7 +1,9 @@
 # Inf250
 Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.com/#json=lxkRqRt4C_q_QTG34B07x,KQ6PQ1XiF9tY5UOHjkEzeA) 
 
+
 ## Avaliação e Livros 2022
+* Aulas  **Terça 14-16 - PVA249, Quinta 16-18 - PVA239**
 * 3 Provas de 30 pontos - 29 Set 22, 27 Out 22, 13 Dez 22
 * 10 pontos de exercícios em sala de aula e trabalhos.
 * [Livro Risc-V](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
