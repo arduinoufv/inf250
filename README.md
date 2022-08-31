@@ -9,9 +9,49 @@ Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.
 * [Verilog by example](http://www.readler.com/books2.html)
 * [Digital Design: With an Introduction to the Verilog Hdl, Vhdl, and Systemverilog](https://www.amazon.com.br/Digital-Design-Introduction-Verilog-SystemVerilog/dp/0134549899)
 
-Disciplina em 2021
 
-# Organização
+# Disciplina em 2022
+
+## 06 e 8/9 Representação de ponto flutuante, Soma e Multiplicacao
+## 13-27/09  Verilog, FlipFlops, Maquina de Estados, Contadores e circuitos sequenciais
+# 29/09  Prova 1
+## 04-11/10 Assembler RISC V e Codificação
+## 13-20/10  RISC V monociclo
+## 25/10  Microprogramação 
+# 27/10 Prova 2
+01/11 Feriado
+Risc V Pipeline
+03/11 
+Risc V Pipeline 
+09/11 
+Risc V Pipeline Verilog
+11/11 
+Risc V Pipeline Verilog
+16/11 
+Desvio
+18/11 
+Forwarding e Hazard
+23/11 
+Branch Delay
+25/11 
+Novas Instruções
+30/11 
+Interrupção, Assembler com chamada de função e montadores.
+02/12 
+Barramento, Comunicações
+07/12 
+Interfaces e Periféricos
+09/12 
+Revisão
+13/12 
+Prova 3
+
+
+
+
+# Disciplina em 2021
+
+## Organização
 * [Play list de Apresentação da Disciplina](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lWlc-LhWJM3s-0ObMkf9RH)
 
 ## 1. Números de Ponto Flutuante  (22 a 26 Novembro)
