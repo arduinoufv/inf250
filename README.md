@@ -1,7 +1,7 @@
 # Inf250
 Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.com/#json=lxkRqRt4C_q_QTG34B07x,KQ6PQ1XiF9tY5UOHjkEzeA) 
 
-## [Avaliação e Livros 2022]
+## Avaliação e Livros 2022
 * 3 Provas de 30 pontos - 29 Set 22, 27 Out 22, 13 Dez 22
 * 10 pontos de exercícios em sala de aula e trabalhos.
 * [Livro Risc-V](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
@@ -19,32 +19,11 @@ Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.
 ## 13-20/10  RISC V monociclo
 ## 25/10  Microprogramação 
 # 27/10 Prova 2
-01/11 Feriado
-Risc V Pipeline
-03/11 
-Risc V Pipeline 
-09/11 
-Risc V Pipeline Verilog
-11/11 
-Risc V Pipeline Verilog
-16/11 
-Desvio
-18/11 
-Forwarding e Hazard
-23/11 
-Branch Delay
-25/11 
-Novas Instruções
-30/11 
-Interrupção, Assembler com chamada de função e montadores.
-02/12 
-Barramento, Comunicações
-07/12 
-Interfaces e Periféricos
-09/12 
-Revisão
-13/12 
-Prova 3
+
+## 3-30/11 Risc V Pipeline, Desvio, Forwarding e Hazard, Branch Delay
+## 2-9/12  Interrupção, Assembler com chamada de função e montadores, Barramento, Comunicações, Interfaces e Periféricos
+
+# 13/12 Prova 3
 
 
 
