@@ -14,8 +14,9 @@ Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.
 
 # Disciplina em 2022
 
-## 06 e 8/9 [Representação de ponto flutuante, Soma e Multiplicacao](https://github.com/arduinoufv/inf250/tree/master/Float#1-representa%C3%A7%C3%A3o-de-ponto-flutuante-simplificada-do-ieee-754)
-## 13-27/09  Verilog, FlipFlops, Maquina de Estados, Contadores e circuitos sequenciais
+## 06/9 Apresentação do Curso 
+## 8-13/9 [Representação de ponto flutuante, Soma e Multiplicacao](https://github.com/arduinoufv/inf250/tree/master/Float#1-representa%C3%A7%C3%A3o-de-ponto-flutuante-simplificada-do-ieee-754)
+## 15-27/09  Verilog, FlipFlops, Maquina de Estados, Contadores e circuitos sequenciais
 # 29/09  Prova 1
 ## 04-11/10 Assembler RISC V e Codificação
 ## 13-20/10  RISC V monociclo
