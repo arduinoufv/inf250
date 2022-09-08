@@ -5,6 +5,7 @@
 * [Slides - Introdução a representação Float Simplificada](https://github.com/arduinoufv/inf250/blob/master/download/float.pdf)
     * [Exemplo do número 3 (conversão binário -> float)](https://excalidraw.com/#json=ThDTJc-WLtJGrfPTOPnJr,kZmX1bOD0YpJdIB0xaaRdQ) 
     * [Exemplo do numero 1.7 convertendo para binário](https://excalidraw.com/#json=_BswoSwdBUj0DHYSujUtH,eO7PGC3_ZArxkw06SktwOA)
+    * [Exemplo 1.4 para binario](https://excalidraw.com/#json=63fMyTJx8oIZbiBqfs1Vt,nYhClsGchi5uK0IANpj_NA)
     * [Exemplo do numero 0.3 convertendo para binario](https://excalidraw.com/#json=Et7uflMZQFQHkAs_tTtUD,d6P-UPS5D9B0SGH_2xnK7g)
     * [Exemplo de exercício de Ponto Flutuante de 2020/21](https://github.com/arduinoufv/inf250/blob/master/download/Exercicio_float_cod_soma_mul.pdf)
 * [Como codificar em Verilog Somadores e Multiplicadores para Float 7 bits](https://colab.research.google.com/drive/1r94L9UTlPbcHrzLj0Xxeg5y4zSQjsAPB?usp=sharing)
