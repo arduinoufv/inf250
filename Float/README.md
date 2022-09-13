@@ -1,6 +1,6 @@
 # 1. Representação de Ponto Flutuante Simplificada do IEEE 754
 
-* [Playlist de Video para conversão de ponto flutuane](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nwdw2D7QmdA8oXo9qzWesU)
+* [Playlist de Video para conversão de ponto flutuante](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nwdw2D7QmdA8oXo9qzWesU)
 * [Conversor para IEEE 754](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
 * [Apostila de Ponto Flutuante](https://github.com/arduinoufv/inf250/blob/master/download/apostila_float.pdf)
 * [Slides - Introdução a representação Float Simplificada](https://github.com/arduinoufv/inf250/blob/master/download/float.pdf)
@@ -22,6 +22,8 @@
     * Explicações da representação, da conversão decimal para Float simplificado e vice-versa, adição e multiplicação
 
 # Material Adicional para Tópico
+
+![](https://storage.googleapis.com/gweb-cloudblog-publish/images/Three_floating-point_formats.max-700x700.png)
 
 * [Explicações em Video do Trabalho de 2020/21](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kfu7FT7CTqWA1COZ5T3uQM)
 
