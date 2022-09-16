@@ -16,6 +16,10 @@
 [Resumo em 3 paginas](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/Verilog_cheat.pdf)
 ![](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/3folhas.png?raw=true)
 
+[Clocks and Registers - Verilog by Example - 12 pages]()
+[Code Samples - Verilog by Example ]()
+
+
 [Apostila de 14 paginas](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/verilog_examples14pages.pdf)
 ![](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/verilogexamples14pages.png?raw=true)
 
