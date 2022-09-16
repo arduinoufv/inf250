@@ -9,7 +9,7 @@
 
 1. [Exemplos para introdução a Máquinas de Estados](https://colab.research.google.com/drive/1PbSVpL_3nediedSoxAfgE7ibMW5thHZy?usp=sharing)
 2. [Exemplo de Paridade, Tripla e Vendas](https://colab.research.google.com/drive/1eNKWvlzjtjhqw3H3qWdobHE4gMVmZOZU?usp=sharing)
-3. 
+3. [Exemplo de Contadores de Sequência e Maquina de Vendas com comparador](https://colab.research.google.com/drive/1yh2UZG6YACchVNhNzoL3PH67On-aAbQb?usp=sharing)
 
 
 ## Material Complementar
