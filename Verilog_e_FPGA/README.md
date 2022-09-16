@@ -5,10 +5,16 @@
 [Fundamentos](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/fundamentals_slides.pdf)
 ![](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/fundamentals.png?raw=true)
 
+[65 Slides](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/Verilog%20tutorial_65slides.pdf)
+![](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/65_slides.png?raw=true)
+
 ## Apostilas e Livros
 
 [Resumo em 2 paginas](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/SystemVerilogCheatSheet.pdf)
 ![](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/onechaet.png?raw=true)
+
+[Resumo em 3 paginas](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/Verilog_cheat.pdf)
+![](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/3folhas.png?raw=true)
 
 [Apostila de 14 paginas](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/verilog_examples14pages.pdf)
 ![](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/verilogexamples14pages.png?raw=true)
