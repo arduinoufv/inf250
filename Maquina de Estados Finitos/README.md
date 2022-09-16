@@ -8,6 +8,8 @@
 # Colabs
 
 1. [Exemplos para introdução a Máquinas de Estados](https://colab.research.google.com/drive/1PbSVpL_3nediedSoxAfgE7ibMW5thHZy?usp=sharing)
+2. [Exemplo de Paridade, Tripla e Vendas](https://colab.research.google.com/drive/1eNKWvlzjtjhqw3H3qWdobHE4gMVmZOZU?usp=sharing)
+3. 
 
 
 ## Material Complementar
