@@ -2,13 +2,13 @@
 
 ## Slides
 
-![](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/fundamentals.png?raw=true)
 [Fundamentos](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/fundamentals_slides.pdf)
+![](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/fundamentals.png?raw=true)
 
 ## Apostilas e Livros
 
-![](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/introductionToVerilog.png?raw=true)
 [Apostila 30 páginas com principais recursos de Verilog](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/verilog.pdf)
+![](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/introductionToVerilog.png?raw=true)
 
 # DigiKey 11 lessons
 
