@@ -17,7 +17,7 @@
 ![](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/3folhas.png?raw=true)
 
 [Clocks and Registers - Verilog by Example - 12 pages]()
-[Code Samples - Verilog by Example ]()
+[Code Samples - Verilog by Example ](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/codesamples(1).pdf)
 
 
 [Apostila de 14 paginas](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/verilog_examples14pages.pdf)
