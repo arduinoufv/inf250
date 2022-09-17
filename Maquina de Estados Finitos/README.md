@@ -5,6 +5,8 @@
 2. [Apostila Texto](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/download/fsm.pdf)
 3. [Slides FEUP 2004](https://web.fe.up.pt/~aja/PSD2004_05/slides/42-70.pdf)
 
+# [Provas de Anos Anteriores 2017-2019 para download](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/download/provas17_19_FSM.zip)
+
 # Colabs
 
 1. [Trabalho 1 - Entregar **Versão Escrita 22/9** e **Colab e Tinkercad 27/9** Exemplos para introdução a Máquinas de Estados](https://colab.research.google.com/drive/1PbSVpL_3nediedSoxAfgE7ibMW5thHZy?usp=sharing)
