@@ -1,5 +1,10 @@
 # Maquina de Estados Finitos
 
+## Videos
+
+1. [Sinal de Transito: Verilog (case/switch, tabela/memoria e portas lógicas) Tinkercad e circuitos TTL 74xx](https://www.youtube.com/playlist?list=PLcvOyD_LMr6keBg4K0qn7YQX_E-tZVTtR)
+
+## Material para Leitura e Slides
 
 1. [Slide de Introdução](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/download/introducao.pdf)
 2. [Apostila Texto](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/download/fsm.pdf)
