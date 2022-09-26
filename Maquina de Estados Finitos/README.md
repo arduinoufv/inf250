@@ -20,7 +20,7 @@
 
 # Colabs
 
-1. [Trabalho 1 - Entregar **Versão Escrita 22/9** e **Colab e Tinkercad 27/9** Exemplos para introdução a Máquinas de Estados](https://colab.research.google.com/drive/1PbSVpL_3nediedSoxAfgE7ibMW5thHZy?usp=sharing)
+1. [Trabalho 1 - Entregar **Versão Escrita 22/9** e **Colab e Tinkercad 27/9** Exemplos para introdução a Máquinas de Estados](https://colab.research.google.com/drive/1PbSVpL_3nediedSoxAfgE7ibMW5thHZy?usp=sharing) - [algumas dicas no tinkercad](https://youtu.be/HPvzTf_zgtI)
 2. [Trabalho 2 - Grupo - Entregar **29/9** - Exemplo de Paridade, Tripla e Vendas](https://colab.research.google.com/drive/1eNKWvlzjtjhqw3H3qWdobHE4gMVmZOZU?usp=sharing)
 3. [Exemplo de Contadores de Sequência e Maquina de Vendas com comparador](https://colab.research.google.com/drive/1yh2UZG6YACchVNhNzoL3PH67On-aAbQb?usp=sharing)
 4. [Exemplo de Relógios e Cronometros](https://colab.research.google.com/drive/1bLuefIy3VC4VhldZVJ9iPKwIyk-96Pfq?usp=sharing)
