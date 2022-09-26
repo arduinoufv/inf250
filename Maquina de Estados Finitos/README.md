@@ -4,6 +4,7 @@
 
 1. [Sinal de Transito: Verilog (case/switch, tabela/memoria e portas lógicas) Tinkercad e circuitos TTL 74xx](https://www.youtube.com/playlist?list=PLcvOyD_LMr6keBg4K0qn7YQX_E-tZVTtR)
 2. [Tripla, Sequencias 101 e 010, Trabalho 2 em Grupo, Algumas dicas para prova 1](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kfW97En7yUgoicBtn2NvfF)
+3. [Dicas no tinkercad: alimentacao, reset e clock](https://youtu.be/HPvzTf_zgtI)
 
 ## Material para Leitura e Slides
 
