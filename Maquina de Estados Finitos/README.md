@@ -14,7 +14,7 @@
 
 # [Provas de Anos Anteriores 2017-2019 para download](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/download/provas17_19_FSM.zip)
 
-[Playlist de Video com resolução de algumas questões](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lQUqJcxjS7PHEf4RIbK2SF)
+[**Playlist de Video com resolução de algumas questões**](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lQUqJcxjS7PHEf4RIbK2SF)
 
 [Desenho da solucao com Memória e diagrama de estados da questão 1 prova de 2017](https://excalidraw.com/#json=tA3rm-TSbNU-Kein7zBEj,8GschYfVvTZHNoLL_XEtqQ)
       
