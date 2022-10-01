@@ -7,6 +7,14 @@
 2. [Simulador Online WebRisc-V](https://webriscv.dii.unisi.it/)
 3. [RISC-V Interpreter - Universidade Cornell](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
 
+## Trabalho de 2022
+
+### Parte de Assembly
+ 1. Fazer a multiplicação de float 7 bits
+ 2. Fazer um printf 2^e * 1.x onde e=-3 a +4 e x é parte fracionária
+ 3. Algoritmo KNN com duas dimensões
+
+
 ##  Exemplos de 2021
 1. [Exemplos de Exercícios com Risc-V - Acesso Conta UFV](https://docs.google.com/presentation/d/1tb34UEvhoxoEdC1_fbXu3UY-vA_RvBoIy57_NG5N2Qc/edit?usp=sharing)
 2. [Exemplos de Exercícios com Risc-V e Vetores - Acesso Conta UFV](https://docs.google.com/presentation/d/1WRfD1qvOyuBejxO2VBSerXI2el9rSEjl9r4OwykaSUA/edit?usp=sharing)
