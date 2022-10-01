@@ -14,6 +14,10 @@
  2. Fazer um printf 2^e * 1.x onde e=-3 a +4 e x é parte fracionária
  3. Algoritmo KNN com duas dimensões
 
+ Exemplos de 2021
+ 1. [Primeiros programas: Maior de 3, multiplicação e soma Float](https://docs.google.com/document/d/1rUmymGDLARdh5TfFf2sVm_lYDWwta8lBEPJUryNs3Xk/edit?usp=sharing)
+ 2. [Vetores, Produtos Escalar, Comparação e Multiplicação de Matrizes](https://docs.google.com/document/d/1GoO48cAaE69oHqD4giunHLUfNZGUo15V4C1n5g7Yc7k/edit?usp=sharing)
+
 
 ##  Exemplos de 2021
 1. [Exemplos de Exercícios com Risc-V - Acesso Conta UFV](https://docs.google.com/presentation/d/1tb34UEvhoxoEdC1_fbXu3UY-vA_RvBoIy57_NG5N2Qc/edit?usp=sharing)
