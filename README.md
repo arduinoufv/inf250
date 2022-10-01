@@ -19,7 +19,7 @@ Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.
 ## 15-27/09  [Verilog, FlipFlops, Maquina de Estados, Contadores e circuitos sequenciais](https://github.com/arduinoufv/inf250/tree/master/Maquina%20de%20Estados%20Finitos)
 # 29/09  Prova 1 - clique aqui para [Revisão de Float para prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lo4l-pWrpYbP-9z6vwBz4K) e clique aqui para [Playlist de Video com resolução de algumas questões Máquina de Estados](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lQUqJcxjS7PHEf4RIbK2SF) 
 ## 04-07/10 [Assembly Language RISC V e Codificação](https://github.com/arduinoufv/inf250/tree/master/Assembler_Risc_V)
-## 11-20/10  RISC V monociclo
+## 11-20/10  [RISC V monociclo](https://github.com/arduinoufv/inf250/tree/master/Processador_single_RISCV)
 ## 25/10   Revisão
 # 27/10 Prova 2
 
