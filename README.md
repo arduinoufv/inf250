@@ -12,12 +12,12 @@ Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.
 * [Digital Design: With an Introduction to the Verilog Hdl, Vhdl, and Systemverilog](https://www.amazon.com.br/Digital-Design-Introduction-Verilog-SystemVerilog/dp/0134549899)
 
 
-# Disciplina em 2022 [Clique aqui para ver como consultar o Material de aula, trabalho e prova 1](https://youtu.be/UHDKfZkfFFs)
+* Disciplina em 2022 [Clique aqui para ver como consultar o Material de aula, trabalho e prova 1](https://youtu.be/UHDKfZkfFFs)
 
-## 06/9 [Apresentação do Curso - Playlist em Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nYi6w0TcXUlAwvoS43zOpX) 
-## 8-13/9 [Representação de ponto flutuante, Soma e Multiplicacao](https://github.com/arduinoufv/inf250/tree/master/Float#1-representa%C3%A7%C3%A3o-de-ponto-flutuante-simplificada-do-ieee-754)
-## 15-27/09  [Verilog, FlipFlops, Maquina de Estados, Contadores e circuitos sequenciais](https://github.com/arduinoufv/inf250/tree/master/Maquina%20de%20Estados%20Finitos)
-# 29/09  Prova 1 - clique aqui para [Revisão de Float para prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lo4l-pWrpYbP-9z6vwBz4K) e clique aqui para [Playlist de Video com resolução de algumas questões Máquina de Estados](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lQUqJcxjS7PHEf4RIbK2SF) 
+*  06/9 [Apresentação do Curso - Playlist em Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nYi6w0TcXUlAwvoS43zOpX) 
+* 8-13/9 [Representação de ponto flutuante, Soma e Multiplicacao](https://github.com/arduinoufv/inf250/tree/master/Float#1-representa%C3%A7%C3%A3o-de-ponto-flutuante-simplificada-do-ieee-754)
+* 15-27/09  [Verilog, FlipFlops, Maquina de Estados, Contadores e circuitos sequenciais](https://github.com/arduinoufv/inf250/tree/master/Maquina%20de%20Estados%20Finitos)
+* 29/09  Prova 1 - clique aqui para [Revisão de Float para prova](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lo4l-pWrpYbP-9z6vwBz4K) e clique aqui para [Playlist de Video com resolução de algumas questões Máquina de Estados](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lQUqJcxjS7PHEf4RIbK2SF) 
 ## 04-07/10 [Assembly Language RISC V e Codificação](https://github.com/arduinoufv/inf250/tree/master/Assembler_Risc_V)
 ## 11-20/10  [RISC V monociclo](https://github.com/arduinoufv/inf250/tree/master/Processador_single_RISCV)
 ## 25/10   Revisão
