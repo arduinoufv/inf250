@@ -4,6 +4,15 @@
 ## Simuladores
 
 1. [Simulador Venus Risc-V](https://www.kvakil.me/venus/)  **Usar o simulador Venus, preferencialmente**
+
+
+![](https://miro.medium.com/max/800/1*K9_qchqCTGRdM_OiaF-Oew.png)
+![](https://miro.medium.com/max/1400/1*f50RuF9IRqgzCatWIpXCuw.png)
+![](https://miro.medium.com/max/1400/1*GVqoi2jj6GjounRAhm4xxg.png)
+![](https://miro.medium.com/max/1400/1*Pn0xWcgEGv7m4MS40IPtmQ.png)
+
+## Outros Simuladores
+
 2. [Simulador Online WebRisc-V](https://webriscv.dii.unisi.it/)
 3. [RISC-V Interpreter - Universidade Cornell](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
 
