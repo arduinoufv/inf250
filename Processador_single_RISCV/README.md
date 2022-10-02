@@ -1,18 +1,28 @@
 # 1. Processador SINGLE
 
 * [Online Simulator + datapath single cycle](https://jesse-r-s-hines.github.io/RISC-V-Graphical-Datapath-Simulator)
+
+![](https://miro.medium.com/max/800/1*K9_qchqCTGRdM_OiaF-Oew.png)
+![](https://miro.medium.com/max/1400/1*f50RuF9IRqgzCatWIpXCuw.png)
+![](https://miro.medium.com/max/1400/1*GVqoi2jj6GjounRAhm4xxg.png)
+![](https://miro.medium.com/max/1400/1*Pn0xWcgEGv7m4MS40IPtmQ.png)
+
+## 1.1 Datapath
+
+![](https://media.cheggcdn.com/media/5b4/5b4b57d4-1cd7-4e95-86d6-edb7caafc215/phpn5NF0U)
+
+## 1.2 Colab
 * [Colab com Risc-V em Verilog 2022](https://colab.research.google.com/drive/1ftgPO-byzSuC5IeEYgdCLqWA96DUz6p0?usp=sharing)
 
-## 1.1 Referências de Apoio
+## 1.3 Referências de Apoio
 
 [RISC-V Instruction Formats Instructor: Steven Ho](https://inst.eecs.berkeley.edu/~cs61c/resources/su18_lec/Lecture7.pdf)
-[Simulador Venus Risc-V](https://www.kvakil.me/venus/)  
 
-## 1.2 Capítulo 4 Patterson & Hennessy
+## 1.4 Capítulo 4 Patterson & Hennessy
 
 [Cap 4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
 
-## 1.3 Desenhando no Caminho de Dados (datapath)
+## 1.5 Desenhando no Caminho de Dados (datapath)
 
 [Playlist das instruções de lw, add, addi, beq, sw de 2021](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mFm26DMPe7K3OSu-Xg__Qw)
 
