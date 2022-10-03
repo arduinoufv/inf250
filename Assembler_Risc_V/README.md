@@ -9,7 +9,7 @@
 ![](https://miro.medium.com/max/800/1*K9_qchqCTGRdM_OiaF-Oew.png)
 ![](https://miro.medium.com/max/1400/1*f50RuF9IRqgzCatWIpXCuw.png)
 ![](https://miro.medium.com/max/1400/1*GVqoi2jj6GjounRAhm4xxg.png)
-![](https://miro.medium.com/max/1400/1*Pn0xWcgEGv7m4MS40IPtmQ.png)
+![](https://miro.medium.com/max/720/1*EAp2eigMdoY-44wOIScz6w.png)
 
 ## Outros Simuladores
 
