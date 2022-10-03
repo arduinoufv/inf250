@@ -2,6 +2,8 @@
 
 * [Online Simulator + datapath single cycle](https://jesse-r-s-hines.github.io/RISC-V-Graphical-Datapath-Simulator)
 
+[Formato das instrução no Excalidraw](https://excalidraw.com/#json=OWxmA8vHZD7wwkV6M96rF,XgiiwzUN-kJ1om3G2sZsDg)
+
 ![](https://miro.medium.com/max/800/1*K9_qchqCTGRdM_OiaF-Oew.png)
 ![](https://miro.medium.com/max/1400/1*f50RuF9IRqgzCatWIpXCuw.png)
 ![](https://miro.medium.com/max/1400/1*GVqoi2jj6GjounRAhm4xxg.png)
