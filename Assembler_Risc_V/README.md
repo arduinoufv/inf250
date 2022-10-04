@@ -18,6 +18,8 @@
 
 ## Trabalho de 2022
 
+[Play list com vários exemplos de programas em Assembler](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwU_HqhBgzdTP_diV8DKv9)
+
 ### Parte de Assembly
  1. Fazer a multiplicação de float 7 bits
  2. Fazer um printf 2^e * 1.x onde e=-3 a +4 e x é parte fracionária
