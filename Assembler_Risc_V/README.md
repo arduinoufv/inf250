@@ -34,6 +34,10 @@
 
 # Codificação 
 
+## Video de 2022
+
+[Playlist de Codificação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lBkuAXtF-8DH8WHVpnT7Fw)
+
 ## Material com slides
 
 1. [Slides do Capítulo 2 do Livro Patterson&Hennessy - Acesso Conta UFV](https://docs.google.com/presentation/d/1BqaqjFikDXnsPEoxdnN7-IbQU2Ji0nUNVJfQDp9I8Dk/edit?usp=sharing)
