@@ -20,6 +20,8 @@
 
 [Play list com vários exemplos de programas em Assembler](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwU_HqhBgzdTP_diV8DKv9)
 
+[Explicação e dicas para o trabalho](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n1WFLA0e0a-pF9texQuEbk)
+
 ### Parte de Assembly  (8 pontos)
 * Criar um link no drive ou github com os códigos para que seja fácil copiar e colar no VENUS para testar a execução.
 * [enviar o link por este formulário]()
