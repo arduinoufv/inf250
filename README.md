@@ -22,7 +22,7 @@ Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.
 ## 04-07/10 [Assembly Language RISC V e Codificação](https://github.com/arduinoufv/inf250/tree/master/Assembler_Risc_V)
 ## 11-20/10  [RISC V monociclo](https://github.com/arduinoufv/inf250/tree/master/Processador_single_RISCV)
 ## 25/10   Revisão
-# 27/10 Prova 2
+# 27/10 [Prova 2](https://github.com/arduinoufv/inf250/tree/master/Assembler_Risc_V/prova2_2022)
 
 ## 3-30/11 Risc V Pipeline, Desvio, Forwarding e Hazard, Branch Delay
 ## 2-9/12  Interrupção, Assembly com chamada de função e montadores, Barramento, Comunicações, Interfaces e Periféricos, Microprogramação
