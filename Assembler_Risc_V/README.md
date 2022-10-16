@@ -20,7 +20,7 @@
 
 [Play list com vários exemplos de programas em Assembler](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwU_HqhBgzdTP_diV8DKv9)
 
-### Parte de Assembly
+### Parte de Assembly  (8 pontos)
 * Criar um link no drive ou github com os códigos para que seja fácil copiar e colar no VENUS para testar a execução.
 * [enviar o link por este formulário]()
 
@@ -36,6 +36,15 @@
  ```
  
  #### 2. Fazer um printf 2^e * 1.x onde e=-3 a +4 e x é parte fracionária
+ * imprimir a resposta usando caracteres ASCII
+ * Entrada valor em t0
+ * Saida será em ASCII na memoria a partir da posicao GP, primeiro o expoente, depois o numero. Por exemplo 011 1000 = 2^3-3*(1+1/2) = 2^0 * 1.5.
+ ```
+0x1000000c	5			
+0x10000008	.	 		   
+0x10000004	1 
+0x10000000	0 - - - 
+ ```
  #### 3. Algoritmo KNN com duas dimensões
 
  Exemplos de 2021
