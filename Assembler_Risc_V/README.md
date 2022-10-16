@@ -55,6 +55,7 @@
  Memoria = 3, 2,1,  0, 0, 1  , 0, 1, 2 ,   1,0, 1 ,  2,0,1,  3,0,1,   0,2, 2,  0,3, 2  -1
  então K=3, queremos classificar o ponto (2,1) 
  a resposta será classe 1. 
+ ```
  [link para o exemplo](https://excalidraw.com/#json=GG_hvqG2cmiC0F0BvQd04,goMpojB9Ip38sk-DclWLjQ)
 
  Exemplos de 2021
