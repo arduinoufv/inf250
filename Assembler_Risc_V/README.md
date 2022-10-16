@@ -40,10 +40,10 @@
  * Entrada valor em t0
  * Saida será em ASCII na memoria a partir da posicao GP, primeiro o expoente, depois o numero. Por exemplo 011 1000 = 2^3-3*(1+1/2) = 2^0 * 1.5.
  ```
-0x1000000c	5			
-0x10000008	.	 		   
-0x10000004	1 
-0x10000000	0 - - - 
+0x1000000c				
+0x10000008	5
+0x10000004	1 .
+0x10000000	2 ^ 0  
  ```
  #### 3. Algoritmo KNN com duas dimensões
 
