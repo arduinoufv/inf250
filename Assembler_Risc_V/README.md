@@ -46,6 +46,16 @@
 0x10000000	2 ^ 0  
  ```
  #### 3. Algoritmo KNN com duas dimensões
+ 
+ ![](https://miro.medium.com/max/1024/1*CcnlWd_JbbAiO5J0WYdaqw.png)
+ 
+ * Entrada : O vetor terá duas dimensões e será armazenado a partir da posição GP. Primeiro tem o valor de K, depois seu ponto X,Y, seguido pelo vetor que terminar com -1.
+ * Saida: Irá ser escrita em GP, sobreescrevendo o valor de k. Pode ter três classes: 0, 1, 2;
+ ```
+ Memoria = 3, 2,1,  0, 0, 1  , 0, 1, 2 ,   1,0, 1 ,  2,0,1,  3,0,1,   0,2, 2,  0,3, 2  -1
+ então K=3, queremos classificar o ponto (2,1) 
+ a resposta será classe 1. 
+ [link para o exemplo](https://excalidraw.com/#json=GG_hvqG2cmiC0F0BvQd04,goMpojB9Ip38sk-DclWLjQ)
 
  Exemplos de 2021
  
