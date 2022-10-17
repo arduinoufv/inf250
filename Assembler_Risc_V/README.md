@@ -16,7 +16,7 @@
 2. [Simulador Online WebRisc-V](https://webriscv.dii.unisi.it/)
 3. [RISC-V Interpreter - Universidade Cornell](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
 
-## Trabalho de 2022
+## Trabalho de 2022 - entregar até 3 novembro de 2022.
 
 [Play list com vários exemplos de programas em Assembler](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwU_HqhBgzdTP_diV8DKv9)
 
