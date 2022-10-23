@@ -1,6 +1,8 @@
 # Assembly Language Risc-V
 
+## Livro
 
+[ Guia Prático RISC-V](http://riscvbook.com/portuguese/)
 ## Simuladores
 
 1. [Simulador Venus Risc-V](https://www.kvakil.me/venus/)  **Usar o simulador Venus, preferencialmente**
