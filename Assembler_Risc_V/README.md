@@ -60,7 +60,7 @@
  então K=3, queremos classificar o ponto (2,1) 
  a resposta será classe 1. 
  ```
- [link para o exemplo](https://excalidraw.com/#json=GG_hvqG2cmiC0F0BvQd04,goMpojB9Ip38sk-DclWLjQ)
+ [link para o exemplo](https://excalidraw.com/#json=jCg-UmaMlxfYCTQMU6qVm,BhUYn8dzWb3wTNhh0yVZvA)
 
  Exemplos de 2021
  
