@@ -64,6 +64,8 @@
 
  Exemplos de 2021
  
+ [Play list com vários exemplos de programas em Assembler](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwU_HqhBgzdTP_diV8DKv9)
+ 
  1. [Exemplos de Exercícios com Risc-V - Acesso Conta UFV](https://docs.google.com/presentation/d/1tb34UEvhoxoEdC1_fbXu3UY-vA_RvBoIy57_NG5N2Qc/edit?usp=sharing)
  2. [Exemplos de Exercícios com Risc-V e Vetores - Acesso Conta UFV](https://docs.google.com/presentation/d/1WRfD1qvOyuBejxO2VBSerXI2el9rSEjl9r4OwykaSUA/edit?usp=sharing)
 3. [Primeiros programas: Maior de 3, multiplicação e soma Float](https://docs.google.com/document/d/1rUmymGDLARdh5TfFf2sVm_lYDWwta8lBEPJUryNs3Xk/edit?usp=sharing)
