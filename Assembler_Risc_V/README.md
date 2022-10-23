@@ -20,7 +20,7 @@
 
 ## Trabalho de 2022 - entregar até 3 novembro de 2022.
 
-[Play list com vários exemplos de programas em Assembler](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwU_HqhBgzdTP_diV8DKv9)
+[Play list com vários exemplos de programas em Assembly](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwU_HqhBgzdTP_diV8DKv9)
 
 [Explicação e dicas para o trabalho](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n1WFLA0e0a-pF9texQuEbk)
 
