@@ -1,6 +1,9 @@
 # Inf250
 Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.com/#json=lxkRqRt4C_q_QTG34B07x,KQ6PQ1XiF9tY5UOHjkEzeA) 
 
+# Revisão de Verilog 
+
+[Site com exercícios e correção](https://hdlbits.01xz.net/wiki/Main_Page)
 
 ## Avaliação e Livros 2022
 * Aulas  **Terça 14-16 - PVA249, Quinta 16-18 - PVA239**
