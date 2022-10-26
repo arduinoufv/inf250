@@ -37,7 +37,19 @@ fim: sw t4,0(gp)
  
  1. Codificar em hexadecimal as instruções addi t4,x0,0 e slt t5,t3,x0
  2. Quais são as instruções para os códigos hexadecimal : 01d1a023,  407e0e33, 000e2f33 e 000f1663
- 
+
+## Questão 3
+
+### Parte I
+1. Desenhe no caminhos de dados os valores e fios ativos para executar a instrução do ciclo 5 da Questão 1.
+2. Desenhe no caminhos de dados os valores e fios ativos para executar a instrução do ciclo 6 da Questão 1.
+### Parte II
+1. Marque no código verilog as linhas que são importantes e os valores para executar a instrução do ciclo 5 da Questão 1.
+2. Marque no código verilog as linhas que são importantes e os valores para executar a instrução do ciclo 6 da Questão 1.
+### Parte III
+1. Crie uma nova instrução ADDMUL Rd,Rs1,Rs2 que faça Rd = Rs1*Rs2 + Rs2
+2. Crie uma nova instrução  LW++ rd,Im(rs1)  que faça Rd = mem[rs1+im]+1
+
  # Provas dos Anos anteriores 
    * algumas usavam MIPS, que é um pouco diferente do Risc-V, mas servem para ter questões para treinar
    * [prova de 2019](https://github.com/arduinoufv/inf250/blob/master/Assembler_Risc_V/prova2_2022/p19.pdf)
