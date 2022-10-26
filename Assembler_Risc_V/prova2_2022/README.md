@@ -16,6 +16,27 @@ Dado um código assembly, valores para alguns registradores e memória, executar
  * Parte II - Marcar as linhas importantes no código VERILOG e colocar as valores que são importantes para execução da instrução
  * Parte III - Implementar uma nova instrução.
  
+ # Exemplo para estudar para Prova 2
+ 
+ ## Questão 1
+
+1. Quais os valores dos registradores após 10 ciclos ? Quais serão os valores finais e quantos ciclos para executar o programa ?
+ ```
+addi t4,x0,0
+addi t3,x0,8
+addi t2,x0,3
+loop: sub t3,t3,t2
+slt t5,t3,x0 
+bne t5,x0, fim 
+addi t4,t4,1
+jal loop 
+fim: sw t4,0(gp)
+ ```
+ 
+ ## Questão 2
+ 
+ 1. Codificar em hexadecimal as instruções addi t4,x0,0 e slt t5,t3,x0
+ 2. Quais são as instruções para os códigos hexadecimal : 01d1a023,  407e0e33, 000e2f33 e 000f1663
  
  # Provas dos Anos anteriores 
    * algumas usavam MIPS, que é um pouco diferente do Risc-V, mas servem para ter questões para treinar
