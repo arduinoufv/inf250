@@ -8,7 +8,9 @@
 
 ## 1.2 Capítulo 4 Patterson & Hennessy
 
-[Cap 4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
+* [Cap 4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
+* [Playlist 1 de 2022: Introdução ao Pipeline](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nh7MBj-bq3hAXLJaYl8_Qx)
+
 
 ## 1.3 Colab
 
