@@ -1,6 +1,7 @@
 # 1. Processador SINGLE
 
 * [Online Simulator + datapath single cycle](https://jesse-r-s-hines.github.io/RISC-V-Graphical-Datapath-Simulator)
+* [Outro simulador online com código assembly, recursos de I/O e principais partes internas](https://eseo-tech.github.io/emulsiV/)
 
 [Formato das instrução no Excalidraw](https://excalidraw.com/#json=OWxmA8vHZD7wwkV6M96rF,XgiiwzUN-kJ1om3G2sZsDg)
 
