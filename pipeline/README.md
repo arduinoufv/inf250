@@ -9,15 +9,25 @@
 ## 1.2 Capítulo 4 Patterson & Hennessy
 
 * [Cap 4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
+
+## 1.3 Videos
 * [Playlist 1 de 2022: Introdução ao Pipeline](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nh7MBj-bq3hAXLJaYl8_Qx)
+* [Playlist 2 de 2022: Execução com Pipeline 5 Estágios sem encaminhamento (forward), sem hazard de Load, com desvio no 4 estágio](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kMTtfwxiGEnGkbdRikKBbt)
 
+## 1.4 Prova 3
 
-## 1.3 Colab
-
- [O que é uma pipeline](https://colab.research.google.com/drive/1IiRGHawF7l5R_PfUtNiirdMp6u5YKTVQ?usp=sharing)
+* Executar nos Caminhos de dados:
+   * 5 Estágios sem encaminhamento (forward), sem hazard de Load, com desvio no 4 estágio
+   * 5 Estágios sem encaminhamento (forward), sem hazard de Load, com desvio no 2 estágio
+   * 5 Estágios com encaminhamento (forward), com hazard de Load, com desvio no 4 estágio
+   * 5 Estágios com encaminhamento (forward), com hazard de Load, com desvio no 2 estágio
+   * 5 Estágios com encaminhamento (forward), com hazard de Load, com desvio com atraso
+   * 5 Estágios com encaminhamento (forward), com hazard de Load, com forward de load/store
  
 
-## 1.4 Implementação em Verilog
+## 1.5 Implementação em Verilog com Colab
+*  [O que é uma pipeline](https://colab.research.google.com/drive/1IiRGHawF7l5R_PfUtNiirdMp6u5YKTVQ?usp=sharing)
+
 * [Colab 2022 - Risc V **em construção**](https://colab.research.google.com/drive/1kg6gkRT1AL5b0oyjJeS2eJgKopQWC3a6?usp=sharing)
 
 * [Colab com implementação em Verilog e Trabalho 12](https://colab.research.google.com/drive/1npTGdSz9p_U8yAka_CSvVE775a-talJf?usp=sharing)
