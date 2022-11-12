@@ -30,6 +30,9 @@
 
 * [Colab 2022 - Risc V **em construção**](https://colab.research.google.com/drive/1kg6gkRT1AL5b0oyjJeS2eJgKopQWC3a6?usp=sharing)
 
+
+# Material de **2021** que será re-organizando (em construção)
+
 * [Colab com implementação em Verilog e Trabalho 12](https://colab.research.google.com/drive/1npTGdSz9p_U8yAka_CSvVE775a-talJf?usp=sharing)
 
 * [Riscv pipeline de 2021 branch 2 stage com forward_teste de ordena3, soma float, produto escalar, matmul 3x3](https://colab.research.google.com/drive/1772rQAbKzk3NLSNou_iHZG6L5c5eCXSn?usp=sharing)
@@ -37,7 +40,6 @@
 * [Video com algumas explicações de 2021](https://youtu.be/JXT9LKVEn18)
 
 
-# Material de 2021 que será re-organizando (em construção)
 
 ## 1.5 Execução com problemas de Dependência de dados e de controle
 
