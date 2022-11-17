@@ -18,7 +18,7 @@
 
 * Executar nos Caminhos de dados:
    * [5 Estágios sem encaminhamento (forward), sem hazard de Load, com desvio no 4 estágio](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kMTtfwxiGEnGkbdRikKBbt)
-   * 5 Estágios sem encaminhamento (forward), sem hazard de Load, com desvio no 2 estágio
+   * [5 Estágios sem encaminhamento (forward), sem hazard de Load, com desvio no 2 estágio](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwLC27VqprRSyNIqiqV5Ml)
    * 5 Estágios com encaminhamento (forward), com hazard de Load, com desvio no 4 estágio
    * 5 Estágios com encaminhamento (forward), com hazard de Load, com desvio no 2 estágio
    * 5 Estágios com encaminhamento (forward), com hazard de Load, com desvio com atraso
