@@ -30,6 +30,8 @@
 
 * [Colab 2022 - Risc V **em construção**](https://colab.research.google.com/drive/1kg6gkRT1AL5b0oyjJeS2eJgKopQWC3a6?usp=sharing)
 
+* [Playlist do Trabalho Risc-V Pipeline](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lKJ-mc9RLyVcAiXBBgU3zO)
+
 
 # Material de **2021** que será re-organizando (em construção)
 
