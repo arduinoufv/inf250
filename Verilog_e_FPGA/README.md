@@ -1,5 +1,13 @@
 # Verilog
 
+## Tools
+
+[wave forms](https://github.com/wavedrom/vcd-samples)
+
+[Tutorial interativo HDLbits](https://hdlbits.01xz.net/wiki/Main_Page)
+
+[waveform to svg](https://github.com/wavedrom/cli)
+
 ## Slides
 
 [Fundamentos](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/fundamentals_slides.pdf)
