@@ -16,6 +16,8 @@
 
 ## 1.4 Prova 3
 
+* [slides com os datapaths](https://docs.google.com/presentation/d/1IgIKxOrqwadU0sN3GxPt8boIPTwe8aiGKqHJ0VyEK8M/edit?usp=sharing)
+
 * Executar nos Caminhos de dados:
    * [5 Estágios sem encaminhamento (forward), sem hazard de Load, com desvio no 4 estágio](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kMTtfwxiGEnGkbdRikKBbt)
    * [5 Estágios sem encaminhamento (forward), sem hazard de Load, com desvio no 2 estágio](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwLC27VqprRSyNIqiqV5Ml)
