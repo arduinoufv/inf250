@@ -32,7 +32,7 @@
 
 * [Colab 2022 - Risc V **em construção**](https://colab.research.google.com/drive/1kg6gkRT1AL5b0oyjJeS2eJgKopQWC3a6?usp=sharing)
 
-## [Trabalho de Pipeline](https://colab.research.google.com/drive/1DH1vJH-RvLof7AEjKyFpFilaC4d0hvLW?usp=sharing)
+## [Trabalho de Pipeline 15/12 Agendar apresentação do GRUPO, pode ser meeting, nota individual com arguição de cada integrante do grupo](https://colab.research.google.com/drive/1DH1vJH-RvLof7AEjKyFpFilaC4d0hvLW?usp=sharing)
 
 * [Playlist do Trabalho Risc-V Pipeline](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lKJ-mc9RLyVcAiXBBgU3zO)
 
