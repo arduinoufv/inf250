@@ -30,8 +30,8 @@ Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.
 ## 3-30/11 [Risc V Pipeline, Desvio, Forwarding e Hazard, Branch Delay](https://github.com/arduinoufv/inf250/blob/master/pipeline/README.md)
 ## 2-9/12  Interrupção, Assembly com chamada de função e montadores, Barramento, Comunicações, Interfaces e Periféricos, Microprogramação
 
-# 13/12 [Trabalho Pipeline](https://colab.research.google.com/drive/1DH1vJH-RvLof7AEjKyFpFilaC4d0hvLW?usp=sharing)
-# 13/12 Prova 3 - dicas no item [pipeline](https://github.com/arduinoufv/inf250/blob/master/pipeline/README.md)
+# 15/12 [Trabalho Pipeline](https://colab.research.google.com/drive/1DH1vJH-RvLof7AEjKyFpFilaC4d0hvLW?usp=sharing)
+# 15/12 Prova 3 - dicas no item [pipeline](https://github.com/arduinoufv/inf250/blob/master/pipeline/README.md)
 
 
 
