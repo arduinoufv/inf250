@@ -16,7 +16,7 @@
 
 ## 1.4 Prova 3
 
-* [Exemplo de prova](https://docs.google.com/document/d/17g8LtWZdHjnSUcYCbSG2COamPq_C6kX0q916o853VKY/edit?usp=sharing) e [Playlist com resolucao](), as [figuras estão separadas aqui](https://docs.google.com/presentation/d/16FuC8rgQHVuDjy45zuZHFk0I-aHa96aSF-AFza3qauQ/edit?usp=sharing)
+* [Exemplo de prova](https://docs.google.com/document/d/17g8LtWZdHjnSUcYCbSG2COamPq_C6kX0q916o853VKY/edit?usp=sharing) e [Playlist com resolucao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k52nw4tAydqUz6lb3VRQ7O), as [figuras estão separadas aqui](https://docs.google.com/presentation/d/16FuC8rgQHVuDjy45zuZHFk0I-aHa96aSF-AFza3qauQ/edit?usp=sharing)
 * [slides com os datapaths](https://docs.google.com/presentation/d/1IgIKxOrqwadU0sN3GxPt8boIPTwe8aiGKqHJ0VyEK8M/edit?usp=sharing)
 * [Playlist de Revisao da Prova 3](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m9hRk8McWVW63-ojUrHBUp)
 
