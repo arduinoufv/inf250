@@ -36,6 +36,8 @@
 
 ## [Trabalho de Pipeline 15/12 Agendar apresentação do GRUPO, pode ser meeting, nota individual com arguição de cada integrante do grupo](https://colab.research.google.com/drive/1DH1vJH-RvLof7AEjKyFpFilaC4d0hvLW?usp=sharing)
 
+* [**Clique aqui para agendar**](https://docs.google.com/document/d/1wbITCGEnCTA8nQirkahLTYwzMHBaP_d9c2b1kSvuaPM/edit?usp=sharing)
+
 * [Assistir primeiro com dicas rápidas para depois ver o outro playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kMsoWg9IGRj1J-ncq_dIot)
 * [colab com códigos de teste](https://colab.research.google.com/drive/1KRcbL9tVtG9rS6Fp4c3p3-BxuyViyhZ_?usp=sharing)
 * [desenho do forward e hazard para voce completar e documentar seu trabalho](https://excalidraw.com/#json=N1MhgbcmsaQHovzLB7pAq,tb5F-ZMZo-b9pOlgDKZNyQ)
