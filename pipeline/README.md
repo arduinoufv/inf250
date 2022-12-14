@@ -34,7 +34,7 @@
 
 
 
-## [Trabalho de Pipeline 15/12 Agendar apresentação do GRUPO, pode ser meeting, nota individual com arguição de cada integrante do grupo](https://colab.research.google.com/drive/1DH1vJH-RvLof7AEjKyFpFilaC4d0hvLW?usp=sharing)
+## [Trabalho de Pipeline 19-20/12 Agendar apresentação do GRUPO, pode ser meeting, nota individual com arguição de cada integrante do grupo](https://colab.research.google.com/drive/1DH1vJH-RvLof7AEjKyFpFilaC4d0hvLW?usp=sharing)
 
 * [**Clique aqui para agendar**](https://docs.google.com/document/d/1wbITCGEnCTA8nQirkahLTYwzMHBaP_d9c2b1kSvuaPM/edit?usp=sharing)
 
