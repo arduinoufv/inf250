@@ -16,6 +16,8 @@
 [65 Slides](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/Verilog%20tutorial_65slides.pdf)
 ![](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/65_slides.png?raw=true)
 
+[Digital VLSI Design= Verilog + VLSI](https://www.eng.biu.ac.il/temanad/digital-vlsi-design/) plus [video aulas no Youtube](https://www.youtube.com/playlist?list=PLZU5hLL_713x0_AV_rVbay0pWmED7992G)
+
 ## Apostilas e Livros
 
 [Resumo em 2 paginas](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/SystemVerilogCheatSheet.pdf)
