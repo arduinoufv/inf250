@@ -36,6 +36,8 @@
 [Apostila 30 páginas com principais recursos de Verilog](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/verilog.pdf)
 ![](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/introductionToVerilog.png?raw=true)
 
+[material de referencia, muitos exemplos e quiz](https://www.referencedesigner.com/tutorials/verilog/verilog_quiz.php?n=1)
+
 # DigiKey 11 lessons
 
 [Introduction to FPGA and Verilog](https://www.youtube.com/watch?v=lLg1AgA2Xoo&list=PLEBQazB0HUyT1WmMONxRZn9NmQ_9CIKhb)
