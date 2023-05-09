@@ -3,6 +3,7 @@
 * [Revisão para PROVA 2022 - Questão de FLOAT](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lo4l-pWrpYbP-9z6vwBz4K)
 * [Playlist de Video para conversão de ponto flutuante](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nwdw2D7QmdA8oXo9qzWesU)
 * [Conversor para IEEE 754](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+* [outro conversor de FLOAT com vários formatos](https://float.exposed/0x6600)
 * [Apostila de Ponto Flutuante](https://github.com/arduinoufv/inf250/blob/master/download/apostila_float.pdf)
 * [Slides - Introdução a representação Float Simplificada](https://github.com/arduinoufv/inf250/blob/master/download/float.pdf)
     * [Exemplo do número 3 (conversão binário -> float)](https://excalidraw.com/#json=ThDTJc-WLtJGrfPTOPnJr,kZmX1bOD0YpJdIB0xaaRdQ) 
