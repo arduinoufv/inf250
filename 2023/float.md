@@ -9,6 +9,9 @@
 
 # Aulas
 
+* 15/8 - Introdução a representação de Float e conversão [Video-aula]()
+* 17/8 - Soma e Multiplicação em Ponto Flutuante  [Video-aula]()
+  
 # Colabs
 
 [Como codificar em Verilog Somadores e Multiplicadores para Float 7 bits](https://colab.research.google.com/drive/1r94L9UTlPbcHrzLj0Xxeg5y4zSQjsAPB?usp=sharing)
