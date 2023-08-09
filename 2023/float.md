@@ -9,6 +9,9 @@
 
 # Aulas
 
+# Colabs
+
+[Como codificar em Verilog Somadores e Multiplicadores para Float 7 bits](https://colab.research.google.com/drive/1r94L9UTlPbcHrzLj0Xxeg5y4zSQjsAPB?usp=sharing)
 # Exemplos para Prova
   * [Exemplo do número 3 (conversão binário -> float)](https://excalidraw.com/#json=ThDTJc-WLtJGrfPTOPnJr,kZmX1bOD0YpJdIB0xaaRdQ) 
   * [Exemplo do numero 1.7 convertendo para binário](https://excalidraw.com/#json=_BswoSwdBUj0DHYSujUtH,eO7PGC3_ZArxkw06SktwOA)
