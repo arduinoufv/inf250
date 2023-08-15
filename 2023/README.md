@@ -7,8 +7,12 @@
 
 
 # Parte I: [Ponto Flutuante - clique aqui](https://github.com/arduinoufv/inf250/blob/master/2023/float.md) e Máquina de Estados
+   
+   * 2 Aulas de Float, 2 Aulas Verilog, 6 Aulas Máquina de Estados
 
 # Parte II: Assembly RiscV e Processador Monociclo
+   *  4 aulas de Assembler, 7 Aulas Processador Monociclo
 
 # Parte III: Pipeline
 
+   * 7 aulas de Processador Pipeline
