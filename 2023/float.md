@@ -9,7 +9,7 @@
 
 # Aulas
 
-* 15/8 - Introdução a representação de Float e conversão [Video-aula]()
+* 15/8 - Introdução a representação de Float e conversão [Video-aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nljLqfgfMbara4FeJj5-gA)
 * 17/8 - Soma e Multiplicação em Ponto Flutuante  [Video-aula]()
   
 # Colabs
