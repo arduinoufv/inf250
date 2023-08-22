@@ -1,6 +1,8 @@
 # Referências Básicas
 
-* [Apostila de Ponto Flutuante](https://github.com/arduinoufv/inf250/blob/master/download/apostila_float.pdf)
+*  [**Livro Texto**: Organização e Projeto de Computadores: a Interface Hardware/software, John Hennessy](https://www.amazon.com.br/Organiza%C3%A7%C3%A3o-Projeto-Computadores-John-Hennessy/dp/8535287930) Pode ser 4 ou 5 edição.
+
+*  [Apostila de Ponto Flutuante](https://github.com/arduinoufv/inf250/blob/master/download/apostila_float.pdf)
 * [Slides - Introdução a representação Float Simplificada](https://github.com/arduinoufv/inf250/blob/master/download/float.pdf)
   
 ## Ferramentas 
