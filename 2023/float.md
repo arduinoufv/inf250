@@ -24,15 +24,24 @@
 * [Trabalho de 2023 a definir]()
 ---
 ## Dicas de Verilog
+ * [Slides com resumo de Verilog](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/Verilog%20tutorial_65slides.pdf)
  * [Resumo em uma folha](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/SystemVerilogCheatSheet.pdf)
+ * [Outro Resumo de Verilog](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/Verilog_cheat.pdf)
+ * [Exemplos de Código do Livro Verilog by Example](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/codesamples(1).pdf)
+ * [Vários Exemplos de código](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/verilog_examples14pages.pdf)
 ---
   
 # Exemplos para Prova
+---
+## conversão
   * [Exemplo do número 3 (conversão binário -> float)](https://excalidraw.com/#json=ThDTJc-WLtJGrfPTOPnJr,kZmX1bOD0YpJdIB0xaaRdQ) 
   * [Exemplo do numero 1.7 convertendo para binário](https://excalidraw.com/#json=_BswoSwdBUj0DHYSujUtH,eO7PGC3_ZArxkw06SktwOA)
   * [Exemplo 1.4 para binario](https://excalidraw.com/#json=63fMyTJx8oIZbiBqfs1Vt,nYhClsGchi5uK0IANpj_NA)
   * [Exemplo do numero 0.3 convertendo para binario](https://excalidraw.com/#json=Et7uflMZQFQHkAs_tTtUD,d6P-UPS5D9B0SGH_2xnK7g)
-
+---    
+## Soma e Multiplicação
+  * [dicas de 2022](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lo4l-pWrpYbP-9z6vwBz4K)
+---    
 # Referências Adicionais
 
 
