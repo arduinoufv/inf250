@@ -8,7 +8,7 @@
 ## Ferramentas 
 * [conversor online 32 bits IEEE 754](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
 * [Outro conversor com vários formatos](https://float.exposed/0x6600)
-
+  
 # Aulas
 
 * 15/8 - Introdução a representação de Float e conversão [Video-aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nljLqfgfMbara4FeJj5-gA)
