@@ -17,9 +17,9 @@
 # Colabs
 
 * [Introdução ao Float 2023](https://colab.research.google.com/drive/1Jrxs6kMs35bJv4JAfC2nASfru29m98HV?usp=sharing)
-* [Soma com Float](https://colab.research.google.com/drive/1HTWa84VkCMMXyUI1U1X0Efndi8KJ0TPg?usp=sharing)
-* [Multiplicacao com Float](https://colab.research.google.com/drive/1AxmzyTceMgcPr8m2wiGgAfvJWEdjxjEy?usp=sharing)
-
+* [Soma com Float 2023](https://colab.research.google.com/drive/1HTWa84VkCMMXyUI1U1X0Efndi8KJ0TPg?usp=sharing)
+* [Multiplicacao com Float 2023](https://colab.research.google.com/drive/1AxmzyTceMgcPr8m2wiGgAfvJWEdjxjEy?usp=sharing)
+* [Implementação em Verilog 2023](https://colab.research.google.com/drive/1EMtXRcnnI1TrmoS3rKjI8P97oivIEJ_1?usp=sharing)
 * [Trabalho dos anos anteriores para Consulta  - Como codificar em Verilog Somadores e Multiplicadores para Float 7 bits](https://colab.research.google.com/drive/1r94L9UTlPbcHrzLj0Xxeg5y4zSQjsAPB?usp=sharing)
 * [Trabalho de 2023 a definir]()
   
