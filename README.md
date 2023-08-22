@@ -1,6 +1,17 @@
 # Inf250
 Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.com/#json=lxkRqRt4C_q_QTG34B07x,KQ6PQ1XiF9tY5UOHjkEzeA) 
 
+
+
+# Ano de 2023
+
+[Clique aqui para 2023](https://github.com/arduinoufv/inf250/tree/master/2023)
+
+---
+
+---
+
+
 # Revisão de Verilog 
 
 [Site com exercícios e correção](https://hdlbits.01xz.net/wiki/Main_Page)
