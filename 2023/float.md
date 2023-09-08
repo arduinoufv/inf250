@@ -13,6 +13,11 @@
 
 * 15/8 - Introdução a representação de Float e conversão [Video-aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nljLqfgfMbara4FeJj5-gA)
 * 17/8 - Soma e Multiplicação em Ponto Flutuante  [Video-aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nBcH4sQfQNF13oDmup_UaO)
+* [Exemplo de como montar um multiplicador usando o ABC](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mtpCRl6ZkteW0rVQ0ZLg_T), no trabalho 1, você irão montar um somador FLoat na parte II, usando o ABC.
+
+# Trabalho 1 
+
+* [Playlist com dicas para Trabalho]()
   
 # Colabs
 
