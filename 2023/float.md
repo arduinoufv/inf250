@@ -17,7 +17,7 @@
 
 # Trabalho 1 
 
-* [Playlist com dicas para Trabalho]()
+* [Playlist com dicas para Trabalho](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mGTK7qQzxJRB_MA28mMbVB)
   
 # Colabs
 
