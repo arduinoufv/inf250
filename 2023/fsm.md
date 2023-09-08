@@ -5,9 +5,14 @@
 3. [Apostila Texto](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/download/fsm.pdf)
 4. [Slides FEUP 2004](https://web.fe.up.pt/~aja/PSD2004_05/slides/42-70.pdf)
  
-# Aulas
+# Aulas e Colab
 
-# Colabs
+
+* [5/9 Aula com Máquina de Estados com Cores e uma entrada A - Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lM7rHR_yP0mRBbQCWWyJl2) e clique [Aqui para o Colab](https://colab.research.google.com/drive/1sJHNdp4R_8ziY4QNLDcyHnVpU0KTXbX0?usp=sharing)
+
+# Trabalho 2
+
+* [link para o Colab](https://colab.research.google.com/drive/1xUynbYyjcn9jxyBCksVnShXZ_KUFPmDm?usp=sharing)
 
 # Exemplos para Prova
 
