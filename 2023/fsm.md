@@ -16,6 +16,8 @@
 # Trabalho 2
 
 * [link para o Colab](https://colab.research.google.com/drive/1xUynbYyjcn9jxyBCksVnShXZ_KUFPmDm?usp=sharing)
+* [Dicas para fazer o trabalho](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nV5hJFH5h5wELFJrpLzP87)
+* [clique aqui para envio do trabalho até 21/9](https://forms.gle/S7Ua44WvhPkXdGjc7)
 
 # Exemplos para Prova
 
