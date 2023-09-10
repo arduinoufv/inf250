@@ -18,6 +18,7 @@
 # Trabalho 1 
 
 * [Playlist com dicas para Trabalho](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mGTK7qQzxJRB_MA28mMbVB)
+* [Colab do Trabalho 1 para Entregar no 26/9](https://colab.research.google.com/drive/17L9NyNn7K7DW7D8XzfHWS7QZlhuMTLng?usp=sharing) - para enviar [clique aqui](https://forms.gle/kTiNFueD2PXKP2iR7)
   
 # Colabs
 
