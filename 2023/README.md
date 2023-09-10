@@ -6,7 +6,7 @@
 # Referências
 
 
-# Parte I: [Ponto Flutuante - clique aqui](https://github.com/arduinoufv/inf250/blob/master/2023/float.md) e Máquina de Estados
+# Parte I: [Ponto Flutuante - clique aqui](https://github.com/arduinoufv/inf250/blob/master/2023/float.md) e [Máquina de Estados](https://github.com/arduinoufv/inf250/blob/master/2023/fsm.md)
    
    * 2 Aulas de Float, 2 Aulas Verilog, 6 Aulas Máquina de Estados
 
