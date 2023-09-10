@@ -27,7 +27,6 @@
 * [Multiplicacao com Float 2023](https://colab.research.google.com/drive/1AxmzyTceMgcPr8m2wiGgAfvJWEdjxjEy?usp=sharing)
 * [Implementação em Verilog 2023](https://colab.research.google.com/drive/1EMtXRcnnI1TrmoS3rKjI8P97oivIEJ_1?usp=sharing)
 * [Trabalho dos anos anteriores para Consulta  - Como codificar em Verilog Somadores e Multiplicadores para Float 7 bits](https://colab.research.google.com/drive/1r94L9UTlPbcHrzLj0Xxeg5y4zSQjsAPB?usp=sharing)
-* [Trabalho de 2023 a definir]()
 ---
 ## Dicas de Verilog
  * [Slides com resumo de Verilog](https://github.com/arduinoufv/inf250/blob/master/Verilog_e_FPGA/Verilog%20tutorial_65slides.pdf)
