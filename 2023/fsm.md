@@ -12,6 +12,7 @@
 * [29/8 Aula continuação do Exemplo do Sinal com uso do Gradio para simulação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m2XJdC9m1Z6o8aASHzDSma)
   
 * [5/9 Aula com Máquina de Estados com Cores e uma entrada A - Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lM7rHR_yP0mRBbQCWWyJl2) e clique [Aqui para o Colab](https://colab.research.google.com/drive/1sJHNdp4R_8ziY4QNLDcyHnVpU0KTXbX0?usp=sharing)
+* [12/9 Aula com Várias Máquinas de Estados - Video]() + clique aqui para o [Colab](https://colab.research.google.com/drive/1f8eBLjbXRhE18IV1uNKdJOLdS2FxVmj7?usp=sharing)
 
 # Trabalho 2
 
