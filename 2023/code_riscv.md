@@ -12,6 +12,8 @@ Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 
 # Codificação 
 
+![](https://devopedia.org/images/article/110/3808.1535301636.png)
+
 * [Pasta com exemplos (desenhos) de 2021](https://github.com/arduinoufv/inf250/tree/master/Assembler_Risc_V/download/formato)
 
 
