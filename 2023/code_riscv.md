@@ -6,8 +6,7 @@
 2. [Slides de Risc-V e codificação: Department	of	Computer	Science	and	Engineering
 Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 
-Funct7 | rs2 | rs1 | func3 | rd | opcode
----|---      |---  |---    |--- |---
+
 
 ## Simulador
 1. [Simulador Venus Risc-V](https://www.kvakil.me/venus/) 
@@ -15,6 +14,8 @@ Funct7 | rs2 | rs1 | func3 | rd | opcode
 # Codificação 
 
 ![](https://devopedia.org/images/article/110/3808.1535301636.png)
+
+[Colab com exemplos](https://colab.research.google.com/drive/1M2_co9fhFM3_jt1PyED9S32BIlqj5U0G?usp=sharing)
 
 * [Pasta com exemplos (desenhos) de 2021](https://github.com/arduinoufv/inf250/tree/master/Assembler_Risc_V/download/formato)
 
