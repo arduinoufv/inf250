@@ -22,11 +22,15 @@ Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 ## Exemplos de 2023
 
 * [Exemplos básicos](https://github.com/arduinoufv/inf250/blob/master/2023/exemplos_riscv.md)
+* [Exemplos com desvios e laços](https://github.com/arduinoufv/inf250/blob/master/2023/riscv_desvios.md)
+* [Exemplos com vetores](https://github.com/arduinoufv/inf250/blob/master/2023/riscv_vetores.md)
 
 ## Trabalho 3 - Prazo 3 Outubro de 2023
 
 1. [Parte 1 Somador de Ponto Flutuante de 7 bits]()
 2. [Parte II Algoritmos K-means com K=3 e duas dimensões, usar uma reta como entrada (gerador), você define os centroides manualmente e a classificação é escrita na memória. ]()
+
+## Exemplos para Prova
 
 ## Exemplos dos Anos anteriores
 
