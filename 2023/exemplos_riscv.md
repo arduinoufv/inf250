@@ -6,14 +6,16 @@ Todos os exemplos executam no [simulador Venus](https://www.kvakil.me/venus/)
 * Aritméticas e lógicas com 1 operando + constante: (imediato): **addi, andi, ...**
 * Deslocamento Shift Lógico e Shift Aritmético com ou sem imediato: **srl,sra,sll,sla,srli,...** 
 
-  ## Exemplo 1 - Inicializa e soma dois valores nos registradores
+  ## Exemplo 1
+  ### Inicializa e soma dois valores nos registradores
  ```
   addi t0,x0,3  # Registrador t0 = x0 + 3 = 3, x0 tem sempre 0
   addi t1,x0,10 # t1 = x0+10=10
   add t2,t0,t1  # t2 = 3 + 10 = 13 
  ```
 
-  ## Exemplo 2 - Inicializa um float 7bits e separa expoente e mantissa
+  ## Exemplo 2 
+  ### Inicializa um float 7bits e separa expoente e mantissa
  ```
   addi t0,x0,0x38  # Registrador t0 = x0 + 0x38 = 0...011 1000
   andi t1,t0,0xf # t1 = t0 AND 0...0111 = Mantissa = 8 = 1000
@@ -28,14 +30,16 @@ Todos os exemplos executam no [simulador Venus](https://www.kvakil.me/venus/)
 * Iremos trabalhar com palavras de 32 bits ou 4 bytes, então iremos "andar" de 4 em 4 nos ponteiros
 * iremos usar apenas 2 instruções **sw** (store word) para gravar e **lw** (load word) para ler da memória.
 
-## Exemplo 3 soma 2 valores e grava na memória
+## Exemplo 3 
+### soma 2 valores e grava na memória
 ```
   addi t0,x0,3  # Registrador t0 = x0 + 3 = 3, x0 tem sempre 0
   addi t1,x0,10 # t1 = x0+10=10
   add t2,t0,t1  # t2 = 3 + 10 = 13
   sw  t2,0(gp)  # Grava t2 no posição GP de memória
  ```
-  ## Exemplo 2 - separa expoente e mantissa e grava em gp e gp+4
+  ## Exemplo 4
+  ### separa expoente e mantissa e grava em gp e gp+4
  ```
   addi t0,x0,0x38  # Registrador t0 = x0 + 0x38 = 0...011 1000
   andi t1,t0,0xf # t1 = t0 AND 0...0111 = Mantissa = 8 = 1000
@@ -44,7 +48,8 @@ Todos os exemplos executam no [simulador Venus](https://www.kvakil.me/venus/)
   sw  t2,0(gp)  # Grava t2 no posição GP de memória
   sw  t1,4(gp)  # Grava t1 no posição GP+4 de memória
  ```
-## Exemplo 5 soma 2 valores e grava na memória GP, depois ler da memoria GP e grava o dobro em GP+4
+## Exemplo 5 
+### soma 2 valores e grava na memória GP, depois ler da memoria GP e grava o dobro em GP+4
 ```
   addi t0,x0,3  # Registrador t0 = x0 + 3 = 3, x0 tem sempre 0
   addi t1,x0,10 # t1 = x0+10=10
