@@ -10,8 +10,8 @@
    
    * 2 Aulas de Float, 2 Aulas Verilog, 6 Aulas Máquina de Estados
 
-# Parte II: Assembly RiscV e Processador Monociclo
-   *  4 aulas de Assembler, 7 Aulas Processador Monociclo
+# Parte II: [Assembly RiscV](https://github.com/arduinoufv/inf250/blob/master/2023/assemblyriscV.md) e Processador Monociclo
+   *  2 aulas de Assembly, 2 aulas de codificação, 7 Aulas Processador Monociclo
 
 # Parte III: Pipeline
 
