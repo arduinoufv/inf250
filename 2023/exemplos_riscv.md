@@ -26,5 +26,7 @@ Todos os exemplos executam no [simulador Venus](https://www.kvakil.me/venus/)
 * No simulador Venus, usaremos a área de memória apontada pelo registrador **gp**
 * Nas implementações em Verilog, usaremos a posição **0** como referência
 * Iremos trabalhar com palavras de 32 bits ou 4 bytes, então iremos "andar" de 4 em 4 nos ponteiros
-* 
+* iremos usar apenas 2 instruções **sw** (store word) para gravar e **lw** (load word) para ler da memória.
+
+## Exemplo 3 
 
