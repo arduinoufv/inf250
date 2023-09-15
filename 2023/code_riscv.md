@@ -6,6 +6,8 @@
 2. [Slides de Risc-V e codificação: Department	of	Computer	Science	and	Engineering
 Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 
+Funct7 | rs2 | rs1 | func3 | rd | opcode
+---|---      |---  |---    |--- |---
 
 ## Simulador
 1. [Simulador Venus Risc-V](https://www.kvakil.me/venus/) 
