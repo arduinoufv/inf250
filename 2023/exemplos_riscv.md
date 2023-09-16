@@ -49,7 +49,7 @@ Todos os exemplos executam no [simulador Venus](https://www.kvakil.me/venus/)
   sw  t1,4(gp)  # Grava t1 no posição GP+4 de memória
  ```
 ## Exemplo 5 
-### soma 2 valores e grava na memória GP, depois ler da memoria GP e grava o dobro em GP+4
+### soma 2 valores e grava na memória GP, depois lê da memoria GP e grava o dobro em GP+4
 ```
   addi t0,x0,3  # Registrador t0 = x0 + 3 = 3, x0 tem sempre 0
   addi t1,x0,10 # t1 = x0+10=10
