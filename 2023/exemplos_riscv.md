@@ -59,5 +59,11 @@ Todos os exemplos executam no [simulador Venus](https://www.kvakil.me/venus/)
   add t0,t0,t0
   sw  t0,4(gp)
  ```
+
+ ## Exemplo 6 - Qual a diferença entre um shift lógico e um shift aritmético ?
+
+ ## Exemplo 7 - Como posso incrementar um ponteiro em um array ?
+
+ ## Exemplo 8 - Como posso representar dois array A e B e fazer acesso a A[i] e B[j] ?
  
 
