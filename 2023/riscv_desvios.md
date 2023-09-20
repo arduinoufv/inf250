@@ -14,6 +14,7 @@ Temos várias instruções, as mais frequentes de serem implementadas são:
 
 ## Exemplos
 
+### comando IF
 ```
 if t1 > t2
    t3 = t2 + 1
@@ -28,5 +29,15 @@ beq x0,x0,END:
 THEN:addi t3,t2,1
 END:
 ```
+
+### Manipulação sem sinal
+```
+addi t1,x0,-1
+addi t0,x0,1
+bltu t0,t1,END:
+add t0,t0,t0
+END:
+```
+* Qual será o valro de t0 ?
 
 
