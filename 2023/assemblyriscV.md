@@ -18,7 +18,7 @@
 
 ## Exemplos de 2023
 
-* [Exemplos básicos](https://github.com/arduinoufv/inf250/blob/master/2023/exemplos_riscv.md)
+* [Exemplos básicos](https://github.com/arduinoufv/inf250/blob/master/2023/exemplos_riscv.md) e [Video com explicacoes](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lMlWXk48zPsMj7Zj4iQCG-)
 * [Exemplos com desvios e laços](https://github.com/arduinoufv/inf250/blob/master/2023/riscv_desvios.md)
 * [Exemplos com vetores](https://github.com/arduinoufv/inf250/blob/master/2023/riscv_vetores.md)
 
