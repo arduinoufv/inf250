@@ -20,7 +20,7 @@ if t1 > t2
 else
    t3 = t2 - 1
 ```
-em assembler
+em assembly
 ```
 blt t2,t1,THEN #  t2 < t1
 addi t3,t2,-1
