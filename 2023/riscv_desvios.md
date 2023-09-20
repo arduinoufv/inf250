@@ -38,6 +38,27 @@ bltu t0,t1,END:
 add t0,t0,t0
 END:
 ```
-* Qual será o valro de t0 ?
+* Qual será o valor de t0 ?
+
+# Laços ou loops
+
+## Exemplos
+
+### Preencher da posição gp, 10 posições de memória considerando palavras de 4 bytes com one-hot code 1, 10, 100, 1000, ....
+
+```
+addi t0,x0, 10
+addi t1,gp,0
+addi t2,x0,1
+LOOP: beq t0,x0,END:
+sw t2,0(t1)
+addi t1,t1,4
+slli t2,t2,1
+addi t0,t0,-1
+beq x0,x0,LOOP
+```
+
+
+
 
 
