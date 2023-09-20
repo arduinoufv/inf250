@@ -32,3 +32,13 @@ NAO_ACHOU: addi t0,x0,-1
 END:
 
 ```
+
+### Fazer o produto escalar de dois vetores
+
+### Fazer o somatorio de um vetor
+
+### Retirar elementos repetidos de um vetor
+
+### contar as ocorrências em um vetor
+
+
