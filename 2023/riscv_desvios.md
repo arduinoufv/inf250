@@ -18,16 +18,16 @@ Temos várias instruções, as mais frequentes de serem implementadas são:
 ### comando IF
 ```
 if t1 > t2
-   t3 = t2 + 1
+   t0 = t2 + 1
 else
-   t3 = t2 - 1
+   t0 = t2 - 1
 ```
 em assembly
 ```
 blt t2,t1,THEN #  t2 < t1
-addi t3,t2,-1
+addi t0,t2,-1
 beq x0,x0,END:
-THEN:addi t3,t2,1
+THEN:addi t0,t2,1
 END:
 ```
 
