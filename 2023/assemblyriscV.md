@@ -25,7 +25,7 @@
 ## Trabalho 3 - Prazo 3 Outubro de 2023
 
 1. [Parte 1 Somador de Ponto Flutuante de 7 bits](https://github.com/arduinoufv/inf250/blob/master/2023/T3_floataddRISCV.md)
-2. [Parte II Algoritmos K-means com K=3 e duas dimensões, usar uma reta como entrada (gerador), você define os centroides manualmente e a classificação é escrita na memória. ]()
+2. [Parte II Algoritmos K-means com K=3 e duas dimensões, usar uma reta como entrada (gerador), você define os centroides manualmente e a classificação é escrita na memória. ](https://github.com/arduinoufv/inf250/blob/master/2023/kmeans.md)
 
 [Para submeter o trabalho 3](https://forms.gle/ZNQn7munVY7Pbxwg8)
 
