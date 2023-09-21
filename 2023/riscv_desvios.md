@@ -6,6 +6,7 @@ Todos os exemplos executam no [simulador Venus](https://www.kvakil.me/venus/)
 Temos várias instruções, as mais frequentes de serem implementadas são:
 * **beq rs1,rs2, Dest** que irá desviar para o **Dest** como um **goto** se **r1==r2**
 * Outras variações são
+  
       * bne (não igual),
       * blt (menor),
       * bge (maior igual)
