@@ -17,6 +17,8 @@ Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 
 [Colab com exemplos](https://colab.research.google.com/drive/1j4duq-VNTc3S_4TCbGBKvoKPv51asSAG?usp=sharing) 
 
+![](https://github.com/arduinoufv/inf250/blob/master/2023/figuras/ris_type-riscv.png?raw=true) 
+
 * [Pasta com exemplos (desenhos) de 2021](https://github.com/arduinoufv/inf250/tree/master/Assembler_Risc_V/download/formato)
 
 
