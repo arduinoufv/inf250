@@ -35,6 +35,35 @@ END:
 
 ### Fazer o produto escalar de dois vetores
 
+```
+.data
+    # Declaração dos valores
+    .word 1
+    .word 2
+    .word 3
+    .word -1
+    .word 3
+    .word 2
+    .word 1
+    .word -1
+.text
+# t3 Ponteiro vetor A
+# t3+ 16  Ponteio vetor B
+addi t3,gp,0 # ponteiro
+addi t2,x0,-1
+addi s0,x0,0
+lw t0,0(t3)  # Ao
+lw t1,16(t3)  # Bo
+loop: beq  t0,t2,END
+      mul t0,t0,t1
+      add s0,s0,t0
+      addi t3,t3,4
+      lw t0,0(t3)  # Ai
+      lw t1,16(t3)  # Bi
+      beq x0,x0,loop
+END:
+```
+
 ### Fazer o somatorio de um vetor
 
 ### Retirar elementos repetidos de um vetor
