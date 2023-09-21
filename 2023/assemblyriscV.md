@@ -18,11 +18,15 @@
 
 ## Exemplos de 2023
 
-* [Exemplos básicos](https://github.com/arduinoufv/inf250/blob/master/2023/exemplos_riscv.md) e [Video com explicacoes](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lMlWXk48zPsMj7Zj4iQCG-)
+[Video com explicacoes](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lMlWXk48zPsMj7Zj4iQCG-)
+
+* [Exemplos básicos](https://github.com/arduinoufv/inf250/blob/master/2023/exemplos_riscv.md) 
 * [Exemplos com desvios e laços](https://github.com/arduinoufv/inf250/blob/master/2023/riscv_desvios.md)
 * [Exemplos com vetores](https://github.com/arduinoufv/inf250/blob/master/2023/riscv_vetores.md)
 
 ## Trabalho 3 - Prazo 3 Outubro de 2023
+
+[videos com explicações](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k5vCd8AeFSsqFENeU_bO0x)
 
 1. [Parte 1 Somador de Ponto Flutuante de 7 bits](https://github.com/arduinoufv/inf250/blob/master/2023/T3_floataddRISCV.md)
 2. [Parte II Algoritmos K-means com K=3 e duas dimensões, usar uma reta como entrada (gerador), você define os centroides manualmente e a classificação é escrita na memória. ](https://github.com/arduinoufv/inf250/blob/master/2023/kmeans.md)
