@@ -1,6 +1,6 @@
 
 # Cronograma de 2023
-* Provas: 17/10 (35 pontos), 21/11 (30 pontos), 14/12 (25 pontos)
+* Provas: 19/10 (35 pontos), 21/11 (30 pontos), 14/12 (25 pontos)
 * Trabalhos em grupos: 10 pontos.
   
 # Referências
