@@ -1,5 +1,8 @@
 # Codificação Risc-V
 
+## Aulas 
+
+1. [Codificação de Tipo R e Tipo I- Aula de 26/9/23 ](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m0_Bbo5uzh8LDFaXvSSuLf)
 ## Slides de Referência
 
 1. [RISC-V Instruction Formats Instructor: Steven Ho](https://inst.eecs.berkeley.edu/~cs61c/resources/su18_lec/Lecture7.pdf)
