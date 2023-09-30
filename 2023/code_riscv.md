@@ -20,6 +20,8 @@ Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 
 [Colab com exemplos](https://colab.research.google.com/drive/1j4duq-VNTc3S_4TCbGBKvoKPv51asSAG?usp=sharing) 
 [Lista de exercicio da aula 26 setembro](https://drive.google.com/file/d/1Wqzh1l8wOJNHI9NsZWmCdFto8byijNgy/view?usp=sharing)
+[Lista de exercicio da aula 29 setembro](https://drive.google.com/file/d/10udC2CuhCyzEk49RF6fKmrqHb2Ghs_f3/view?usp=sharing)
+
 
 ![](https://github.com/arduinoufv/inf250/blob/master/2023/figuras/ris_type-riscv.png?raw=true) 
 
