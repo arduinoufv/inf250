@@ -27,7 +27,11 @@ Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 
 * [Pasta com exemplos (desenhos) de 2021](https://github.com/arduinoufv/inf250/tree/master/Assembler_Risc_V/download/formato)
 
+# Exemplos para Prova
 
+* [Assembly para Hexadecimal](https://colab.research.google.com/drive/1QHVEaphOLVFhRe-NSnaqh7N6nyrzNSPx?usp=sharing)
+* [Hexadecimal para Assembly]()
+  
 # Implementações em Verilog
 1. [Risc-V Monociclo](https://colab.research.google.com/drive/1zu_QOlFuqM9g_nA5l16GKRIin5B0KbEA?usp=sharing)
 2. [Disassembler](https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV/riscv_disassembly.v)
