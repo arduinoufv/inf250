@@ -30,7 +30,7 @@ Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 # Exemplos para Prova
 
 * [Assembly para Hexadecimal](https://colab.research.google.com/drive/1QHVEaphOLVFhRe-NSnaqh7N6nyrzNSPx?usp=sharing)
-* [Hexadecimal para Assembly]()
+* [Hexadecimal para Assembly](https://colab.research.google.com/drive/1_IJVgOGokCY0RMEBD1bR6CD1oAiDIJwE?usp=sharing)
   
 # Implementações em Verilog
 1. [Risc-V Monociclo](https://colab.research.google.com/drive/1zu_QOlFuqM9g_nA5l16GKRIin5B0KbEA?usp=sharing)
