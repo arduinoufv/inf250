@@ -1,7 +1,9 @@
 
 # Cronograma de 2023
-* Provas: [19/10 (35 pontos)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDfmgmxRhAvYEP4WFLw0gd), 21/11 (30 pontos), 14/12 (25 pontos)
-* Trabalhos em grupos: 10 pontos.
+* Provas:
+    * [19/10 (35 pontos)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDfmgmxRhAvYEP4WFLw0gd),A Prova será sala 153 do PVA para INF 250.
+    * 21/11 (30 pontos), 14/12 (25 pontos)
+* Trabalhos em grupos: Somador Float 2 pontos, Maquina estados 2 pontos, Assembly 2 pontos, ..., total 10 pontos
   
 # Referências
 
