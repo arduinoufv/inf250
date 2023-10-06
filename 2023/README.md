@@ -1,7 +1,7 @@
 
 # Cronograma de 2023
 * Provas:
-    * [19/10 (35 pontos)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDfmgmxRhAvYEP4WFLw0gd),A Prova será sala 153 do PVA para INF 250.
+    * [19/10 (35 pontos) dicas em video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kDfmgmxRhAvYEP4WFLw0gd),A Prova será sala 153 do PVA para INF 250.
       com 4 questões: [float](https://github.com/arduinoufv/inf250/blob/master/2023/float.md#exemplos-para-prova), [assembly](https://github.com/arduinoufv/inf250/blob/master/2023/assemblyriscV.md#exemplos-para-prova), [codificacao](https://github.com/arduinoufv/inf250/blob/master/2023/code_riscv.md#exemplos-para-prova) [maquina de estado](https://github.com/arduinoufv/inf250/blob/master/2023/fsm.md#exemplos-para-prova)
       
     * 21/11 (30 pontos), 14/12 (25 pontos)
