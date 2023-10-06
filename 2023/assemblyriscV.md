@@ -35,6 +35,8 @@
 
 ## Exemplos para Prova
 
+Para os exemplos do [link](https://github.com/arduinoufv/inf250/blob/master/2023/exemploASM.md), executar os "X" ciclos e mostrar passo a passo, os valores dos registradores.
+
 ## Exemplos dos Anos anteriores
 
  1. [Exemplos de Exercícios com Risc-V - Acesso Conta UFV](https://docs.google.com/presentation/d/1tb34UEvhoxoEdC1_fbXu3UY-vA_RvBoIy57_NG5N2Qc/edit?usp=sharing)
