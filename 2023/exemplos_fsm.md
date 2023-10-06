@@ -30,5 +30,48 @@ Com Tabela para o seu diagrama. Preencher 4 linhas da tabela, onde cada
 linha tem um estado diferente.
 ```
 
+# Questão Parte B de Máquina de estados
+
+## Exemplo 1
+
+### Montar a Tabela para o circuito abaixo e depois montar o diagrama. 
+```
+module statePorta(input clk, input res, input d, output t);
+wire [1:0] e;
+wire [1:0] p;
+wire [1:0] state;
+assign state = e;
+assign t = e[0] & e[1];
+assign p[0] = (~d);
+assign p[1] = (e[0] & d) | (e[1] & ~e[0] & ~d);
+ff  e0(p[0],clk,res,e[0]);
+ff  e1(p[1],clk,res,e[1]);
+endmodule
+```
+### Montar a descrição comportamental em Verilog (case, if, ...)
+
+## Exemplo 2
+
+### Montar a Tabela para o circuito abaixo e depois montar o diagrama. 
+```
+module statePorta(input clk, input res, output A, output B);
+wire [2:0] e;
+wire [2:0] p;
+wire [2:0] state;
+assign state = e;
+wire x,y;
+  assign p[2] = ~e[2] & ~e[0];
+  assign x = ~e[2] & e[1];
+  assign p[1] = ~e[0] & x;
+  assign y = e[2] & e[1];
+  assign A = ~e[0] & ~y;
+  assign p[0] = 1'b0;
+  assign B = p[1];
+ff  e0(p[0],clk,res,e[0]);
+ff  e1(p[1],clk,res,e[1]);
+ff  e2(p[2],clk,res,e[2]);
+endmodule
+```
+### Montar a descrição comportamental em Verilog (case, if, ...)
 
 
