@@ -24,6 +24,8 @@
 
 # Exemplos para Prova
 
+* [Exemplos de questões da Prova](https://github.com/arduinoufv/inf250/blob/master/2023/exemplos_fsm.md)
+
 
 # Colabs dos Anos Anteriores
  * [Trabalho 1 - Entregar **Versão Escrita 22/9** e **Colab e Tinkercad 27/9** Exemplos para introdução a Máquinas de Estados](https://colab.research.google.com/drive/1PbSVpL_3nediedSoxAfgE7ibMW5thHZy?usp=sharing) - [algumas dicas no tinkercad](https://youtu.be/HPvzTf_zgtI)
