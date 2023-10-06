@@ -16,5 +16,19 @@ Com Tabela para o seu diagrama. Preencher 4 linhas da tabela, onde cada
 linha tem um estado diferente.
 ```
 
+## Exemplo 2
+
+### Fazer o diagrama de estados
+```
+para uma máquina com 1 entrada A e tres saidas B,C,D, se A mudar de 0 para 1, B fica ligado, C irá piscar 0,1,0,1 e D desligado. Se A mudar de
+1 para 0, C e D irão alternar, se C está ligado, D será desligado e B ficará desligado.
+```
+
+### Monte a descrição em Verilog
+```
+Com Tabela para o seu diagrama. Preencher 4 linhas da tabela, onde cada
+linha tem um estado diferente.
+```
+
 
 
