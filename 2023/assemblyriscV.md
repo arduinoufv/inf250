@@ -1,6 +1,10 @@
 
 # Assembly Language Risc-V
 
+## Risc-V História
+
+* [Sifive Video- open source and open standard are two completely different things](https://youtu.be/RrVRMFjYti0)
+
 ## Livros
 * [Patterson&Hennessy - Computer Organization - Risc-V Edition](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
 * [Manual Especificação - Muito Detalhado](https://riscv.org//wp-content/uploads/2017/05/riscv-spec-v2.2.pdf)
