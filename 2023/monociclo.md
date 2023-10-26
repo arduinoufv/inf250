@@ -1,3 +1,7 @@
+# Exercicios para Prova
+
+* [Completar com valores e marcar as linhas para Datapath e instruções](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwiTYTHD-EwGMW3T9gLIkK)
+  
 # Single Cycle
 
 * [playlist de Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nd3-M5_7Ta5kHfxNqvAl67)
