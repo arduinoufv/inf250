@@ -1,6 +1,11 @@
 # Exercicios para Prova
 
 * [Completar com valores e marcar as linhas para Datapath e instruções](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwiTYTHD-EwGMW3T9gLIkK)
+
+# Trabalho 4 (3 pontos + 3 extras)
+
+* [Link para Colab](https://colab.research.google.com/drive/1fK1KoWXSxkAaw4NLHXgh6Xnwi8SYUcVT?usp=sharing)
+* [playlist video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lJfzPk3wmMqBp7vgL_EtJs)
   
 # Single Cycle
 
@@ -15,9 +20,6 @@
 
 ![](https://media.cheggcdn.com/media/5b4/5b4b57d4-1cd7-4e95-86d6-edb7caafc215/phpn5NF0U)
 
-  # Trabalho 4 - Desenho Risc-V
-
-  * [play list de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lJfzPk3wmMqBp7vgL_EtJs)
 
 ## Referências de Apoio
 
