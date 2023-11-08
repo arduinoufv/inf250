@@ -10,6 +10,8 @@
 
 ## Pipeline com Forward, hazard load e opções de otimização do desvio
 
+* [exercício de aula](https://docs.google.com/document/d/17OgXSr_SnZZlbxFT3kx3GMjUBI6VHj_7E-vusxVVCJY/edit?usp=sharing)
+* [Colab com soluções]()
  ### Forwarding, Desvio 4 estágio, Sem hazard de load
  ![](https://user-images.githubusercontent.com/56905673/117547053-f932fe00-b046-11eb-91af-9291291d4f52.png)
 
