@@ -1,6 +1,7 @@
 # Exercicios para Prova
 
 * [Completar com valores e marcar as linhas para Datapath e instruções](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lwiTYTHD-EwGMW3T9gLIkK)
+* [Aula de Revisão para questões 1 e 2 da Prova: Datapath+verilog e Novas Instruções](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n2g8IEfzXRHoNbGZRLNBBX)
 
 * [Criar novas Instruções]()
       * uma instrução BEQI RS,RT que faz PC = PC+Mem[RS] se RS == RT, senão PC=PC+4. O Opcode é 15.   
