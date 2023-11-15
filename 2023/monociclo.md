@@ -6,7 +6,7 @@
 * [link para codigo Verilog que estará na Prova e o Datapath](https://excalidraw.com/#json=M8B-WpPT-m0Ah2r_haFEt,tAYH-lBVh3ge8ooSSVPjDA)
 * [Exemplo excalidraw da Instrução SW x7,-4(x3) que está no video 5 da revisão Parte I](https://excalidraw.com/#json=6OkqijnGZXEJ0Ex0SrOrg,9M7VQNn-b5g_Tdg_I1Dpzw)
 * [Criar novas Instruções]()
-      * uma instrução BEQI RS,RT que faz PC = PC+Mem[RS] se RS == RT, senão PC=PC+4. O Opcode é 15.   
+      * uma instrução BEQI Rs1,Rs2 que faz PC = PC+Mem[RS1] se RS1 == Rs2, senão PC=PC+4. O Opcode é 15.   
   
 # Trabalho 4 (3 pontos + 3 extras) para 16/11
 
