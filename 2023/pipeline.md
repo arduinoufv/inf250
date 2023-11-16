@@ -1,5 +1,8 @@
 # Pipeline 5 Estágio no Risc-V
 
+## Questões para prova
+
+* [Playlist](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ngr7E5ICjq0Fv64i1BefIJ) + a folha de [exercicios](https://docs.google.com/document/d/12tPIAHOF2qvwHiwHCLHSSJn3oLVe6scBdRP-dK7JJ4s/edit?usp=sharing)
 
 ## Pipeline Simples
 
