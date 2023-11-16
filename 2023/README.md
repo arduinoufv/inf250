@@ -19,4 +19,4 @@
 
 # Parte III: Pipeline
 
-   * 7 aulas de Processador Pipeline
+   * [Aulas de Processador Pipeline - Tabela de Execução e Caminho de Dados](https://github.com/arduinoufv/inf250/blob/master/2023/pipeline.md)
