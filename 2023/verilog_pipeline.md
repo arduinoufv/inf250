@@ -11,9 +11,7 @@
 * [Explicacoes do controle de hazard e forward](https://docs.google.com/presentation/d/139fkUELTPbqwLA-9y-7ck_yOIOx7PdpEcZCnKd0UStg/edit?usp=sharing)
 
 ## Tarefas de 2023
-* [Forward para Lw e Sw (em construção)]()
-* [Ilustração Ascii do Forward no Pipeline]()
-* [Medindo desempenho, contagem Stall no pipeline, escalonamento para Kmeans, Processamento de Imagens (em construção)]()
+* [Trabalho de Forward de ALU e que também inclui forward de lw e sw](https://colab.research.google.com/drive/16yZ_1yzPSSOeAIbk_ERJQiNoBd4rj5wu?usp=sharing)
  
 ## Outras versões parciais em Verilog
 * [Riscv que tem forward e branch no 4 estágio](https://colab.research.google.com/drive/1kg6gkRT1AL5b0oyjJeS2eJgKopQWC3a6?usp=sharing)
