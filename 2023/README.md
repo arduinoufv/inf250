@@ -20,5 +20,6 @@
    *  2 aulas de Assembly, 2 aulas de codificação, 7 Aulas Processador Monociclo
 
 # Parte III: Pipeline
+   * [Parte final da Matéria](https://github.com/arduinoufv/inf250/blob/master/2023/verilog_pipeline.md)
 
    * [Aulas de Processador Pipeline - Tabela de Execução e Caminho de Dados](https://github.com/arduinoufv/inf250/blob/master/2023/pipeline.md)
