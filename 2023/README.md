@@ -6,7 +6,7 @@
       
     * 23/11 (30 pontos) - PVA 153 [Resumo para prova](https://youtu.be/q9kk7kZ_N-4), [parte I](https://www.youtube.com/playlist?list=PLcvOyD_LMr6n2g8IEfzXRHoNbGZRLNBBX)  e [parteII](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ngr7E5ICjq0Fv64i1BefIJ) consultar também as dicas na página [single cycle](https://github.com/arduinoufv/inf250/blob/master/2023/monociclo.md) e do [pipeline](https://github.com/arduinoufv/inf250/blob/master/2023/pipeline.md)
     
-    * 14/12 (25 pontos)
+    * 14/12 (25 pontos) Pva 153 - [Material para estudar](https://github.com/arduinoufv/inf250/blob/master/2023/verilog_pipeline.md#prova-3)
 * Trabalhos em grupos: Somador Float 2 pontos, Maquina estados 2 pontos, Assembly 2 pontos, ..., total 10 pontos
   
 # Referências
