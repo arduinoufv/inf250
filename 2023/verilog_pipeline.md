@@ -1,7 +1,7 @@
 # Prova 3
 
 * [dicas gerais para questões do código Verilog do Bloqueio no Decode e da solução com Forward](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lsG3LIi-69elMPP1-Stk5l)
-* [folha de questão para prova 3](https://docs.google.com/presentation/d/15hHUMlC-6OaBsRUzTIKy1WGualPie5oDQNUbfyb9j_k/edit?usp=sharing)
+* [folha de questão para prova 3](https://docs.google.com/presentation/d/15hHUMlC-6OaBsRUzTIKy1WGualPie5oDQNUbfyb9j_k/edit?usp=sharing) com as explicações no [playlist de video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mqHmOUhG7udwJv_VkiFl2t)
 * [folha com alguns exercicios para prova](https://docs.google.com/presentation/d/139fkUELTPbqwLA-9y-7ck_yOIOx7PdpEcZCnKd0UStg/edit?usp=sharing)
 
 # Simuladores
