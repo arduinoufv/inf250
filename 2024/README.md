@@ -11,7 +11,7 @@
 # Referências
 
 
-# Parte I: [Ponto Flutuante - clique aqui](https://github.com/arduinoufv/inf250/blob/master/2023/float.md) e [Máquina de Estados](https://github.com/arduinoufv/inf250/blob/master/2023/fsm.md)
+# Parte I: [Ponto Flutuante - clique aqui](https://github.com/arduinoufv/inf250/blob/master/2024/float24.md) e [Máquina de Estados](https://github.com/arduinoufv/inf250/blob/master/2023/fsm.md)
    
    * 2 Aulas de Float, 6 Aulas Máquina de Estados, 2 Assembly Risc V
 
