@@ -6,6 +6,7 @@
 * [Slides - Introdução a representação Float Simplificada](https://github.com/arduinoufv/inf250/blob/master/download/float.pdf)
   
 ## Ferramentas 
+* [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
 * [conversor online 32 bits IEEE 754](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
 * [Outro conversor com vários formatos](https://float.exposed/0x6600)
   
