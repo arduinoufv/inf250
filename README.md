@@ -2,6 +2,9 @@
 Organizaçao de Computadores - UFV - INF250 [slide tópicos](https://excalidraw.com/#json=lxkRqRt4C_q_QTG34B07x,KQ6PQ1XiF9tY5UOHjkEzeA) 
 
 
+# Ano de 2024
+
+[Clique aqui para 2024](https://github.com/arduinoufv/inf250/tree/master/2024)
 
 # Ano de 2023
 
