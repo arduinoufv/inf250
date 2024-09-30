@@ -11,7 +11,7 @@
   
 # Aulas
 
-* 1/10 - Introdução a representação de Float e conversão [Video-aula]() - [Introdução ao Float 2024](https://colab.research.google.com/drive/1Jrxs6kMs35bJv4JAfC2nASfru29m98HV?usp=sharing)
+* 1/10 - [Video-aula]() - [COLAB Introdução ao Float 2024](https://colab.research.google.com/drive/1Jrxs6kMs35bJv4JAfC2nASfru29m98HV?usp=sharing)
 
 * 3/10 - Soma e Multiplicação em Ponto Flutuante  [Video-aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nBcH4sQfQNF13oDmup_UaO)
 * [Exemplo de como montar um multiplicador usando o ABC](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mtpCRl6ZkteW0rVQ0ZLg_T), no trabalho 1, você irão montar um somador FLoat na parte II, usando o ABC.
