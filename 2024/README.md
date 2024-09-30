@@ -6,7 +6,7 @@
       
     * [5/12 (30 pontos)]() - PVA .. [Resumo para prova](), [Codificação]()  e [Caminho de Dados]()   
     * [30/1 (30 pontos)]() - PVA ... - [Pipeline]()
-* Trabalhos em grupos: Float 2 pontos, Maquina estados 2 pontos, Assembly 2 pontos, Caminho de Dados 2 pontos, Pipeline 2 pontos - total 10 pontos
+* Trabalhos em grupos: Maquina estados 2 pontos, Assembly 1 ponto, Caminho de Dados 3 pontos, Pipeline 4 pontos - total 10 pontos
   
 # Referências
 
@@ -14,6 +14,9 @@
 # Parte I: [Ponto Flutuante - clique aqui](https://github.com/arduinoufv/inf250/blob/master/2023/float.md) e [Máquina de Estados](https://github.com/arduinoufv/inf250/blob/master/2023/fsm.md)
    
    * 2 Aulas de Float, 6 Aulas Máquina de Estados, 2 Assembly Risc V
+
+---- 
+# Conteúdo de 2023....Ainda será atualizado....
 
 # Parte II: [Assembly RiscV](https://github.com/arduinoufv/inf250/blob/master/2023/assemblyriscV.md), [Codificação](https://github.com/arduinoufv/inf250/blob/master/2023/code_riscv.md) e [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2023/monociclo.md)
    *  2 aulas de Assembly, 2 aulas de codificação, 7 Aulas Processador Monociclo
