@@ -6,7 +6,6 @@
 * [Slides - Introdução a representação Float Simplificada](https://github.com/arduinoufv/inf250/blob/master/download/float.pdf)
   
 ## Ferramentas 
-* [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
 * [conversor online 32 bits IEEE 754](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
 * [Outro conversor com vários formatos](https://float.exposed/0x6600)
   
@@ -18,7 +17,9 @@
 
 
 # Exemplos para Prova
-* [Colab de Treino para questao de float](https://colab.research.google.com/drive/1rFqkiYEqMQzblZYNVJzryI7ZDNKrOsMp?usp=sharing): Cada execução da célula do exercício gera um novo exemplo. Se voce errar irá mostrar a resposta para dar um retorno. Pode tentar  refazer e resubmeter. Na prova não poderá usar calculadora. Usar soma de frações se for o caso. Funciona na celular também, tem o QR code no final. 
+* [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
+* [Colab de Treino para questao de somar e multiplicar float](https://colab.research.google.com/drive/1KpKzXLy5DYOklvlpxxM0hHujUtBQmQ9M?usp=sharing): Cada execução da célula do exercício gera um novo exemplo. Na prova não poderá usar calculadora. Usar soma de frações se for o caso. Funciona na celular também, tem o QR code no final.
+  
 ---
 ## conversão
   * [Exemplo do número 3 (conversão binário -> float)](https://excalidraw.com/#json=ThDTJc-WLtJGrfPTOPnJr,kZmX1bOD0YpJdIB0xaaRdQ) 
