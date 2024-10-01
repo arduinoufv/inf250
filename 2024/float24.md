@@ -11,7 +11,7 @@
   
 # Aulas
 
-* 1/10 - [Video-aula]() - [slide](https://github.com/arduinoufv/inf250/blob/master/2024/inf250_2024_aula_1_Float-1.pdf) da aula,  [COLAB Introdução ao Float 2024](https://colab.research.google.com/drive/1Jrxs6kMs35bJv4JAfC2nASfru29m98HV?usp=sharing)
+* 1/10 - [Video-aula, incluindo exemplo de soma](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCDfNHdmzAtTOj3y5nbR_k) - [slide](https://github.com/arduinoufv/inf250/blob/master/2024/inf250_2024_aula_1_Float-1.pdf) da aula,  [COLAB Introdução ao Float 2024](https://colab.research.google.com/drive/1Jrxs6kMs35bJv4JAfC2nASfru29m98HV?usp=sharing)
 
 * 3/10 - Soma e Multiplicação em Ponto Flutuante  [Video-aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nBcH4sQfQNF13oDmup_UaO)
 
