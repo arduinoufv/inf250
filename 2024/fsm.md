@@ -1,14 +1,18 @@
 
 # Referências Básicas
 1. [Livro de Lógica Digital em andamento](https://colab.research.google.com/drive/19Hx2VVszGURzVRCw6IQqC9SXse4hBxse?usp=sharing)
-2. [Slide de Introdução](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/download/introducao.pdf)
-3. [Apostila Texto](https://github.com/arduinoufv/inf250/blob/master/Maquina%20de%20Estados%20Finitos/download/fsm.pdf)
-4. [Slides FEUP 2004](https://web.fe.up.pt/~aja/PSD2004_05/slides/42-70.pdf)
- 
+2. [Slides FEUP 2004](https://web.fe.up.pt/~aja/PSD2004_05/slides/42-70.pdf)
+
+# Colabs
+* Introdução a FSM com o sinal de Trânsito [clique aqui](https://colab.research.google.com/drive/1QH_gkbgfoL2nmEw3e4PH8naGjNf2ATNd)
+
+
+------
+
 # Aulas e Colab
 
 * [Revisão de Verilog para FlipFlop e o uso comandos = e <= dentro de um always](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kahvAb8uE4z-Q7NPa_4nnw)
-* [Introdução a FSM com o sinal de Trânsito](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lQzPd9wp5VsnJSQf4qZ-7L) e o colab [clique aqui](https://colab.research.google.com/drive/1QH_gkbgfoL2nmEw3e4PH8naGjNf2ATNd)
+* [Introdução a FSM com o sinal de Trânsito](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lQzPd9wp5VsnJSQf4qZ-7L) e o
 * [29/8 Aula continuação do Exemplo do Sinal com uso do Gradio para simulação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m2XJdC9m1Z6o8aASHzDSma)
   
 * [5/9 Aula com Máquina de Estados com Cores e uma entrada A - Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lM7rHR_yP0mRBbQCWWyJl2) e clique [Aqui para o Colab](https://colab.research.google.com/drive/1sJHNdp4R_8ziY4QNLDcyHnVpU0KTXbX0?usp=sharing)
