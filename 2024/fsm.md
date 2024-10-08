@@ -5,11 +5,14 @@
 
 # Colabs
 * Introdução a FSM com o sinal de Trânsito [clique aqui](https://colab.research.google.com/drive/1QH_gkbgfoL2nmEw3e4PH8naGjNf2ATNd)
+* Máquina de Estados com entradas para sequência de cores [clique aqui](https://colab.research.google.com/drive/1sJHNdp4R_8ziY4QNLDcyHnVpU0KTXbX0?usp=sharing)
+* Paridade, Máquina de Tripla e Máquina de Vendas [clique aqui](https://colab.research.google.com/drive/1eNKWvlzjtjhqw3H3qWdobHE4gMVmZOZU?usp=sharing)
 
 
 ------
+# Anos Anteriores....em construção ainda
 
-# Aulas e Colab
+## Aulas e Colab
 
 * [Revisão de Verilog para FlipFlop e o uso comandos = e <= dentro de um always](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kahvAb8uE4z-Q7NPa_4nnw)
 * [Introdução a FSM com o sinal de Trânsito](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lQzPd9wp5VsnJSQf4qZ-7L) e o
