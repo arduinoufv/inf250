@@ -11,7 +11,7 @@
 
 # Exemplos para Prova
 
-* [Exemplos de questões da Prova 2023](https://github.com/arduinoufv/inf250/blob/master/2023/exemplos_fsm.md)
+* [Exemplos de questões da Prova 2023](https://github.com/arduinoufv/inf250/blob/master/2023/exemplos_fsm.md) e colab [clique aqui](https://colab.research.google.com/drive/125SEOMvap7XiBO3YRf-L5n_XuvG6iZQD?usp=sharing)
 
   
 ------
