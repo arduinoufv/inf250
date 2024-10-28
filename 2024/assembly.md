@@ -10,15 +10,6 @@
 1. [Simulador Venus Risc-V](https://www.kvakil.me/venus/) 
 2. [RISC-V Interpreter - Universidade Cornell](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
 
-
-## Exemplos de 2023
-
-[Video com explicacoes](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lMlWXk48zPsMj7Zj4iQCG-)
-
-* [Exemplos básicos](https://github.com/arduinoufv/inf250/blob/master/2023/exemplos_riscv.md) 
-* [Exemplos com desvios e laços](https://github.com/arduinoufv/inf250/blob/master/2023/riscv_desvios.md)
-* [Exemplos com vetores](https://github.com/arduinoufv/inf250/blob/master/2023/riscv_vetores.md)
-
 ## Risc-V História
 
 * [Sifive Video- open source and open standard are two completely different things](https://youtu.be/RrVRMFjYti0)
@@ -36,6 +27,15 @@
 
 -------------------
 # Material Complementar 
+
+
+## Exemplos de 2023
+
+[Video com explicacoes](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lMlWXk48zPsMj7Zj4iQCG-)
+
+* [Exemplos básicos](https://github.com/arduinoufv/inf250/blob/master/2023/exemplos_riscv.md) 
+* [Exemplos com desvios e laços](https://github.com/arduinoufv/inf250/blob/master/2023/riscv_desvios.md)
+* [Exemplos com vetores](https://github.com/arduinoufv/inf250/blob/master/2023/riscv_vetores.md)
 
 ## Trabalho 3 - Prazo 3 Outubro de 2023
 
