@@ -3,7 +3,7 @@
 
 ## Colabs de 2024
 
-* [playlst de Video](https://colab.research.google.com/drive/12H4XKdHTRCFQDuNHGuap27oS_CIuUouL?usp=sharing)
+* [Playlist de Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6ljR696OOIXldwu5hUmCz_h)
 * [Simulador com exemplos iniciais](https://colab.research.google.com/drive/1Bef2Mov-St8bYQM0CDSolaGpGULTbYjI?usp=sharing)
 * [Gerador de exercicios para Instruções lógica aritméticas](https://colab.research.google.com/drive/1rQLpneDcYgraw2kwieENBi7Trb3tK5cc?usp=sharing)
 
