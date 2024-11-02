@@ -6,7 +6,7 @@
       
     * [5/12 (30 pontos)]() - PVA .. [Resumo para prova](), [Codificação]()  e [Caminho de Dados]()   
     * [30/1 (30 pontos)]() - PVA ... - [Pipeline]()
-* Trabalhos em grupos: [Maquina estados 2 pontos até 7/11](https://colab.research.google.com/drive/1cIsHsaC3JZVWpYgpVGQ68QKoEgF_5yig?usp=sharing), Assembly 1 ponto, Caminho de Dados 3 pontos, Pipeline 4 pontos - total 10 pontos
+* Trabalhos em grupos: [Maquina estados 2 pontos até 14/11](https://colab.research.google.com/drive/1cIsHsaC3JZVWpYgpVGQ68QKoEgF_5yig?usp=sharing), Assembly 1 ponto, Caminho de Dados 3 pontos, Pipeline 4 pontos - total 10 pontos
   
 # Referências
 
