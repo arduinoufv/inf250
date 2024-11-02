@@ -2,7 +2,7 @@
 # Cronograma de 2024
 * Provas:
     * [7/11 (30 pontos) dicas em video](),A Prova será na sala .... do PVA para INF 250.
-      com questões sobre: [float](), [assembly]() e [maquina de estado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nMzBUR-i6STZfg9MR0AVN5)
+      com questões sobre: [float](https://youtu.be/H4VV9Wkh1CI), [assembly]() e [maquina de estado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nMzBUR-i6STZfg9MR0AVN5)
       
     * [5/12 (30 pontos)]() - PVA .. [Resumo para prova](), [Codificação]()  e [Caminho de Dados]()   
     * [30/1 (30 pontos)]() - PVA ... - [Pipeline]()
