@@ -2,7 +2,7 @@
 # Cronograma de 2024
 * Provas:
     * 7/11 (30 pontos) **A Prova será na sala de aula PVA 239**. Não pode usar calculadora nem celular.
-      [dica geral da prova](https://youtu.be/_s3cyz3Sd9k) com questões sobre: [float](https://youtu.be/EgCpuJbbC8E), [assembly](https://youtu.be/aKgDLfZhFA8) e [maquina de estado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nMzBUR-i6STZfg9MR0AVN5)
+      [dica geral da prova](https://youtu.be/_s3cyz3Sd9k) com questões sobre: [float](https://youtu.be/EgCpuJbbC8E), [assembly](https://youtu.be/aKgDLfZhFA8) e [maquina de estado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nMzBUR-i6STZfg9MR0AVN5) + ultima [Aula de Revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k5MtKSIjeYz_GDvWlk9GLQ)
       
     * [5/12 (30 pontos)]() - PVA .. [Resumo para prova](), [Codificação]()  e [Caminho de Dados]()   
     * [30/1 (30 pontos)]() - PVA ... - [Pipeline]()
