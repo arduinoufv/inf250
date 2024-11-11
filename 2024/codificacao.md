@@ -1,5 +1,6 @@
 # Codificação Risc-V
 * [Patterson&Hennessy - Computer Organization - Risc-V Edition](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
+* [novo colab 2024 com montador e interpretador](https://colab.research.google.com/drive/1y_8-hxVtxprFI2N0XyyVT2syGqVptUrO?usp=sharing)
 * [colab com exemplos do WEAC 2024 para codificação](https://colab.research.google.com/drive/1u7puz3JG8yJOQq_dmPhiEoF8A-O5PGUS?usp=sharing)
 * [Colab com exemplos dos tipos](https://colab.research.google.com/drive/1j4duq-VNTc3S_4TCbGBKvoKPv51asSAG?usp=sharing)
 * [Simulador com exemplos iniciais sem codificacao](https://colab.research.google.com/drive/1Bef2Mov-St8bYQM0CDSolaGpGULTbYjI?usp=sharing)
