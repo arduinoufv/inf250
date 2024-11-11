@@ -1,15 +1,15 @@
 # Codificação Risc-V
 
-## Aulas 
+# Exemplos para Prova
 
-1. [Codificação de Tipo R e Tipo I- Aula de 26/9/23 ](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m0_Bbo5uzh8LDFaXvSSuLf)
+* [Assembly para Hexadecimal](https://colab.research.google.com/drive/1QHVEaphOLVFhRe-NSnaqh7N6nyrzNSPx?usp=sharing)
+* [Hexadecimal para Assembly](https://colab.research.google.com/drive/1_IJVgOGokCY0RMEBD1bR6CD1oAiDIJwE?usp=sharing)
+  
 ## Slides de Referência
 
 1. [RISC-V Instruction Formats Instructor: Steven Ho](https://inst.eecs.berkeley.edu/~cs61c/resources/su18_lec/Lecture7.pdf)
 2. [Slides de Risc-V e codificação: Department	of	Computer	Science	and	Engineering
 Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
-
-
 
 ## Simulador
 1. [Simulador Venus Risc-V](https://www.kvakil.me/venus/) 
@@ -17,6 +17,10 @@ Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 # Codificação 
 
 ![](https://devopedia.org/images/article/110/3808.1535301636.png)
+
+
+
+-----------------------------
 
 [Colab com exemplos](https://colab.research.google.com/drive/1j4duq-VNTc3S_4TCbGBKvoKPv51asSAG?usp=sharing) 
 [Lista de exercicio da aula 26 setembro](https://drive.google.com/file/d/1Wqzh1l8wOJNHI9NsZWmCdFto8byijNgy/view?usp=sharing)
@@ -27,11 +31,14 @@ Yonghong Yan](https://passlab.github.io/CSCE513/notes/lecture04_RISCV_ISA.pdf)
 
 * [Pasta com exemplos (desenhos) de 2021](https://github.com/arduinoufv/inf250/tree/master/Assembler_Risc_V/download/formato)
 
-# Exemplos para Prova
 
-* [Assembly para Hexadecimal](https://colab.research.google.com/drive/1QHVEaphOLVFhRe-NSnaqh7N6nyrzNSPx?usp=sharing)
-* [Hexadecimal para Assembly](https://colab.research.google.com/drive/1_IJVgOGokCY0RMEBD1bR6CD1oAiDIJwE?usp=sharing)
-  
+# material de 2023
+
+
+## Aulas 2023
+
+1. [Codificação de Tipo R e Tipo I- Aula de 26/9/23 ](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m0_Bbo5uzh8LDFaXvSSuLf)
+
 # Implementações em Verilog
 1. [Risc-V Monociclo](https://colab.research.google.com/drive/1zu_QOlFuqM9g_nA5l16GKRIin5B0KbEA?usp=sharing)
 2. [Disassembler](https://github.com/BrunoLevy/learn-fpga/blob/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV/riscv_disassembly.v)
