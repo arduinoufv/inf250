@@ -21,7 +21,7 @@
 ---- 
 # Conteúdo de 2023....Ainda será atualizado....
 
-# Parte II:  [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md) e [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2023/monociclo.md)
+# Parte II:  [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md) e [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
    *   2 aulas de codificação, 7 Aulas Processador Monociclo
 
 # Parte III: Pipeline
