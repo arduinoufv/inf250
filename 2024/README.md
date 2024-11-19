@@ -18,8 +18,8 @@
 ---- 
 # Conteúdo de 2023....Ainda será atualizado....
 
-# Parte II: [Assembly RiscV](https://github.com/arduinoufv/inf250/blob/master/2023/assemblyriscV.md), [Codificação](https://github.com/arduinoufv/inf250/blob/master/2023/code_riscv.md) e [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2023/monociclo.md)
-   *  2 aulas de Assembly, 2 aulas de codificação, 7 Aulas Processador Monociclo
+# Parte II:  [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md) e [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2023/monociclo.md)
+   *   2 aulas de codificação, 7 Aulas Processador Monociclo
 
 # Parte III: Pipeline
    * [Parte final da Matéria](https://github.com/arduinoufv/inf250/blob/master/2023/verilog_pipeline.md)
