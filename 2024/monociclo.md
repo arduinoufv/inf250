@@ -1,7 +1,11 @@
-# Single Cycle
+# Monociclo
 
-* [playlist de Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nd3-M5_7Ta5kHfxNqvAl67)
-* [Colab da Implementação](https://colab.research.google.com/drive/1zu_QOlFuqM9g_nA5l16GKRIin5B0KbEA?usp=sharing)
+## Colabs
+
+1. [Trabalho de 2023 com matplot Lib + Verilog](https://colab.research.google.com/drive/170qxfdCPs-d4qSeHA-WC6UKM5jMce78g?usp=sharing)
+2. [Versão com Inkscape passo a passo para 2024](https://colab.research.google.com/drive/1HsQPjUu4DgtQPbAmj92oQVWkJ-l7wYzB?usp=sharing)
+
+
 * [Simulador com desenho do Datapath](https://jesse-r-s-hines.github.io/RISC-V-Graphical-Datapath-Simulator/)
 * [Outro simulador online com código assembly, recursos de I/O e principais partes internas](https://eseo-tech.github.io/emulsiV/)
 
