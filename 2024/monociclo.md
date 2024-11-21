@@ -4,7 +4,7 @@
 
 1. [Trabalho de 2023 com matplot Lib + Verilog](https://colab.research.google.com/drive/170qxfdCPs-d4qSeHA-WC6UKM5jMce78g?usp=sharing)
 2. [Versão com Inkscape passo a passo para 2024](https://colab.research.google.com/drive/1HsQPjUu4DgtQPbAmj92oQVWkJ-l7wYzB?usp=sharing)
-
+3. [Playlist Video dos tipos de Instrução no Desenho Inkscape: Add, Addi, Lw, Sw, Beq](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lxjcBPDGlxkU8SZPOTd4xn)
 
 * [Simulador com desenho do Datapath](https://jesse-r-s-hines.github.io/RISC-V-Graphical-Datapath-Simulator/)
 * [Outro simulador online com código assembly, recursos de I/O e principais partes internas](https://eseo-tech.github.io/emulsiV/)
