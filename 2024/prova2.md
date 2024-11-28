@@ -7,7 +7,6 @@
 (b) Marcar as linhas importantes no código VERILOG e colocar as valores que são importantes para execução da instrução do item (a)
 (c ) Implementar uma nova instrução MFL rd,rs1,rs2 com o opcode 7 que faça a montagem de um número de ponto flutuante onde rs1 é o expoente e rs2 é a mantissa. Exemplo rs1 = 0…0101 e rs2 = 0…001011, rd será 0..01011011. Quais as linhas que serão modificadas no código Verilog (reescreva apenas elas) ? Será necessário alterar o caminho de dados (datapath)  ? Se Sim, quais partes ?
 
-
 3.(a) Marque todas as linhas de dados e de controle na figura do caminho de dados (DATAPATH)  e coloque os valores para a primeira execução da instrução add x7,x5,x6  no caminho de dados do RISC-V
 (b) Marcar as linhas importantes no código VERILOG e colocar as valores que são importantes para execução da instrução do item (a)
 (c ) Implementar uma nova instrução MFL rd,rs1,rs2 com o opcode 7 que faça a montagem de um número de ponto flutuante onde rs1 é o expoente e rs2 é a mantissa. Exemplo rs1 = 0…0101 e rs2 = 0…001011, rd será 0..01011011. Quais as linhas que serão modificadas no código Verilog (reescreva apenas elas) ? Será necessário alterar o caminho de dados (datapath)  ? Se Sim, quais partes ?
@@ -37,6 +36,12 @@ todos os valores nos fios. Qual é o valor final de R1 no ciclo 7 ? Qual é o va
 20:ADDI R1,R1,5
 24:ADDI R1,R1,5
 28:ADDI R1,R1,5
+
+9. Fazer uma instrução ADDF RD,RS1,RS2 para somar ponto flutuante com a representação de 7 bits.
+10. Fazer uma instrução MULF RD,RS1,RS2 para multiplicar ponto flutuante com a representação de 7 bits.
+11. Fazer uma instrução BITC RD,RS1 que irá contar os bits de RS1 que são "1" e colocar o valor da contagem em RS1.
+12. Fazer uma uns
+ 
 
 Provas antes 2021 são para MIPS, adaptar RS é RS1, RT é RS2
 
