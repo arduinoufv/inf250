@@ -1,4 +1,11 @@
+# Prova 2 de 2024
 
+## Questao 1. Dado duas  instruções em Assembly, codificar em Hexadecimal
+## Questao 2. Dado duas instruções em Hexadecima, escrever em Assembly
+## Questão 3. Dada um trecho de programa, tirar a "foto" de uma instrução desenhando no caminho de dados TODOS os valores possíveis e marcando as linhas afetadas no Verilog.
+## Questão 4. Criar uma nova instrução e mostrar no caminho de dados as modificações e no código Verilog.
+
+=========
 1. (a) Qual é a codificação em Hexadecimal para as instruções sub t1,t1,t2 e addi t0,t0,-4
 (b) Quais são as instruções em Assembly para os códigos: 00300313 e 007393b3
 
