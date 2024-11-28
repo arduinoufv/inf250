@@ -6,6 +6,12 @@
       
     * 5/12 (30 pontos) - **A Prova será na sala de aula PVA 239** [Exemplos de prova](https://github.com/arduinoufv/inf250/edit/master/2024/prova2.md), [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md) e [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
 
+* [Exercicio simples de instrução tipo R](https://colab.research.google.com/drive/1Id4bzOBTbZgqrWdyvD3K2eEcnEAdqxqV?usp=sharing)
+* [Assembly para Hexadecimal](https://colab.research.google.com/drive/1QHVEaphOLVFhRe-NSnaqh7N6nyrzNSPx?usp=sharing)
+* [Hexadecimal para Assembly](https://colab.research.google.com/drive/1_IJVgOGokCY0RMEBD1bR6CD1oAiDIJwE?usp=sharing)
+  
+
+
     * [30/1 (30 pontos)]() - PVA ... - [Pipeline]()
 * Trabalhos em grupos:
       1. [Maquina estados 3 pontos até 14/11](https://colab.research.google.com/drive/1cIsHsaC3JZVWpYgpVGQ68QKoEgF_5yig?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/ZUmhyZtxLX2Et6ae7)
