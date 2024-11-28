@@ -14,7 +14,8 @@
 - Exemplo rs1 = 0…0101 e rs2 = 0…001011, rd será 0..01011011. Quais as linhas que serão modificadas no código Verilog (reescreva apenas elas) ? Será necessário alterar o caminho de dados (datapath)  ? Se Sim, quais partes ?
 
 4. Suponha x5 = 9, x6  = 4, mostrar todas as linhas e valores no Datapath singlecycle do RiscV e anotar as linhas e valores no código Verilog (anotar Q1 nas linhas afetadas)  para a instrução BGE no trecho abaixo:
-```loop: addi x5,x5,1
+```
+loop: addi x5,x5,1
           addi x6,x6,2
           bge x5,x6, loop
 ´´´   
