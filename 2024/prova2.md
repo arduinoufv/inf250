@@ -17,7 +17,7 @@
 ```loop: addi x5,x5,1
           addi x6,x6,2
           bge x5,x6, loop
-```   
+´´´   
 5. Criar a nova instrução SW rs2,im,rs1 que tem o significado mem[rs1] = rs2-im. Marcar com Q2 as linhas afetadas no código verilog e adicionar novas linhas se necessário. O opcode será 0x43. Fazer as alterações no datapath
 
 6. Modifique o código Verilog para Incluir a Instrução ADD2 RD,RS1,RS2; onde RD ← 2*RS1 + RS2. Faça
