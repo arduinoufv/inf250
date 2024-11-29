@@ -4,7 +4,7 @@
     * 7/11 (30 pontos) **A Prova será na sala de aula PVA 239**. Não pode usar calculadora nem celular.
       [dica geral da prova](https://youtu.be/_s3cyz3Sd9k) com questões sobre: [float](https://youtu.be/EgCpuJbbC8E), [assembly](https://youtu.be/aKgDLfZhFA8) e [maquina de estado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nMzBUR-i6STZfg9MR0AVN5) + ultima [Aula de Revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k5MtKSIjeYz_GDvWlk9GLQ)
       
-    * 5/12 (30 pontos) - **A Prova será na sala de aula PVA 239** [Exemplos de prova](https://github.com/arduinoufv/inf250/blob/master/2024/prova2.md), [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md) e [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
+    * 5/12 (30 pontos) - **A Prova será na sala de aula PVA 239** [Playlist de Video](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mrhCxnPMOmU3hnUmm8Mgss)  [Exemplos de prova](https://github.com/arduinoufv/inf250/blob/master/2024/prova2.md), [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md) e [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
 
 * [Exercicio simples de instrução tipo R](https://colab.research.google.com/drive/1Id4bzOBTbZgqrWdyvD3K2eEcnEAdqxqV?usp=sharing)
 * [Assembly para Hexadecimal](https://colab.research.google.com/drive/1QHVEaphOLVFhRe-NSnaqh7N6nyrzNSPx?usp=sharing)
