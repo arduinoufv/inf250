@@ -2,6 +2,8 @@
 
 [webriscv](https://webriscv.dii.unisi.it/)
 [venus](https://venus.kvakil.me/)
+# Versões do Risc-V Pipeline
+[Colab sem hazard e sem forward](https://colab.research.google.com/drive/1HBvXZqjnrma_9umUg0N8R39GVV9yDScI?usp=sharing#scrollTo=CYevtLbP3nrb)
 
 # Slides
 
