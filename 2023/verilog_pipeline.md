@@ -3,6 +3,7 @@
 [webriscv](https://webriscv.dii.unisi.it/)
 [venus](https://venus.kvakil.me/)
 # Versões do Risc-V Pipeline
+[Simulador mais simples em Python](https://colab.research.google.com/drive/1QptO93si9LvtwwxuIMnt8fHkZSiRrVW8?usp=sharing)
 [Colab sem hazard e sem forward](https://colab.research.google.com/drive/1HBvXZqjnrma_9umUg0N8R39GVV9yDScI?usp=sharing#scrollTo=CYevtLbP3nrb)
 
 # Slides
