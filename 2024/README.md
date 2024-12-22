@@ -4,22 +4,21 @@
     * 7/11 (30 pontos) **A Prova será na sala de aula PVA 239**. Não pode usar calculadora nem celular.
       [dica geral da prova](https://youtu.be/_s3cyz3Sd9k) com questões sobre: [float](https://youtu.be/EgCpuJbbC8E), [assembly](https://youtu.be/aKgDLfZhFA8) e [maquina de estado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nMzBUR-i6STZfg9MR0AVN5) + ultima [Aula de Revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k5MtKSIjeYz_GDvWlk9GLQ)
 ------
-
     ###  5/12 (30 pontos) - **A Prova será na sala de aula PVA 239** 
-
-   * [livro - cap 4](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#livros)
-* [slide - cap4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
-   *  [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
-   *   [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
-  
-
 --------
-
     * [30/1 (30 pontos)]() - PVA ... - [Pipeline]()
+    
+   * [livro - cap 4](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#livros)
+   * [slide - cap4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
+   * [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
+   * [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
+
+# Trabalhos (10 pontos)
 * Trabalhos em grupos:
       1. [Maquina estados 3 pontos até 14/11](https://colab.research.google.com/drive/1cIsHsaC3JZVWpYgpVGQ68QKoEgF_5yig?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/ZUmhyZtxLX2Et6ae7)
-       2.  [Caminho de Dados 3 pontos](https://colab.research.google.com/drive/1stSdWWX58nfNNW0xI8339-jQTa8cjsgb?usp=sharing)
-       3.  Pipeline 4 pontos - total 10 pontos 
+  
+       2.  [Caminho de Dados 3 pontos Prazo 13/1/25](https://colab.research.google.com/drive/1stSdWWX58nfNNW0xI8339-jQTa8cjsgb?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/xFz9nHcRafSSSuz76)
+       3.  [Pipeline 4 pontos Parte I 21/1 Parte II 28/1](https://colab.research.google.com/drive/1zSSEn4QL4NM3Vyr_e3okm2ODKzwElJy1?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/7DwUjT36zyWaxBdMA)
   
 # Referências
 
