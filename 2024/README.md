@@ -12,11 +12,9 @@
       * [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
 
 # Trabalhos  - 10 pontos
-
-      * [Trab 1- Maquina estados 3 pontos até 14/11](https://colab.research.google.com/drive/1cIsHsaC3JZVWpYgpVGQ68QKoEgF_5yig?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/ZUmhyZtxLX2Et6ae7)
-  
-      * [Trab 2- Caminho de Dados 3 pontos Prazo 13/1/25](https://colab.research.google.com/drive/1stSdWWX58nfNNW0xI8339-jQTa8cjsgb?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/xFz9nHcRafSSSuz76)
-      * [Trab 3 - Pipeline 4 pontos Parte I 21/1 Parte II 28/1](https://colab.research.google.com/drive/1zSSEn4QL4NM3Vyr_e3okm2ODKzwElJy1?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/7DwUjT36zyWaxBdMA)
+   * [Trab 1- Maquina estados 3 pontos até 14/11](https://colab.research.google.com/drive/1cIsHsaC3JZVWpYgpVGQ68QKoEgF_5yig?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/ZUmhyZtxLX2Et6ae7)
+   * [Trab 2- Caminho de Dados 3 pontos Prazo 13/1/25](https://colab.research.google.com/drive/1stSdWWX58nfNNW0xI8339-jQTa8cjsgb?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/xFz9nHcRafSSSuz76)
+   * [Trab 3 - Pipeline 4 pontos Parte I 21/1 Parte II 28/1](https://colab.research.google.com/drive/1zSSEn4QL4NM3Vyr_e3okm2ODKzwElJy1?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/7DwUjT36zyWaxBdMA)
   
 # Referências
 
