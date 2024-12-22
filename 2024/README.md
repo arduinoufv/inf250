@@ -1,17 +1,15 @@
-
 # Cronograma de 2024
 * Provas:
-    * 7/11 (30 pontos) **A Prova será na sala de aula PVA 239**. Não pode usar calculadora nem celular.
+    * 7/11 (30 pontos) **A Prova 1 será na sala de aula PVA 239**. Não pode usar calculadora nem celular.
       [dica geral da prova](https://youtu.be/_s3cyz3Sd9k) com questões sobre: [float](https://youtu.be/EgCpuJbbC8E), [assembly](https://youtu.be/aKgDLfZhFA8) e [maquina de estado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nMzBUR-i6STZfg9MR0AVN5) + ultima [Aula de Revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k5MtKSIjeYz_GDvWlk9GLQ)
-------
-    ###  5/12 (30 pontos) - **A Prova será na sala de aula PVA 239** 
---------
-    * [30/1 (30 pontos)]() - PVA ... - [Pipeline]()
+
+    *  5/12 (30 pontos) - **A Prova 2 será na sala de aula PVA 239** 
+    * [30/1 (30 pontos)]() - **A Prova 3 será na sala de aula PVA 239** - [Pipeline]()
     
-   * [livro - cap 4](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#livros)
-   * [slide - cap4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
-   * [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
-   * [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
+      * [livro - cap 4](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#livros)
+      * [slide - cap4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
+      * [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
+      * [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
 
 # Trabalhos  - 10 pontos
 
