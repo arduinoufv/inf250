@@ -1,7 +1,13 @@
-# Simuladores
+# Trabalho 3
+* [Trabalho 3 RiscV Pipeline - Prazo Parte I 21/1 e Parte II 28/1](https://colab.research.google.com/drive/1zSSEn4QL4NM3Vyr_e3okm2ODKzwElJy1?usp=sharing)
 
+# Simuladores
 [webriscv](https://webriscv.dii.unisi.it/)
 [venus](https://venus.kvakil.me/)
+# Aulas Gravadas
+* [10 dez - Aula de Introdução a Pipeline RiscV](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m7VB5Irh_06B8DJQMivLIR)
+* [12 dez - Aula do Trabalho 3 - Datapath desenho e código Verilog no Colab](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kehxpf-KUMmCTSsPwcs6hX)
+* [17 dez - Aula Encaminhamento (Forward), Hazard de Load](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mgsGaEC75M3NWLTQdHcRnT)
 # Versões do Risc-V Pipeline
 * [Simulador mais simples em Python](https://colab.research.google.com/drive/1QptO93si9LvtwwxuIMnt8fHkZSiRrVW8?usp=sharing)
 * [Colab sem hazard e sem forward](https://colab.research.google.com/drive/1HBvXZqjnrma_9umUg0N8R39GVV9yDScI?usp=sharing#scrollTo=CYevtLbP3nrb)
