@@ -13,7 +13,7 @@
    * [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
    * [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
 
-# Trabalhos (10 pontos)
+# Trabalhos  - 10 pontos
 
       * [Trab 1- Maquina estados 3 pontos até 14/11](https://colab.research.google.com/drive/1cIsHsaC3JZVWpYgpVGQ68QKoEgF_5yig?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/ZUmhyZtxLX2Et6ae7)
   
