@@ -6,14 +6,6 @@
 ------
 
     ###  5/12 (30 pontos) - **A Prova será na sala de aula PVA 239** 
-   * [questoes 1,2 e 4](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mrhCxnPMOmU3hnUmm8Mgss)
-   * [questao 3 - fazer no datapath e no Verilog](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lxjcBPDGlxkU8SZPOTd4xn)
-   *  [Exemplos de prova](https://github.com/arduinoufv/inf250/blob/master/2024/prova2.md), 
-
-   * [Exercicio simples de instrução tipo R](https://colab.research.google.com/drive/1Id4bzOBTbZgqrWdyvD3K2eEcnEAdqxqV?usp=sharing)
-   * [Exercicio - questao 1 - Assembly para Hexadecimal](https://colab.research.google.com/drive/1QHVEaphOLVFhRe-NSnaqh7N6nyrzNSPx?usp=sharing)
-   * [Exercicio - questao 2 - Hexadecimal para Assembly](https://colab.research.google.com/drive/1_IJVgOGokCY0RMEBD1bR6CD1oAiDIJwE?usp=sharing)
-   * [Videos de 2023](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md#exercicios-para-prova)
 
    * [livro - cap 4](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#livros)
 * [slide - cap4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
@@ -27,7 +19,7 @@
 * Trabalhos em grupos:
       1. [Maquina estados 3 pontos até 14/11](https://colab.research.google.com/drive/1cIsHsaC3JZVWpYgpVGQ68QKoEgF_5yig?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/ZUmhyZtxLX2Et6ae7)
        2.  [Caminho de Dados 3 pontos](https://colab.research.google.com/drive/1stSdWWX58nfNNW0xI8339-jQTa8cjsgb?usp=sharing)
-       3.  Pipeline 4 pontos - total 10 pontos
+       3.  Pipeline 4 pontos - total 10 pontos 
   
 # Referências
 
@@ -40,11 +32,19 @@
 # Parte II:  [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md) e [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
   
 
----- 
-# Conteúdo de 2023....Ainda será atualizado....
-
-
 # Parte III: Pipeline
    * [Parte final da Matéria](https://github.com/arduinoufv/inf250/blob/master/2023/verilog_pipeline.md)
 
    * [Aulas de Processador Pipeline - Tabela de Execução e Caminho de Dados](https://github.com/arduinoufv/inf250/blob/master/2023/pipeline.md)
+
+-------
+# Prova 2
+   * [questoes 1,2 e 4](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mrhCxnPMOmU3hnUmm8Mgss)
+   * [questao 3 - fazer no datapath e no Verilog](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lxjcBPDGlxkU8SZPOTd4xn)
+   *  [Exemplos de prova](https://github.com/arduinoufv/inf250/blob/master/2024/prova2.md), 
+
+   * [Exercicio simples de instrução tipo R](https://colab.research.google.com/drive/1Id4bzOBTbZgqrWdyvD3K2eEcnEAdqxqV?usp=sharing)
+   * [Exercicio - questao 1 - Assembly para Hexadecimal](https://colab.research.google.com/drive/1QHVEaphOLVFhRe-NSnaqh7N6nyrzNSPx?usp=sharing)
+   * [Exercicio - questao 2 - Hexadecimal para Assembly](https://colab.research.google.com/drive/1_IJVgOGokCY0RMEBD1bR6CD1oAiDIJwE?usp=sharing)
+   * [Videos de 2023](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md#exercicios-para-prova)
+
