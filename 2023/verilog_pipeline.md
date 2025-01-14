@@ -1,6 +1,6 @@
 # Trabalho 3
 * [Trabalho 3 RiscV Pipeline - Prazo Parte I 21/1 e Parte II 28/1](https://colab.research.google.com/drive/1zSSEn4QL4NM3Vyr_e3okm2ODKzwElJy1?usp=sharing)
-
+* [play list de video](https://studio.youtube.com/playlist/PLcvOyD_LMr6m8ygn0rvMf7jcIm3VxL7cu/videos)
 # Simuladores
 [webriscv](https://webriscv.dii.unisi.it/)
 [venus](https://venus.kvakil.me/)
