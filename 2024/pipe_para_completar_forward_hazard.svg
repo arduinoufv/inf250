@@ -874,9 +874,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.7583252"
-     inkscape:cx="761.16141"
-     inkscape:cy="290.05152"
+     inkscape:zoom="0.72358843"
+     inkscape:cx="726.00861"
+     inkscape:cy="357.9029"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1263,15 +1263,15 @@
          style="font-size:4.23333311px;stroke-width:0.26458332">@PC</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.58611107px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="52.029766"
-       y="218.44415"
+       style="font-style:normal;font-weight:normal;font-size:4.58611107px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
+       x="52.39542"
+       y="195.04227"
        id="text914-7"><tspan
          sodipodi:role="line"
          id="tspan912-5"
-         x="52.029766"
-         y="218.44415"
-         style="font-size:4.58611107px;stroke-width:0.26458332">@INST</tspan></text>
+         x="52.39542"
+         y="195.04227"
+         style="font-size:4.58611107px;stroke-width:0.26458332;fill:#ff0000;font-weight:bold">@INST</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.17499995px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -2675,5 +2675,49 @@
          x="265.12769"
          y="208.84793"
          style="stroke-width:0.26458332">@zero_s3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055556px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="138.28574"
+       y="164.26743"
+       id="text2350"><tspan
+         sodipodi:role="line"
+         id="tspan2348"
+         x="138.28574"
+         y="164.26743"
+         style="stroke-width:0.26458332;fill:#ff0000;font-weight:bold">@inst_s2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055556px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="211.71393"
+       y="161.70786"
+       id="text2354"><tspan
+         sodipodi:role="line"
+         id="tspan2352"
+         x="211.71393"
+         y="161.70786"
+         style="stroke-width:0.26458332;fill:#ff0000;font-weight:bold">@inst_s3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055563px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="288.867"
+       y="162.0735"
+       id="text2358"><tspan
+         sodipodi:role="line"
+         id="tspan2356"
+         x="288.867"
+         y="162.0735"
+         style="font-weight:bold;fill:#ff0000;stroke-width:0.26458332">@inst_s4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88055556px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="334.57382"
+       y="164.63309"
+       id="text2362"><tspan
+         sodipodi:role="line"
+         id="tspan2360"
+         x="334.57382"
+         y="164.63309"
+         style="stroke-width:0.26458332;fill:#ff0000;font-weight:bold">@inst_s5</tspan></text>
   </g>
 </svg>
