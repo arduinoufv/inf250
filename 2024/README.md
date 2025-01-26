@@ -1,6 +1,6 @@
 # Cronograma de 2024
 * Provas:
-* [30/1 (30 pontos)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nJNyXtfbDgVq_dxLbKpTWq) - **A Prova 3 será na sala de aula PVA 239** - [Questao 1 e 2](https://docs.google.com/document/d/1PlLWaqZeU2YMhULrGTSqKQRoRg9pSu4YJvyVySe81rc/edit?usp=sharing)  [Questão 3 - ainda em construcao]()
+* [30/1 (30 pontos)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nJNyXtfbDgVq_dxLbKpTWq) - **A Prova 3 será na sala de aula PVA 239** - [Questao 1 e 2](https://docs.google.com/document/d/1PlLWaqZeU2YMhULrGTSqKQRoRg9pSu4YJvyVySe81rc/edit?usp=sharing)  [Questão 3](https://docs.google.com/document/d/1NFCfhNiI1Wej77CkSkChfNBAxC7TLiKsgqySfq9a3tA/edit?usp=sharing)
     * 7/11 (30 pontos) **A Prova 1 será na sala de aula PVA 239**. Não pode usar calculadora nem celular.
       [dica geral da prova](https://youtu.be/_s3cyz3Sd9k) com questões sobre: [float](https://youtu.be/EgCpuJbbC8E), [assembly](https://youtu.be/aKgDLfZhFA8) e [maquina de estado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nMzBUR-i6STZfg9MR0AVN5) + ultima [Aula de Revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k5MtKSIjeYz_GDvWlk9GLQ)
 
