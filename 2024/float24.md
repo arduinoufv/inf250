@@ -11,10 +11,8 @@
   
 # Aulas
 
-* 1/10 - [Video-aula, incluindo exemplo de soma](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCDfNHdmzAtTOj3y5nbR_k) - [slide](https://github.com/arduinoufv/inf250/blob/master/2024/inf250_2024_aula_1_Float-1.pdf) da aula,  [COLAB Introdução ao Float 2024](https://colab.research.google.com/drive/1Jrxs6kMs35bJv4JAfC2nASfru29m98HV?usp=sharing)
-
-* 3/10 - Soma e Multiplicação em Ponto Flutuante  [Video-aula](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nBcH4sQfQNF13oDmup_UaO)
-
+* [slide](https://github.com/arduinoufv/inf250/blob/master/2024/inf250_2024_aula_1_Float-1.pdf) da aula
+* [COLAB Introdução ao Float 2025](https://colab.research.google.com/drive/1Jrxs6kMs35bJv4JAfC2nASfru29m98HV?usp=sharing)
 
 # Exemplos para Prova
 * [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
@@ -55,7 +53,8 @@
 
 
 # Aulas de anos Anteriores
-
+* [Video-aula Introdução de 2024, incluindo exemplo de soma](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mCDfNHdmzAtTOj3y5nbR_k)
+* [Video-aula de Soma e Mult de 2024](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nBcH4sQfQNF13oDmup_UaO)
 * [Revisão para PROVA 2022 - Questão de FLOAT](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lo4l-pWrpYbP-9z6vwBz4K)
 * [Playlist de Video para conversão de ponto flutuante](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nwdw2D7QmdA8oXo9qzWesU)
 *  1. [Video Aula de 2021/2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kl8KV71SCe3DO0sE6O_Jhf) 
