@@ -3,13 +3,14 @@
 * 1 trabalho final com apresentação e arguição oral INDIVIDUAL 2 e 4/12/25.
 
 # Bibliografia
-      * [livro - cap 4](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#livros)
-      * [slide - cap4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
-      * [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
-      * [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
+* [livro - cap 4](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#livros)
+* [slide - cap4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
+* [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
+* [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
+---
 # Aulas
 
-# Aula  1 e 2: Representação Float
+##  Aula  1 e 2: Representação Float
 * [Ponto Flutuante - clique aqui](https://github.com/arduinoufv/inf250/blob/master/2024/float24.md)
   
 * [30/1 (30 pontos)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nJNyXtfbDgVq_dxLbKpTWq) - **A Prova 3 será na sala de aula PVA 239** - [Questao 1 e 2](https://docs.google.com/document/d/1PlLWaqZeU2YMhULrGTSqKQRoRg9pSu4YJvyVySe81rc/edit?usp=sharing)  [Questão 3](https://docs.google.com/document/d/1NFCfhNiI1Wej77CkSkChfNBAxC7TLiKsgqySfq9a3tA/edit?usp=sharing) e a [folha de questões da ultima aula de revisão](https://docs.google.com/document/d/1sTT7KcSxtaaJzCNrQfx8aFWYSsNa1kNeAWpGAQ2VkHc/edit?usp=sharing), mais alguns videos relacionados a questão 2 [forward e hazard](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mgsGaEC75M3NWLTQdHcRnT), e relacionados a questão 1 [sem forward](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kehxpf-KUMmCTSsPwcs6hX)
