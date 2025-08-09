@@ -4,11 +4,11 @@
 2. [Slides FEUP 2004](https://web.fe.up.pt/~aja/PSD2004_05/slides/42-70.pdf)
 
 # Colabs
-* Introdução a FSM com o sinal de Trânsito [clique aqui](https://colab.research.google.com/drive/1QH_gkbgfoL2nmEw3e4PH8naGjNf2ATNd)
+* Introdução a FSM com o sinal de Trânsito [clique aqui](https://colab.research.google.com/drive/1QH_gkbgfoL2nmEw3e4PH8naGjNf2ATNd): Três implementações de FSMs
 * Máquina de Estados com entradas para sequência de cores [clique aqui](https://colab.research.google.com/drive/1sJHNdp4R_8ziY4QNLDcyHnVpU0KTXbX0?usp=sharing)
 * Paridade, Máquina de Tripla e Máquina de Vendas [clique aqui](https://colab.research.google.com/drive/1eNKWvlzjtjhqw3H3qWdobHE4gMVmZOZU?usp=sharing)
 * Contadores em Geral [clique aqui](https://colab.research.google.com/drive/1IbYN7mq5kUhaqTWDolTMkwhBD71d4jPy?usp=sharing)
-* [Exemplo de Trabalho de 2024](https://colab.research.google.com/drive/1cIsHsaC3JZVWpYgpVGQ68QKoEgF_5yig?usp=sharing)
+* [Exemplo de Trabalho de 2024 como exercício](https://colab.research.google.com/drive/1cIsHsaC3JZVWpYgpVGQ68QKoEgF_5yig?usp=sharing)
   
 # Exemplos para Prova
 
