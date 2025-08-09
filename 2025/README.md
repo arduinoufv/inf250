@@ -1,18 +1,24 @@
 # Cronograma de 2025
-* 3 Provas 30, 35 e 35 pontos. Prova I 
-* 
+* 3 Provas 30, 32 e 32 pontos. Prova I 11/9, Prova II 30/10 e Prova III 27/11 
+* 1 trabalho final com apresentação e arguição oral INDIVIDUAL 2 e 4/12/25.
+
+# Bibliografia
+      * [livro - cap 4](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#livros)
+      * [slide - cap4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
+      * [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
+      * [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
+# Aulas
+
+# Aula  1 e 2: Representação Float
+* [Ponto Flutuante - clique aqui](https://github.com/arduinoufv/inf250/blob/master/2024/float24.md)
+  
 * [30/1 (30 pontos)](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nJNyXtfbDgVq_dxLbKpTWq) - **A Prova 3 será na sala de aula PVA 239** - [Questao 1 e 2](https://docs.google.com/document/d/1PlLWaqZeU2YMhULrGTSqKQRoRg9pSu4YJvyVySe81rc/edit?usp=sharing)  [Questão 3](https://docs.google.com/document/d/1NFCfhNiI1Wej77CkSkChfNBAxC7TLiKsgqySfq9a3tA/edit?usp=sharing) e a [folha de questões da ultima aula de revisão](https://docs.google.com/document/d/1sTT7KcSxtaaJzCNrQfx8aFWYSsNa1kNeAWpGAQ2VkHc/edit?usp=sharing), mais alguns videos relacionados a questão 2 [forward e hazard](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mgsGaEC75M3NWLTQdHcRnT), e relacionados a questão 1 [sem forward](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kehxpf-KUMmCTSsPwcs6hX)
     * 7/11 (30 pontos) **A Prova 1 será na sala de aula PVA 239**. Não pode usar calculadora nem celular.
       [dica geral da prova](https://youtu.be/_s3cyz3Sd9k) com questões sobre: [float](https://youtu.be/EgCpuJbbC8E), [assembly](https://youtu.be/aKgDLfZhFA8) e [maquina de estado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nMzBUR-i6STZfg9MR0AVN5) + ultima [Aula de Revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k5MtKSIjeYz_GDvWlk9GLQ)
 
     *  5/12 (30 pontos) - **A Prova 2 será na sala de aula PVA 239** 
     * 
-    
-      * [livro - cap 4](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#livros)
-      * [slide - cap4](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
-      * [Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
-      * [Processador Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
-
+  
 # Trabalhos  - 10 pontos
    * [Trab 1- Maquina estados 3 pontos até 14/11](https://colab.research.google.com/drive/1cIsHsaC3JZVWpYgpVGQ68QKoEgF_5yig?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/ZUmhyZtxLX2Et6ae7)
    * [Trab 2- Caminho de Dados 3 pontos Prazo 13/1/25](https://colab.research.google.com/drive/1stSdWWX58nfNNW0xI8339-jQTa8cjsgb?usp=sharing) para envio do trabalho [clique aqui](https://forms.gle/xFz9nHcRafSSSuz76)
