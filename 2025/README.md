@@ -1,6 +1,6 @@
 # Cronograma de 2025
-* 3 Provas 30, 32 e 32 pontos. Prova I 11/9, Prova II 30/10 e Prova III 27/11 
-* 1 trabalho final com apresentação e arguição oral INDIVIDUAL 2 e 4/12/25.
+* 3 Provas 27, 35 e 32 pontos. Prova I 11/9, Prova II 30/10 e Prova III 27/11 
+* 1 trabalho final 6 pontos com apresentação e arguição oral INDIVIDUAL 2 e 4/12/25.
 
 # Bibliografia
 * [livro - cap 4](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#livros)
