@@ -10,6 +10,7 @@
 ## Simuladores
 1. [Simulador Venus Risc-V](https://www.kvakil.me/venus/) 
 2. [RISC-V Interpreter - Universidade Cornell](https://www.cs.cornell.edu/courses/cs3410/2019sp/riscv/interpreter/)
+3. [Simulador com exemplos e estatísticas de SuperEscalar](https://sc-nas.fit.vutbr.cz:11443/)
 
 ## Risc-V História
 
