@@ -8,7 +8,7 @@
 * Máquina de Estados com entradas para sequência de cores [clique aqui](https://colab.research.google.com/drive/1sJHNdp4R_8ziY4QNLDcyHnVpU0KTXbX0?usp=sharing)
 * Paridade, Máquina de Tripla e Máquina de Vendas [clique aqui](https://colab.research.google.com/drive/1eNKWvlzjtjhqw3H3qWdobHE4gMVmZOZU?usp=sharing)
 * Contadores em Geral [clique aqui](https://colab.research.google.com/drive/1IbYN7mq5kUhaqTWDolTMkwhBD71d4jPy?usp=sharing)
-* [Exemplo de Trabalho de 2024 como exercício](https://colab.research.google.com/drive/1cIsHsaC3JZVWpYgpVGQ68QKoEgF_5yig?usp=sharing)
+* [Exemplo de Trabalho de 2024 como exercício](https://colab.research.google.com/drive/1yWGGFMYTC9l6_BvJmuJOu83wSOu9Bp2l?usp=sharing)
   
 # Exemplos para Prova
 
