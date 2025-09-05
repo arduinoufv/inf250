@@ -19,8 +19,9 @@
   
 ## Aulas 6 e 7: Assembly Risc-V
 * [Assembly Risc V](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md)
-* 
+* [Playlist da Aula de Assembler 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nCi-nQ69zmo0F_wXoifB_i)
 ## Prova I
+* [Playlist de Revisao para Prova 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lCKzbW5AmccA7x7kKBn_q1)
 
 ### Dicas de 2024
 * Não pode usar calculadora nem celular
