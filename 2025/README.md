@@ -22,6 +22,7 @@
 * [Playlist da Aula de Assembler 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nCi-nQ69zmo0F_wXoifB_i)
 ## Prova I
 * [Playlist de Revisao para Prova 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lCKzbW5AmccA7x7kKBn_q1)
+  [colab com dicas para prova](https://docs.google.com/document/d/1PGxTOI4rpU9b8-USWu0SDjORjCig77qxNr6iyKraEBU/edit?usp=sharing)
 
 ### Dicas de 2024
 * Não pode usar calculadora nem celular
