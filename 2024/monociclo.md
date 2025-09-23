@@ -1,8 +1,18 @@
 # Monociclo
 
+1. [Trabalho de 2023 com matplot Lib + Verilog](https://colab.research.google.com/drive/170qxfdCPs-d4qSeHA-WC6UKM5jMce78g?usp=sharing)
+2. [Formato das instrução no Excalidraw](https://excalidraw.com/#json=OWxmA8vHZD7wwkV6M96rF,XgiiwzUN-kJ1om3G2sZsDg)
+3. [5 tipos de instruções e seu funcionamento no Datapath - videos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mZsNVA2Q9lyTij7zgk454p)
+
+
+## Datapath
+
+![](https://media.cheggcdn.com/media/5b4/5b4b57d4-1cd7-4e95-86d6-edb7caafc215/phpn5NF0U)
+
+
+
 ## Colabs
 
-1. [Trabalho de 2023 com matplot Lib + Verilog](https://colab.research.google.com/drive/170qxfdCPs-d4qSeHA-WC6UKM5jMce78g?usp=sharing)
 2. [Versão com Inkscape passo a passo para 2024](https://colab.research.google.com/drive/1HsQPjUu4DgtQPbAmj92oQVWkJ-l7wYzB?usp=sharing)
 3. [Playlist Video da descriçao do Código Verilog do RiscV](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mgOu3sOujBNe7obnuVgjlG)
 4. [Playlist Video dos tipos de Instrução no Desenho Inkscape: Add, Addi, Lw, Sw, Beq](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lxjcBPDGlxkU8SZPOTd4xn)
@@ -10,11 +20,7 @@
 * [Simulador com desenho do Datapath](https://jesse-r-s-hines.github.io/RISC-V-Graphical-Datapath-Simulator/)
 * [Outro simulador online com código assembly, recursos de I/O e principais partes internas](https://eseo-tech.github.io/emulsiV/)
 
-[Formato das instrução no Excalidraw](https://excalidraw.com/#json=OWxmA8vHZD7wwkV6M96rF,XgiiwzUN-kJ1om3G2sZsDg)
 
-## Datapath
-
-![](https://media.cheggcdn.com/media/5b4/5b4b57d4-1cd7-4e95-86d6-edb7caafc215/phpn5NF0U)
 
 
 ## Referências de Apoio
