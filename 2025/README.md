@@ -32,6 +32,8 @@
 
 ### Codificação
 * [vários links](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
+### Processador Monociclo
+* [vários links](https://github.com/arduinoufv/inf250/blob/master/2024/monociclo.md)
 ### Cache e Máquina de Estados
 * [mapeamento direto](https://colab.research.google.com/drive/1agDgUoG4aIldq-AkhVa_mjKKkV7FlaDn?usp=sharing)
 ----
