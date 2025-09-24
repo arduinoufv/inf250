@@ -3,6 +3,7 @@
 1. [Trabalho de 2023 com matplot Lib + Verilog](https://colab.research.google.com/drive/170qxfdCPs-d4qSeHA-WC6UKM5jMce78g?usp=sharing)
 2. [Formato das instrução no Excalidraw](https://excalidraw.com/#json=OWxmA8vHZD7wwkV6M96rF,XgiiwzUN-kJ1om3G2sZsDg)
 3. [5 tipos de instruções e seu funcionamento no Datapath - videos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mZsNVA2Q9lyTij7zgk454p)
+4. [Colab com Montador Python e Simulador Verilog](https://colab.research.google.com/drive/1a1dwiNJMDLUTf2lX_ShfILq77r4PWP7C?usp=sharing) 
 
 
 ## Datapath
