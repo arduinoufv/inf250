@@ -5,6 +5,30 @@
 3. [5 tipos de instruções e seu funcionamento no Datapath - videos](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mZsNVA2Q9lyTij7zgk454p)
 4. [Colab com Montador Python e Simulador Verilog](https://colab.research.google.com/drive/1a1dwiNJMDLUTf2lX_ShfILq77r4PWP7C?usp=sharing) e [uma versão passo a passo com o código Verilog por partes](https://colab.research.google.com/drive/1HsQPjUu4DgtQPbAmj92oQVWkJ-l7wYzB?usp=sharing)
 
+# Trabalho de 2025
+
+## Parte I - Novas Instruções Monociclo
+
+### Float
+* Fazer um código assembler para Soma e Multiplicação com o Risc-V padrão do [Colab com Montador Python e Simulador Verilog](https://colab.research.google.com/drive/1a1dwiNJMDLUTf2lX_ShfILq77r4PWP7C?usp=sharing) (versão sem instruções adicionais)
+*  Código deve usar uma representação de 16 bits com 1 de sinal, 8 de expoente e 7 de mantissa. Deve considerar a existência de 0.
+*  Fazer duas novas instruções addf rd,rs1,rs2 e multf rd,rs1,rs2 que façam diretamente a instrução na ALU. Implementar com um módulo verilog a parte o somador e mulplicador de float.
+*  Comparar o resultado com a inclusão da nova operação da versão em software e em hardware
+
+### Load 
+* Adicionar uma nova instrução que faça **ldinc4 rd, rs1, rs2** que faz
+  ```
+  if rs2 > 0
+      rd = mem[rs1]
+      rs2--, rs1+=4
+      pc = pc - 4
+  else
+     pc = pc+4
+  ```
+### Store
+
+### Desvio
+
 
 ## Datapath
 
