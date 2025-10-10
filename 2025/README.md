@@ -1,6 +1,7 @@
 # Cronograma de 2025
 * 3 Provas 27, 35 e 32 pontos. Prova I 11/9, Prova II 30/10 e Prova III 27/11 
 * 1 trabalho final 6 pontos com apresentação e arguição oral INDIVIDUAL 2 e 4/12/25.
+* [Trabalho 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kHXlfB374f2AMWlj7aYbXH)
 
 # Bibliografia
 * [livro - cap 4](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#livros)
@@ -28,8 +29,10 @@
 * Não pode usar calculadora nem celular
 * [dica geral da prova](https://youtu.be/_s3cyz3Sd9k) com questões sobre: [float](https://youtu.be/EgCpuJbbC8E), [assembly](https://youtu.be/aKgDLfZhFA8) e [maquina de estado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nMzBUR-i6STZfg9MR0AVN5) + ultima [Aula de Revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k5MtKSIjeYz_GDvWlk9GLQ)
 
-## Nova Matéria Implementação do Risc-V para Prova 2 - [provas passadas](https://drive.google.com/drive/folders/19izK_r-uApBRUX1DLTZBpml1pEFZEo1X?usp=sharing)
-
+## Nova Matéria Implementação do Risc-V para Prova 2 
+   * [provas passadas](https://drive.google.com/drive/folders/19izK_r-uApBRUX1DLTZBpml1pEFZEo1X?usp=sharing)
+   * [Videos de problemas para Prova 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kqJ7TITnV8am41kpMkYFQS)
+   * 
 ### Codificação
 * [vários links](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
 ### Processador Monociclo
