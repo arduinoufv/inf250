@@ -32,7 +32,7 @@
 ## Nova Matéria Implementação do Risc-V para Prova 2 
    * [provas passadas](https://drive.google.com/drive/folders/19izK_r-uApBRUX1DLTZBpml1pEFZEo1X?usp=sharing)
    * [Videos de problemas para Prova 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kqJ7TITnV8am41kpMkYFQS)
-   * 
+   * [modelo da prova](https://docs.google.com/document/d/1EmcDXC-Z-m5z5myd9WlaETQSO_Mt3kRz2Cg8oshD3p8/edit?usp=sharing)
 ### Codificação
 * [vários links](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
 ### Processador Monociclo
