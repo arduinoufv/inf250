@@ -1,5 +1,5 @@
 # Cronograma de 2025
-* 3 Provas 27, 35 e 32 pontos. Prova I 11/9, Prova II 30/10 e Prova III 27/11 
+* 3 Provas 27, 35 e 32 pontos. Prova I 11/9, Prova II 6/11 e Prova III 27/11 
 * 1 trabalho final 6 pontos com apresentação e arguição oral INDIVIDUAL 2 e 4/12/25.
 * [Video do Trabalho 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kHXlfB374f2AMWlj7aYbXH)  e o Colab [trab 2025](https://colab.research.google.com/drive/1dB8Zquuc-_TNFTpWFoTMk6rkWvf5JTJm?usp=sharing)
 
@@ -29,10 +29,11 @@
 * Não pode usar calculadora nem celular
 * [dica geral da prova](https://youtu.be/_s3cyz3Sd9k) com questões sobre: [float](https://youtu.be/EgCpuJbbC8E), [assembly](https://youtu.be/aKgDLfZhFA8) e [maquina de estado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nMzBUR-i6STZfg9MR0AVN5) + ultima [Aula de Revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k5MtKSIjeYz_GDvWlk9GLQ)
 
-## Nova Matéria Implementação do Risc-V para Prova 2 
+## Nova Matéria Implementação do Risc-V para Prova 2 6/11 sala pva117
    * [provas passadas](https://drive.google.com/drive/folders/19izK_r-uApBRUX1DLTZBpml1pEFZEo1X?usp=sharing)
    * [Videos de problemas para Prova 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kqJ7TITnV8am41kpMkYFQS)
    * [modelo da prova](https://docs.google.com/document/d/1EmcDXC-Z-m5z5myd9WlaETQSO_Mt3kRz2Cg8oshD3p8/edit?usp=sharing)
+   * [questão 5](https://www.youtube.com/playlist?list=PLcvOyD_LMr6le5OKMPnQCdQSj9iMIufw6)
 ### Codificação
 * [vários links](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
 ### Processador Monociclo
