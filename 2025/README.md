@@ -29,9 +29,10 @@
 * Não pode usar calculadora nem celular
 * [dica geral da prova](https://youtu.be/_s3cyz3Sd9k) com questões sobre: [float](https://youtu.be/EgCpuJbbC8E), [assembly](https://youtu.be/aKgDLfZhFA8) e [maquina de estado](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nMzBUR-i6STZfg9MR0AVN5) + ultima [Aula de Revisao](https://www.youtube.com/playlist?list=PLcvOyD_LMr6k5MtKSIjeYz_GDvWlk9GLQ)
 
-## Nova Matéria Implementação do Risc-V para Prova 2 6/11 sala pva117
+## Matéria Implementação do Risc-V para Prova 2 6/11 sala pva117
    * [provas passadas](https://drive.google.com/drive/folders/19izK_r-uApBRUX1DLTZBpml1pEFZEo1X?usp=sharing)
-   * [Videos de problemas para Prova 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kqJ7TITnV8am41kpMkYFQS)
+   * [Revisão das 5 questões](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kHLdmvAVbJ4KJwLrJNTZGr)
+   * [Videos de problemas de novas instruçoes para Prova 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kqJ7TITnV8am41kpMkYFQS)
    * [modelo da prova](https://docs.google.com/document/d/1EmcDXC-Z-m5z5myd9WlaETQSO_Mt3kRz2Cg8oshD3p8/edit?usp=sharing)
    * [questão 5](https://www.youtube.com/playlist?list=PLcvOyD_LMr6le5OKMPnQCdQSj9iMIufw6)
 ### Codificação
