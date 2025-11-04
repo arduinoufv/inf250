@@ -32,6 +32,7 @@
 ## Matéria Implementação do Risc-V para Prova 2 6/11 sala pva117
    * [provas passadas](https://drive.google.com/drive/folders/19izK_r-uApBRUX1DLTZBpml1pEFZEo1X?usp=sharing)
    * [Revisão das 5 questões](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kHLdmvAVbJ4KJwLrJNTZGr)
+   * [Revisão 4 novembro e pipeline](https://www.youtube.com/playlist?list=PLcvOyD_LMr6mnGUvpS5p_8_Hg6fWzfH4W)
    * [Videos de problemas de novas instruçoes para Prova 2](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kqJ7TITnV8am41kpMkYFQS)
    * [modelo da prova](https://docs.google.com/document/d/1EmcDXC-Z-m5z5myd9WlaETQSO_Mt3kRz2Cg8oshD3p8/edit?usp=sharing)
    * [questão 5](https://www.youtube.com/playlist?list=PLcvOyD_LMr6le5OKMPnQCdQSj9iMIufw6)
