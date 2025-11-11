@@ -44,7 +44,26 @@
 * [Considerar apenas sem Forward (irá esperar no DECODE em caso de dependência) e desvio 4 estágio](https://github.com/arduinoufv/inf250/blob/master/2023/pipeline.md)
 ### Cache e Máquina de Estados (Não cai na prova 2, apenas no trabalho final)
 * [mapeamento direto](https://colab.research.google.com/drive/1agDgUoG4aIldq-AkhVa_mjKKkV7FlaDn?usp=sharing)
+
 ----
+# Prova 3 2025
+
+## Aula 11 Nov
+
+* Lògica de Stall com e sem Forward - [Questão Hazard e Forward](https://docs.google.com/document/d/1TnP3BWE7CcnzCr1shGrGDtLwXEA6l66PGqF2k03tsYA/edit?usp=sharing)
+* [Colab sem Forward com Inkscape](https://colab.research.google.com/drive/1HBvXZqjnrma_9umUg0N8R39GVV9yDScI?usp=sharing)
+* [Animação com slide com e sem forward](https://docs.google.com/presentation/d/139fkUELTPbqwLA-9y-7ck_yOIOx7PdpEcZCnKd0UStg/edit?usp=sharing)
+* 
+## Aula 13 Nov
+* [Várias versões datapath com Colab alto Nivel](https://colab.research.google.com/drive/1hwbdG2kj_h2DMVNdstVz3CeywsP43UUz?usp=sharing)
+* [Slides com várias versões do Datapath](https://docs.google.com/presentation/d/1IgIKxOrqwadU0sN3GxPt8boIPTwe8aiGKqHJ0VyEK8M/edit?usp=sharing)
+
+## Aula 18 Nov
+* [Branch no segundo estágio](https://docs.google.com/document/d/1NFCfhNiI1Wej77CkSkChfNBAxC7TLiKsgqySfq9a3tA/edit?usp=sharing)
+
+## Material Final da prova 3
+* [prova 2023](https://docs.google.com/presentation/d/15hHUMlC-6OaBsRUzTIKy1WGualPie5oDQNUbfyb9j_k/edit?usp=sharing)
+
 ----
 # Material em construção dos anos anteriores
 
