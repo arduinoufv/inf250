@@ -56,11 +56,11 @@
 * 
 ## Aula 13 Nov
 * [Várias versões datapath com Colab alto Nivel](https://colab.research.google.com/drive/1hwbdG2kj_h2DMVNdstVz3CeywsP43UUz?usp=sharing)
-* [Slides com várias versões do Datapath](https://docs.google.com/presentation/d/1IgIKxOrqwadU0sN3GxPt8boIPTwe8aiGKqHJ0VyEK8M/edit?usp=sharing)
-
-## Aula 18 Nov
+* [Slides com várias versões do Datapath](https://docs.google.com/presentation/d/1IgIKxOrqwadU0sN3GxPt8boIPTwe8aiGKqHJ0VyEK8M/edit?usp=sharing) 
 * [Branch no segundo estágio](https://docs.google.com/document/d/1NFCfhNiI1Wej77CkSkChfNBAxC7TLiKsgqySfq9a3tA/edit?usp=sharing)
 
+
+## Aula 18 Nov
 ## Material Final da prova 3
 * [prova 2023](https://docs.google.com/presentation/d/15hHUMlC-6OaBsRUzTIKy1WGualPie5oDQNUbfyb9j_k/edit?usp=sharing)
 
