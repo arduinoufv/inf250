@@ -50,6 +50,7 @@
 * [Explicação em video da Prova resolvida passo a passo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nmznJvpr0B_pXXUstMWxR_)
 * [prova resolvida](https://docs.google.com/document/d/1y9c14CKz3OAslIscb55YeSeXxXLtdHx-ula2WRWfVlU/edit?usp=sharing) + anotações do excalidraw da [resolução](https://excalidraw.com/#json=7dtTmM9HSYC3E9I5pAsoz,qHdRZA9ZImlEp5HyxNWWIQ)
 * [Exemplo de prova para treino](https://docs.google.com/document/d/1EYqvNs8nY96VZ3khbfKek7IUSg4zhaIyuvA9mDv-Qbk/edit?usp=sharing)
+* [Material adicional Vários exemplos da Prova 3 de 2024](https://www.youtube.com/watch?v=llkVjJ9OHYE&list=PLcvOyD_LMr6nJNyXtfbDgVq_dxLbKpTWq&index=1)
 
 
 ## Aula 11 Nov
