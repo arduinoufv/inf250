@@ -46,7 +46,11 @@
 * [mapeamento direto](https://colab.research.google.com/drive/1agDgUoG4aIldq-AkhVa_mjKKkV7FlaDn?usp=sharing)
 
 ----
-# Prova 3 2025 - [questão 1/2](https://docs.google.com/document/d/1SYzeDh9zLmWXBCZJy0Y9nBufROAX_zVg_PLznLXIqOg/edit?usp=sharing)
+# Prova 3 2025 
+* [Explicação da Prova resolvidade passo a passo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nmznJvpr0B_pXXUstMWxR_)
+* [prova resolvida]() + anotações do excalidraw da [resolução]()
+* [Exemplo de prova para treino]()
+* [questão 1/2](https://docs.google.com/document/d/1SYzeDh9zLmWXBCZJy0Y9nBufROAX_zVg_PLznLXIqOg/edit?usp=sharing)
 
 ## Aula 11 Nov
 
