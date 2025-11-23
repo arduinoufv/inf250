@@ -46,11 +46,11 @@
 * [mapeamento direto](https://colab.research.google.com/drive/1agDgUoG4aIldq-AkhVa_mjKKkV7FlaDn?usp=sharing)
 
 ----
-# Prova 3 2025 
-* [Explicação da Prova resolvidade passo a passo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nmznJvpr0B_pXXUstMWxR_)
-* [prova resolvida]() + anotações do excalidraw da [resolução]()
-* [Exemplo de prova para treino]()
-* [questão 1/2](https://docs.google.com/document/d/1SYzeDh9zLmWXBCZJy0Y9nBufROAX_zVg_PLznLXIqOg/edit?usp=sharing)
+# Prova 3 2025  PVA 117 - 
+* [Explicação em video da Prova resolvida passo a passo](https://www.youtube.com/playlist?list=PLcvOyD_LMr6nmznJvpr0B_pXXUstMWxR_)
+* [prova resolvida](https://docs.google.com/document/d/1y9c14CKz3OAslIscb55YeSeXxXLtdHx-ula2WRWfVlU/edit?usp=sharing) + anotações do excalidraw da [resolução](https://excalidraw.com/#json=7dtTmM9HSYC3E9I5pAsoz,qHdRZA9ZImlEp5HyxNWWIQ)
+* [Exemplo de prova para treino](https://docs.google.com/document/d/1EYqvNs8nY96VZ3khbfKek7IUSg4zhaIyuvA9mDv-Qbk/edit?usp=sharing)
+
 
 ## Aula 11 Nov
 
@@ -66,7 +66,7 @@
 
 ## Aula 18 Nov
 ## Material Final da prova 3
-* [prova 2023](https://docs.google.com/presentation/d/15hHUMlC-6OaBsRUzTIKy1WGualPie5oDQNUbfyb9j_k/edit?usp=sharing)
+* [prova 2023 estilo de preenchimento um pouco diferente...](https://docs.google.com/presentation/d/15hHUMlC-6OaBsRUzTIKy1WGualPie5oDQNUbfyb9j_k/edit?usp=sharing)
 
 ----
 # Material em construção dos anos anteriores
