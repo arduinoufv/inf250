@@ -1,4 +1,5 @@
 # Cronograma de 2025
+* Prova final 11/12 Quinta as 14h no DPI. Prova Sub para quem teve atestado medico 8/12 as 14h no DPI.
 * 3 Provas 27, 35 e 32 pontos. Prova I 11/9, Prova II 6/11 e Prova III 27/11 
 * 1 trabalho final 6 pontos com apresentação e arguição oral INDIVIDUAL 2 e 4/12/25.
 * [Video do Trabalho 2025](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kHXlfB374f2AMWlj7aYbXH)  e o Colab [trab 2025](https://colab.research.google.com/drive/1dB8Zquuc-_TNFTpWFoTMk6rkWvf5JTJm?usp=sharing)
