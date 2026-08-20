@@ -1,7 +1,7 @@
 # Material INF250 2026
 
 # Avaliações
- * 14 pontos de trabalhos
+ * 14 pontos de trabalhos - [Trabalho 1]
  * Prova 1 - 24/09/26 - 30 pontos
  * Prova 2 - 5/11/26 - 30 pontos
  * Prova 3 - 10/12/26 - 26 Pontos
@@ -15,6 +15,6 @@
    # Aulas
    ## 13/8 - Apresentação da metodologia para Trabalhos com IA e Demo FPGA
    ---
-   ## 18/8 - Máquina de Estados Finitos e Apresentação do primeiro Trabalho
+   ## 18/8, 25/8, 27/8 - Máquina de Estados Finitos e Apresentação do primeiro Trabalho
   * [Máquina de Estados](https://github.com/arduinoufv/inf250/blob/master/2024/fsm.md)
   * Sinal de Transito, Sequência de Cores, Tripla, Maquina de Vendas, Elevador
