@@ -1,7 +1,7 @@
 # Material INF250 2026
 
 # Avaliações
- * 14 pontos de trabalhos - [Trabalho 1]
+ * 14 pontos de trabalhos - [Trabalho 1](https://colab.research.google.com/drive/1Jgl60EDaW2QIovScTwXd__3MK3bBJq7z?usp=sharing)
  * Prova 1 - 24/09/26 - 30 pontos
  * Prova 2 - 5/11/26 - 30 pontos
  * Prova 3 - 10/12/26 - 26 Pontos
