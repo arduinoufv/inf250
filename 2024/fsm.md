@@ -4,11 +4,13 @@
 2. [Slides FEUP 2004](https://web.fe.up.pt/~aja/PSD2004_05/slides/42-70.pdf)
 
 # Colabs
-* Introdução a FSM com o sinal de Trânsito [clique aqui](https://colab.research.google.com/drive/1QH_gkbgfoL2nmEw3e4PH8naGjNf2ATNd): Três implementações de FSMs
+* **Aula de 18/8/2026** Introdução a FSM com o sinal de Trânsito [clique aqui](https://colab.research.google.com/drive/1QH_gkbgfoL2nmEw3e4PH8naGjNf2ATNd): Três implementações de FSMs
+------
+## Aula de 25/08/2026**
 * Máquina de Estados com entradas para sequência de cores [clique aqui](https://colab.research.google.com/drive/1sJHNdp4R_8ziY4QNLDcyHnVpU0KTXbX0?usp=sharing)
 * Paridade, Máquina de Tripla e Máquina de Vendas [clique aqui](https://colab.research.google.com/drive/1eNKWvlzjtjhqw3H3qWdobHE4gMVmZOZU?usp=sharing)
 * Contadores em Geral [clique aqui](https://colab.research.google.com/drive/1IbYN7mq5kUhaqTWDolTMkwhBD71d4jPy?usp=sharing)
-* [Exemplo de Trabalho de 2024 como exercício](https://colab.research.google.com/drive/1yWGGFMYTC9l6_BvJmuJOu83wSOu9Bp2l?usp=sharing)
+-----  
   
 # Exemplos para Prova
 
@@ -19,7 +21,7 @@
 # Anos Anteriores...
 
 ## Colab e videos dos anos anteriores
-
+* [Exemplo de Trabalho de 2024 como exercício](https://colab.research.google.com/drive/1yWGGFMYTC9l6_BvJmuJOu83wSOu9Bp2l?usp=sharing)
 * [Revisão de Verilog para FlipFlop e o uso comandos = e <= dentro de um always](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kahvAb8uE4z-Q7NPa_4nnw)
 * [Introdução a FSM com o sinal de Trânsito](https://www.youtube.com/playlist?list=PLcvOyD_LMr6lQzPd9wp5VsnJSQf4qZ-7L) e o
 * [29/8 Aula continuação do Exemplo do Sinal com uso do Gradio para simulação](https://www.youtube.com/playlist?list=PLcvOyD_LMr6m2XJdC9m1Z6o8aASHzDSma)
