@@ -18,3 +18,15 @@
    ## 18/8, 25/8, 27/8 - Máquina de Estados Finitos e Apresentação do primeiro Trabalho
   * [Máquina de Estados](https://github.com/arduinoufv/inf250/blob/master/2024/fsm.md)
   * Sinal de Transito, Sequência de Cores, Tripla, Maquina de Vendas, Elevador
+  ------
+   ## Aula 31/8/26 Ponto Flutuante
+  * [conversor online 32 bits IEEE 754](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
+  * [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
+  * [slide](https://github.com/arduinoufv/inf250/blob/master/2024/inf250_2024_aula_1_Float-1.pdf)
+  * [COLAB Introdução ao Float 2025](https://colab.research.google.com/drive/1Jrxs6kMs35bJv4JAfC2nASfru29m98HV?usp=sharing)
+  ----
+  ## Aula 03/09/26
+  * [Gerador de exercícios para treinar](https://colab.research.google.com/drive/1KpKzXLy5DYOklvlpxxM0hHujUtBQmQ9M?usp=sharing)
+  * [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
+  * [Mais Material de Ponto Flutuante](https://github.com/arduinoufv/inf156/blob/main/PontoFlutuante.md)
+  ----
