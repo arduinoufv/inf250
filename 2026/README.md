@@ -2,7 +2,7 @@
 
 # Avaliações
  * 14 pontos de trabalhos - [Trabalho 1](https://colab.research.google.com/drive/1Jgl60EDaW2QIovScTwXd__3MK3bBJq7z?usp=sharing)
- * Prova 1 - 24/09/26 - 30 pontos
+ * Prova 1 - 24/09/26 - 30 pontos - sala PVA 153
  * Prova 2 - 5/11/26 - 30 pontos
  * Prova 3 - 10/12/26 - 26 Pontos
 ------
@@ -30,3 +30,4 @@
   * [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
   * [Mais Material de Ponto Flutuante](https://github.com/arduinoufv/inf156/blob/main/PontoFlutuante.md)
   ----
+ #  Prova 1 - 24/09/26 - 30 pontos - sala PVA 153
