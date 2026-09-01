@@ -1,7 +1,7 @@
 # Material INF250 2026
 
 # Avaliações
- * 14 pontos de trabalhos - [Trabalho 1](https://colab.research.google.com/drive/1Jgl60EDaW2QIovScTwXd__3MK3bBJq7z?usp=sharing)
+ * 14 pontos de trabalhos - [Trabalho 1](https://colab.research.google.com/drive/1Jgl60EDaW2QIovScTwXd__3MK3bBJq7z?usp=sharing) e instruções em [video](https://www.youtube.com/playlist?list=PLOoPs0CeBZSc)
  * Prova 1 - 24/09/26 - 30 pontos - sala PVA 153
  * Prova 2 - 5/11/26 - 30 pontos
  * Prova 3 - 10/12/26 - 26 Pontos
@@ -17,6 +17,7 @@
    ---
    ## 18/8, 25/8, 27/8 - Máquina de Estados Finitos e Apresentação do primeiro Trabalho
   * [Máquina de Estados](https://github.com/arduinoufv/inf250/blob/master/2024/fsm.md)
+  * [Vídeos de Maquina de Estados de 2026](https://www.youtube.com/playlist?list=PLHfWaVBRE5xY)
   * Sinal de Transito, Sequência de Cores, Tripla, Maquina de Vendas, Elevador
   ------
    ## Aula 31/8/26 Ponto Flutuante
