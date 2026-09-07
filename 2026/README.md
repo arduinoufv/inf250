@@ -51,10 +51,10 @@
   ### Aula 18/9/2026 - Codificação das Instruções em Binário
   * Mais exercícios
   -----
-  ### Aula de Revisão para Prova 1 - 22/09/2026
+  ## Aula de Revisão para Prova 1 - 22/09/2026
   ----
-  ### Prova 1 - 24/09/2026 - PVA 153
-  * Máquina de Estados, Float7, Assembly Risc-V, Codificação de Assembly Risc-V
+#  Prova 1 - 24/09/26 - 30 pontos - sala PVA 153
+* Máquina de Estados, Float7, Assembly Risc-V, Codificação de Assembly Risc-V
   ----
+  # Processador MonoCiclo
   ----
- #  Prova 1 - 24/09/26 - 30 pontos - sala PVA 153
