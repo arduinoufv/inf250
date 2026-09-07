@@ -25,10 +25,36 @@
   * [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
   * [slide](https://github.com/arduinoufv/inf250/blob/master/2024/inf250_2024_aula_1_Float-1.pdf)
   * [COLAB Introdução ao Float 2025](https://colab.research.google.com/drive/1Jrxs6kMs35bJv4JAfC2nASfru29m98HV?usp=sharing)
-  ----
-  ## Aula 03/09/26
+    ## Aula 03/09/26
   * [Gerador de exercícios para treinar](https://colab.research.google.com/drive/1KpKzXLy5DYOklvlpxxM0hHujUtBQmQ9M?usp=sharing)
   * [Conversor da disciplina para 7 bits](https://colab.research.google.com/drive/1VDbOUXNxLzkMTtOCDY4NQhaE9t_Q6Bvj?usp=sharing)
   * [Mais Material de Ponto Flutuante](https://github.com/arduinoufv/inf156/blob/main/PontoFlutuante.md)
+  -----
+  ----
+  ## Aulas de Assembly Risc-V
+  ### Aula 8/9/2026
+  * [Simulador no Colab com exemplos iniciais e subconjunto do Risc-V](https://colab.research.google.com/drive/1Bef2Mov-St8bYQM0CDSolaGpGULTbYjI?usp=sharing)
+  * [Gerador de exercicios para Instruções lógica aritméticas](https://colab.research.google.com/drive/1rQLpneDcYgraw2kwieENBi7Trb3tK5cc?usp=sharing)
+  * [Simulador Venus Risc-V](https://www.kvakil.me/venus/)
+  * [Patterson&Hennessy - Computer Organization - Risc-V Edition](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
+  * [Slides do Capítulo 2 do Livro Patterson&Hennessy - Acesso Conta UFV](https://docs.google.com/presentation/d/1BqaqjFikDXnsPEoxdnN7-IbQU2Ji0nUNVJfQDp9I8Dk/edit?usp=sharing)
+  ### Trabalho 2 (2 pontos)
+  * Usando a metodologia de registro de IA, fazer uma função para imprimir os valores Float7 em Ascii na memória e uma função para ler um numero em Ascii e converter para float7
+  * Testar as funções com os algoritmos de multiplicação e soma.
+  * **1 ponto extra**, generalizar a função e os algoritmos para N bits de expoente e M bits de Mantissa.
+  ###  Aula 10/9/2026
+  * Exemplos de Aprendizado de Máquina e Funções
+  * [material complementar com mais links](https://github.com/arduinoufv/inf250/edit/master/2024/assembly.md)
+  ### Aula 15/9/2026 - Codificação das Instruções em Binário
+  * [Simulador montador em Python para Verilog - Trabalho de 2024](https://colab.research.google.com/drive/1djDq9nXDf_MD_enowCyUFPbjLWEyaJC5?usp=sharing)
+  * [Vários links de Codificação](https://colab.research.google.com/drive/1djDq9nXDf_MD_enowCyUFPbjLWEyaJC5?usp=sharing)
+  ### Aula 18/9/2026 - Codificação das Instruções em Binário
+  * Mais exercícios
+  -----
+  ### Aula de Revisão para Prova 1 - 22/09/2026
+  ----
+  ### Prova 1 - 24/09/2026 - PVA 153
+  * Máquina de Estados, Float7, Assembly Risc-V, Codificação de Assembly Risc-V
+  ----
   ----
  #  Prova 1 - 24/09/26 - 30 pontos - sala PVA 153
