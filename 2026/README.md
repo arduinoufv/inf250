@@ -57,5 +57,5 @@
   ----
   ----
   
-# Segunda Módulo até Prova 2 - Processador MonoCiclo, Verilog e Cache
+# Segundo Módulo até Prova 2 - Processador MonoCiclo, Verilog e Cache
   ----
