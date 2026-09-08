@@ -32,13 +32,13 @@
   -----
   ----
   ## Aulas de Assembly Risc-V
-  ### Aula 8/9/2026
+  ### Aula 8/9/2026 [playlist da aula](https://www.youtube.com/playlist?list=PLTIB6qYbcIUc)
   * [Simulador no Colab com exemplos iniciais e subconjunto do Risc-V](https://colab.research.google.com/drive/1Bef2Mov-St8bYQM0CDSolaGpGULTbYjI?usp=sharing)
   * [Gerador de exercicios para Instruções lógica aritméticas](https://colab.research.google.com/drive/1rQLpneDcYgraw2kwieENBi7Trb3tK5cc?usp=sharing)
   * [Simulador Venus Risc-V](https://www.kvakil.me/venus/)
   * [Patterson&Hennessy - Computer Organization - Risc-V Edition](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
   * [Slides do Capítulo 2 do Livro Patterson&Hennessy - Acesso Conta UFV](https://docs.google.com/presentation/d/1BqaqjFikDXnsPEoxdnN7-IbQU2Ji0nUNVJfQDp9I8Dk/edit?usp=sharing)
-  ### Trabalho 2 (2 pontos)
+  ### Trabalho 2 (2 pontos) [playlist](https://www.youtube.com/playlist?list=PLXKYdmFHcjdg)
   * Usando a metodologia de registro de IA, fazer uma função para imprimir os valores Float7 em Ascii na memória e uma função para ler um numero em Ascii e converter para float7
   * Testar as funções com os algoritmos de multiplicação e soma.
   * **1 ponto extra**, generalizar a função e os algoritmos para N bits de expoente e M bits de Mantissa.
