@@ -44,7 +44,7 @@
   * **1 ponto extra**, generalizar a função e os algoritmos para N bits de expoente e M bits de Mantissa.
   ###  Aula 10/9/2026
   * Exemplos de Aprendizado de Máquina e Funções
-  * [material complementar com mais links](https://github.com/arduinoufv/inf250/edit/master/2024/assembly.md)
+  * [material complementar com mais links](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#material-complementar)
   ### Aula 15/9/2026 - Codificação das Instruções em Binário
   * [Simulador montador em Python para Verilog - Trabalho de 2024](https://colab.research.google.com/drive/1djDq9nXDf_MD_enowCyUFPbjLWEyaJC5?usp=sharing)
   * [Vários links de Codificação](https://github.com/arduinoufv/inf250/blob/master/2024/codificacao.md)
