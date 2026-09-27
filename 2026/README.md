@@ -42,6 +42,8 @@
   * Usando a metodologia de registro de IA, fazer uma função para imprimir os valores Float7 em Ascii na memória e uma função para ler um numero em Ascii e converter para float7
   * Testar as funções com os algoritmos de multiplicação e soma.
   * **1 ponto extra**, generalizar a função e os algoritmos para N bits de expoente e M bits de Mantissa.
+  * **1 ponto extra** Questão com código com sinal e arredondamento da Prova 1 de 2026 - Multiplicação
+  * **1 ponto extra** Questão com código com sinal e arredondamento da Prova 1 de 2026 - Soma
   ###  Aula 10/9/2026
   * Exemplos de Aprendizado de Máquina e Funções
   * [material complementar com mais links](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#material-complementar)
@@ -66,3 +68,20 @@
   
 # Segundo Módulo até Prova 2 - Processador MonoCiclo, Verilog e Cache
   ----
+  * [Simulador Risc-V de 2023 com MatplotLib](https://colab.research.google.com/drive/170qxfdCPs-d4qSeHA-WC6UKM5jMce78g?usp=sharing)
+  * [Simulador Risc-V de 2024 com Inkscape e novas intruções](https://colab.research.google.com/drive/1a1dwiNJMDLUTf2lX_ShfILq77r4PWP7C?usp=sharing)
+  * [Prova 2 de 2025](https://docs.google.com/document/d/10NmzEHv4ocLH7CZEQnoZKOkn_r3PvPzi9yssfhhYJUo/edit?usp=sharing)
+ ---
+ ## Trabalho 3 - 4 pontos 
+  * Instruções para KNN com vetorização
+  * Intruções para árvores Boost com vetorização
+  * Acoplamento com sklearn e XGboost, teste com Mnist 
+  * Contadores de instruções
+  * Geradores de código
+  * Incluir Cache e contadores de falhas - **3 pontos extras dependendo dos recursos**
+--- 
+## Cache com Máquina de Estados
+ * Cache de mapeamento direto de instruções
+ * Cache de mapeamento direto de dados
+ * Acoplamento com Risc-V
+
