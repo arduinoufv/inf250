@@ -1,7 +1,7 @@
 # Material INF250 2026
 
 # Avaliações
- * 14 pontos de trabalhos - [Trabalho 1](https://colab.research.google.com/drive/1Jgl60EDaW2QIovScTwXd__3MK3bBJq7z?usp=sharing) e instruções em [video](https://www.youtube.com/playlist?list=PLOoPs0CeBZSc) - **prazo máximo dia 28/9/26**
+ * 14 pontos de trabalhos - [Trabalho 1 - 4 pontos + extras...](https://colab.research.google.com/drive/1Jgl60EDaW2QIovScTwXd__3MK3bBJq7z?usp=sharing) e instruções em [video](https://www.youtube.com/playlist?list=PLOoPs0CeBZSc) - **prazo máximo dia 4/10/26**  - [link para envio](https://forms.gle/KzXFfZhmXNKBFmVR6)
  * Prova 1 - 24/09/26 - 30 pontos - sala PVA 153
  * Prova 2 - 5/11/26 - 30 pontos
  * Prova 3 - 10/12/26 - 26 Pontos
@@ -38,7 +38,7 @@
   * [Simulador Venus Risc-V](https://www.kvakil.me/venus/)
   * [Patterson&Hennessy - Computer Organization - Risc-V Edition](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
   * [Slides do Capítulo 2 do Livro Patterson&Hennessy - Acesso Conta UFV](https://docs.google.com/presentation/d/1BqaqjFikDXnsPEoxdnN7-IbQU2Ji0nUNVJfQDp9I8Dk/edit?usp=sharing)
-  ### Trabalho 2 (2 pontos) [playlist](https://www.youtube.com/playlist?list=PLXKYdmFHcjdg) - **prazo máximo dia 28/9/26**
+  ### Trabalho 2 (2 pontos+extras...) [playlist](https://www.youtube.com/playlist?list=PLXKYdmFHcjdg) - **prazo máximo dia 4/10/26**  - [link para envio](https://forms.gle/KzXFfZhmXNKBFmVR6)
   * Usando a metodologia de registro de IA, fazer uma função para imprimir os valores Float7 em Ascii na memória e uma função para ler um numero em Ascii e converter para float7
   * Testar as funções com os algoritmos de multiplicação e soma.
   * **1 ponto extra**, generalizar a função e os algoritmos para N bits de expoente e M bits de Mantissa.
