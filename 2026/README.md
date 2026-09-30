@@ -71,6 +71,10 @@
   * [Simulador Risc-V de 2023 com MatplotLib](https://colab.research.google.com/drive/170qxfdCPs-d4qSeHA-WC6UKM5jMce78g?usp=sharing)
   * [Simulador Risc-V de 2024 com Inkscape e novas intruções](https://colab.research.google.com/drive/1a1dwiNJMDLUTf2lX_ShfILq77r4PWP7C?usp=sharing)
   * [Prova 2 de 2025](https://docs.google.com/document/d/10NmzEHv4ocLH7CZEQnoZKOkn_r3PvPzi9yssfhhYJUo/edit?usp=sharing)
+
+    ### Aulas
+    * [29 set 26 - Introdução ao caminho de Dados e as cinco classes de instruções](https://www.youtube.com/playlist?list=PLKnjmCjRapOQ)
+    * [1 out 26 - Explicação passo a passo no Código Verilog]()
  ---
  ## Trabalho 3 - 4 pontos 
   * Instruções para KNN com vetorização
