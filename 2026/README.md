@@ -76,10 +76,9 @@
     * [29 set 26 - Introdução ao caminho de Dados e as cinco classes de instruções](https://www.youtube.com/playlist?list=PLKnjmCjRapOQ)
     * [1 out 26 - Explicação passo a passo no Código Verilog]()
  ---
- ## Trabalho 3 - 4 pontos 
+ ## Trabalho 3 - 4 pontos - [colab](https://colab.research.google.com/drive/1WDzpxby4PcB89h92rjKdxZCQHRHLYsym?usp=sharing)
   * Instruções para KNN com vetorização
-  * Intruções para árvores Boost com vetorização
-  * Acoplamento com sklearn e XGboost, teste com Mnist 
+  * Acoplamento com sklearn, teste inicial com digits e depois com Mnist 
   * Contadores de instruções
   * Geradores de código
   * Incluir Cache e contadores de falhas - **3 pontos extras dependendo dos recursos**
