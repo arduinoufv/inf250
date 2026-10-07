@@ -74,7 +74,8 @@
 
     ### Aulas
     * [29 set 26 - Introdução ao caminho de Dados e as cinco classes de instruções](https://www.youtube.com/playlist?list=PLKnjmCjRapOQ)
-    * [1 out 26 - Explicação passo a passo no Código Verilog]()
+    * [1 out 26 - Explicação passo a passo no Código Verilog](https://www.youtube.com/playlist?list=PLT4p4Y5lJoEs)
+    * [6 out 26 - Criando uma nova instrução passo a passo](https://www.youtube.com/playlist?list=PLSsSTouF-fOM) [Colab ADD4](https://colab.research.google.com/drive/1ziKrxF1q9x1Lgi32wNj_KzUCiYDtNRjC?usp=sharing) e [Prompt](https://colab.research.google.com/drive/1K4oUTsytdKYVtEsi9vdgsMWtTPlYdGt0?usp=sharing)
  ---
  ## Trabalho 3 - 4 pontos - [colab](https://colab.research.google.com/drive/1WDzpxby4PcB89h92rjKdxZCQHRHLYsym?usp=sharing)
   * Instruções para KNN com vetorização
