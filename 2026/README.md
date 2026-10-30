@@ -78,6 +78,8 @@
     * [6 out 26 - Criando uma nova instrução passo a passo](https://www.youtube.com/playlist?list=PLSsSTouF-fOM) [Colab ADD4](https://colab.research.google.com/drive/1ziKrxF1q9x1Lgi32wNj_KzUCiYDtNRjC?usp=sharing) e [Prompt](https://colab.research.google.com/drive/1K4oUTsytdKYVtEsi9vdgsMWtTPlYdGt0?usp=sharing)
 
     ### Prova 2 5/11 no PVA 153 - [Prova de 2026 - TEMPLATE e distribuição de pontos](https://youtu.be/K_Q7CwysS0c)
+    * [Material escrito - livro - capitulo 4 - Seção Monociclo](https://github.com/arduinoufv/inf250/blob/master/2024/assembly.md#livros)
+    * [slide - capitulo 4 - Seção Monociclo (sem pipeline)](https://docs.google.com/presentation/d/1ztqfccs7TybpBk6Xqyg3BRS_BEc2WtihyqBCcf3xrYM/edit?usp=sharing)
     * [video aula de novas instruções de 2026](https://www.youtube.com/playlist?list=PLKi9LzwwX37w)
     * [video aula de 2025 com exemplos de rastreio das instruções no codigo e desenho](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kHLdmvAVbJ4KJwLrJNTZGr)
     * [video aula de 2025 dos exemplos de novas instruções](https://www.youtube.com/playlist?list=PLcvOyD_LMr6kqJ7TITnV8am41kpMkYFQS)
